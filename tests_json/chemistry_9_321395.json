@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "модо тапсырмалары.pdf",
-  "total_questions": 204,
-  "verified_questions": 204,
+  "total_questions": 243,
+  "verified_questions": 243,
   "answer_sources_distribution": {
     "ai_solved": 248
   },
@@ -47,7 +47,7 @@
       "id": "v1_q6",
       "variant": "1-нұсқа",
       "question_number": 6,
-      "question_text": "Тек өсімдіктерге тән екі мембраналы органоид\n\n<img src=\"images/bio321395_p3_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тек өсімдіктерге тән екі мембраналы органоид",
       "options": [
         {
           "key": "A",
@@ -78,7 +78,7 @@
       "id": "v1_q7",
       "variant": "1-нұсқа",
       "question_number": 7,
-      "question_text": "Май мен нәруызды заттардан түзіліп, жасушаның сыртын қаптайды\n\n<img src=\"images/bio321395_p3_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Май мен нәруызды заттардан түзіліп, жасушаның сыртын қаптайды",
       "options": [
         {
           "key": "A",
@@ -109,7 +109,7 @@
       "id": "v1_q8",
       "variant": "1-нұсқа",
       "question_number": 8,
-      "question_text": "Өз майлары мен көмірсуларын синтездеп, жасуша ішіне заттар тасымалдау қызметін атқарады\n\n<img src=\"images/bio321395_p3_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Өз майлары мен көмірсуларын синтездеп, жасуша ішіне заттар тасымалдау қызметін атқарады",
       "options": [
         {
           "key": "A",
@@ -129,7 +129,7 @@
         },
         {
           "key": "E",
-          "text": "Митохондрия "
+          "text": "Митохондрия"
         }
       ],
       "correct_answer": "A",
@@ -175,23 +175,23 @@
       "options": [
         {
           "key": "A",
-          "text": " Жабын ұлпасы"
+          "text": "Жабын ұлпасы"
         },
         {
           "key": "B",
-          "text": " Түзуші ұлпа"
+          "text": "Түзуші ұлпа"
         },
         {
           "key": "C",
-          "text": " Өткізгіш ұлпа"
+          "text": "Өткізгіш ұлпа"
         },
         {
           "key": "D",
-          "text": " Тірек ұлпасы"
+          "text": "Тірек ұлпасы"
         },
         {
           "key": "E",
-          "text": " Бөліп шығарушы ұлпа"
+          "text": "Бөліп шығарушы ұлпа"
         }
       ],
       "correct_answer": "A",
@@ -206,23 +206,23 @@
       "options": [
         {
           "key": "A",
-          "text": " Жабын ұлпасы"
+          "text": "Жабын ұлпасы"
         },
         {
           "key": "B",
-          "text": " Түзуші ұлпа"
+          "text": "Түзуші ұлпа"
         },
         {
           "key": "C",
-          "text": " Өткізгіш ұлпа"
+          "text": "Өткізгіш ұлпа"
         },
         {
           "key": "D",
-          "text": " Тірек ұлпасы"
+          "text": "Тірек ұлпасы"
         },
         {
           "key": "E",
-          "text": " Бөліп шығарушы ұлпа"
+          "text": "Бөліп шығарушы ұлпа"
         }
       ],
       "correct_answer": "A",
@@ -261,10 +261,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v3_q5",
-      "variant": "3-нұсқа",
+      "id": "v2_q5",
+      "variant": "2-нұсқа",
       "question_number": 5,
-      "question_text": "Қорғаныш және бүйрек пен ішекте заттарды сіңіру қызметін атқаратын ұлпа\n\n<img src=\"images/bio321395_p5_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қорғаныш және бүйрек пен ішекте заттарды сіңіру қызметін атқаратын ұлпа",
       "options": [
         {
           "key": "A",
@@ -292,10 +292,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v3_q6",
-      "variant": "3-нұсқа",
+      "id": "v2_q6",
+      "variant": "2-нұсқа",
       "question_number": 6,
-      "question_text": "Байлам, сіңір, қан тамырлары қабырғасының негізін құрайды\n\n<img src=\"images/bio321395_p5_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Байлам, сіңір, қан тамырлары қабырғасының негізін құрайды",
       "options": [
         {
           "key": "A",
@@ -323,10 +323,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v3_q7",
-      "variant": "3-нұсқа",
+      "id": "v2_q7",
+      "variant": "2-нұсқа",
       "question_number": 7,
-      "question_text": "Жүйке ұлпасының негізгі жасушалары\n\n<img src=\"images/bio321395_p5_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жүйке ұлпасының негізгі жасушалары",
       "options": [
         {
           "key": "A",
@@ -354,10 +354,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v3_q8",
-      "variant": "3-нұсқа",
+      "id": "v2_q8",
+      "variant": "2-нұсқа",
       "question_number": 8,
-      "question_text": "Бұл ұлпаның жасушалары бір ядролы және қажымайды\n\n<img src=\"images/bio321395_p5_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бұл ұлпаның жасушалары бір ядролы және қажымайды",
       "options": [
         {
           "key": "A",
@@ -377,7 +377,7 @@
         },
         {
           "key": "E",
-          "text": "Біріңғай салалы бұлшық ет "
+          "text": "Біріңғай салалы бұлшық ет"
         }
       ],
       "correct_answer": "A",
@@ -509,8 +509,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v4_q5",
-      "variant": "4-нұсқа",
+      "id": "v3_q5",
+      "variant": "3-нұсқа",
       "question_number": 5,
       "question_text": "Ауылшаруашылық өсімдіктерін қорғау үшін қолданылатын химиялық зат",
       "options": [
@@ -540,8 +540,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v4_q6",
-      "variant": "4-нұсқа",
+      "id": "v3_q6",
+      "variant": "3-нұсқа",
       "question_number": 6,
       "question_text": "Арамшөптерді жоюға бағытталған пестицид",
       "options": [
@@ -571,8 +571,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v4_q7",
-      "variant": "4-нұсқа",
+      "id": "v3_q7",
+      "variant": "3-нұсқа",
       "question_number": 7,
       "question_text": "Бунақденелілерді жоюға бағытталған пестицид",
       "options": [
@@ -602,8 +602,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v4_q8",
-      "variant": "4-нұсқа",
+      "id": "v3_q8",
+      "variant": "3-нұсқа",
       "question_number": 8,
       "question_text": "Саңырауқұлақтарды жоюға бағытталған пестицид",
       "options": [
@@ -625,9 +625,49 @@
         },
         {
           "key": "E",
-          "text": "Гиберилин "
+          "text": "Гиберилин"
         }
       ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v4_q1",
+      "variant": "4-нұсқа",
+      "question_number": 1,
+      "question_text": "Тамыр арқылы жүзеге асатын қоректену түрі a) Ауа арқылы b) Жел арқылы c) Күн арқылы d) Минералды e) Механикалық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v4_q2",
+      "variant": "4-нұсқа",
+      "question_number": 2,
+      "question_text": "Жапырақ қызметіне жатпайды a) Фотосинтез b) Судың булануы c) Газ алмасу d) Тұздар сіңіру e) Қор жинау",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v4_q3",
+      "variant": "4-нұсқа",
+      "question_number": 3,
+      "question_text": "Жапрықтың сыртқы құрылысына жатады a) Борпылдақ мезофилл b) Бағаналы мезофилл c) Өткізгіш шоқ d) Жапырақ тақтасы e) Жанаспалы жасуша",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v4_q4",
+      "variant": "4-нұсқа",
+      "question_number": 4,
+      "question_text": "Жанаспал жасушалар ортасында орналасады a) Борпылдақ мезофилл b) Бағаналы мезофилл c) Өткізгіш шоқ d) Тыныс саңылауы e) Өң жасушалары Қанайналым жүйесі — денедегі қан немесе гемолимфаның үздіксіз қозғалысын қамтамасыз ететін тамырлар мен қуыстардың жүйесі. Көптеген омыртқасыз жәндіктерде қанайналым жүйесі тұйықталмаған, яғни қан тамырларының аралықтарында қан құйылатын саңылаулы қуыстар болады. Адам мен барлық омыртқалы жануарларда және кейбір жоғары сатыдағы омыртқасыз жәндіктерде қанайналым жүйесі тұйықталған, яғни қан тек бір- бірімен толық байланысып жалғасып жатқан қан тамырлары арқылы ғана қозғалады.",
+      "options": [],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -636,7 +676,7 @@
       "id": "v4_q5",
       "variant": "4-нұсқа",
       "question_number": 5,
-      "question_text": " Алғаш рет қан және қантамырлар жүйесі пайда болды",
+      "question_text": "Алғаш рет қан және қантамырлар жүйесі пайда болды",
       "options": [
         {
           "key": "A",
@@ -667,7 +707,7 @@
       "id": "v4_q6",
       "variant": "4-нұсқа",
       "question_number": 6,
-      "question_text": " Буылтық құрттардың қан тамырлар жүйесі",
+      "question_text": "Буылтық құрттардың қан тамырлар жүйесі",
       "options": [
         {
           "key": "A",
@@ -698,7 +738,7 @@
       "id": "v4_q7",
       "variant": "4-нұсқа",
       "question_number": 7,
-      "question_text": " Буылтық құрттарда жүректің рөлін атқарады",
+      "question_text": "Буылтық құрттарда жүректің рөлін атқарады",
       "options": [
         {
           "key": "A",
@@ -729,7 +769,7 @@
       "id": "v4_q8",
       "variant": "4-нұсқа",
       "question_number": 8,
-      "question_text": " Ұлулардың қан айналым жүйесі",
+      "question_text": "Ұлулардың қан айналым жүйесі",
       "options": [
         {
           "key": "A",
@@ -741,7 +781,15 @@
         },
         {
           "key": "C",
-          "text": "Артерия "
+          "text": "Артерия"
+        },
+        {
+          "key": "D",
+          "text": "Вена"
+        },
+        {
+          "key": "E",
+          "text": "Қан тамырлар жүйесі жоқ"
         }
       ],
       "correct_answer": "A",
@@ -752,7 +800,7 @@
       "id": "v5_q1",
       "variant": "5-нұсқа",
       "question_number": 1,
-      "question_text": "Қызыл иектен шығып тұратын тіс бөлігі\n\n<img src=\"images/bio321395_p9_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қызыл иектен шығып тұратын тіс бөлігі",
       "options": [
         {
           "key": "A",
@@ -783,7 +831,7 @@
       "id": "v5_q2",
       "variant": "5-нұсқа",
       "question_number": 2,
-      "question_text": "Тістің қызыл иекпен жабылған бөлігі\n\n<img src=\"images/bio321395_p9_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тістің қызыл иекпен жабылған бөлігі",
       "options": [
         {
           "key": "A",
@@ -814,7 +862,7 @@
       "id": "v5_q3",
       "variant": "5-нұсқа",
       "question_number": 3,
-      "question_text": "Тістегі жүйке талшықтары мен қан тамырлары түсетін тесік\n\n<img src=\"images/bio321395_p9_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тістегі жүйке талшықтары мен қан тамырлары түсетін тесік",
       "options": [
         {
           "key": "A",
@@ -845,7 +893,7 @@
       "id": "v5_q4",
       "variant": "5-нұсқа",
       "question_number": 4,
-      "question_text": "Ағзаның ең қатты ұлпасы\n\n<img src=\"images/bio321395_p9_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ағзаның ең қатты ұлпасы",
       "options": [
         {
           "key": "A",
@@ -865,7 +913,7 @@
         },
         {
           "key": "E",
-          "text": "Түбірі Суретте тістің топтары берілген"
+          "text": "Түбірі"
         }
       ],
       "correct_answer": "A",
@@ -888,7 +936,15 @@
         },
         {
           "key": "C",
-          "text": "3 "
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "Адамда күрек тіс жоқ"
         }
       ],
       "correct_answer": "A",
@@ -896,8 +952,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v6_q6",
-      "variant": "6-нұсқа",
+      "id": "v5_q6",
+      "variant": "5-нұсқа",
       "question_number": 6,
       "question_text": "Күрек тістің екі шетінде пішіні үшкірлеу келген тістер",
       "options": [
@@ -927,8 +983,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v6_q7",
-      "variant": "6-нұсқа",
+      "id": "v5_q7",
+      "variant": "5-нұсқа",
       "question_number": 7,
       "question_text": "Кесетін жиегі бар тістер",
       "options": [
@@ -958,8 +1014,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v6_q8",
-      "variant": "6-нұсқа",
+      "id": "v5_q8",
+      "variant": "5-нұсқа",
       "question_number": 8,
       "question_text": "Сүт тістері түсе бастайды",
       "options": [
@@ -981,7 +1037,7 @@
         },
         {
           "key": "E",
-          "text": "18-20 жаста 6 – нұсқа"
+          "text": "18-20 жаста"
         }
       ],
       "correct_answer": "A",
@@ -992,7 +1048,7 @@
       "id": "v6_q1",
       "variant": "6-нұсқа",
       "question_number": 1,
-      "question_text": " Дұрыс тамақтану туралы ғылым",
+      "question_text": "Дұрыс тамақтану туралы ғылым",
       "options": [
         {
           "key": "A",
@@ -1023,7 +1079,7 @@
       "id": "v6_q2",
       "variant": "6-нұсқа",
       "question_number": 2,
-      "question_text": " Дәрумендерді 1880 жылы ашты",
+      "question_text": "Дәрумендерді 1880 жылы ашты",
       "options": [
         {
           "key": "A",
@@ -1054,7 +1110,7 @@
       "id": "v6_q3",
       "variant": "6-нұсқа",
       "question_number": 3,
-      "question_text": " Суда еритін дірумендер",
+      "question_text": "Суда еритін дірумендер",
       "options": [
         {
           "key": "A",
@@ -1082,10 +1138,81 @@
       "verification_status": "verified"
     },
     {
+      "id": "v6_q4",
+      "variant": "6-нұсқа",
+      "question_number": 4,
+      "question_text": "Майда еритін дңрумендер",
+      "options": [
+        {
+          "key": "A",
+          "text": "К, Е, Д, А"
+        },
+        {
+          "key": "B",
+          "text": "В1, В2,В3"
+        },
+        {
+          "key": "C",
+          "text": "С, РР, В"
+        },
+        {
+          "key": "D",
+          "text": "Гипервитаминоз"
+        },
+        {
+          "key": "E",
+          "text": "Д, С, РР, В"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v6_q1",
+      "variant": "6-нұсқа",
+      "question_number": 1,
+      "question_text": "Ағзаның жұқпалы ауруларға қарсы тұруын арттырады. Ол антидене синтездейтін ферменттердің құрамына кіреді.",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v6_q2",
+      "variant": "6-нұсқа",
+      "question_number": 2,
+      "question_text": "Сүйек пен тістің берік болуына әсер етеді.",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v6_q3",
+      "variant": "6-нұсқа",
+      "question_number": 3,
+      "question_text": "Эпителий ұлпасының қалпына келу жылдамдығын арттырады. Соның нәтижесінде қан тамырларының серпімділігі (эластикалығы) жоғарылап, оның зақымдануына және тозуына кедергі келтіреді.",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v6_q4",
+      "variant": "6-нұсқа",
+      "question_number": 4,
+      "question_text": "Биологиялық тотығу кезінде бөлінетін зиянды заттардың (бос радикал деп аталатын) бұзылуына қатысады.",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
       "id": "v6_q5",
       "variant": "6-нұсқа",
       "question_number": 5,
-      "question_text": " Тәуліктік мөлшері ең көп дәрумен",
+      "question_text": "Тәуліктік мөлшері ең көп дәрумен",
       "options": [
         {
           "key": "A",
@@ -1116,7 +1243,7 @@
       "id": "v6_q6",
       "variant": "6-нұсқа",
       "question_number": 6,
-      "question_text": " С дәруменіінің авитоминозы (жетіспеуі) кезінде дамиды",
+      "question_text": "С дәруменіінің авитоминозы (жетіспеуі) кезінде дамиды",
       "options": [
         {
           "key": "A",
@@ -1147,7 +1274,7 @@
       "id": "v6_q7",
       "variant": "6-нұсқа",
       "question_number": 7,
-      "question_text": " В1 (тиамин) авитоминозы (жетіспеуі) кезінде дамиды",
+      "question_text": "В1 (тиамин) авитоминозы (жетіспеуі) кезінде дамиды",
       "options": [
         {
           "key": "A",
@@ -1178,7 +1305,7 @@
       "id": "v6_q8",
       "variant": "6-нұсқа",
       "question_number": 8,
-      "question_text": " С дәруменінің тәуліктік қажет мөлшері",
+      "question_text": "С дәруменінің тәуліктік қажет мөлшері",
       "options": [
         {
           "key": "A",
@@ -1198,7 +1325,7 @@
         },
         {
           "key": "E",
-          "text": "12,5 мг "
+          "text": "12,5 мг"
         }
       ],
       "correct_answer": "A",
@@ -1209,7 +1336,7 @@
       "id": "v7_q1",
       "variant": "7-нұсқа",
       "question_number": 1,
-      "question_text": "А авитоминозы (жетіспеуі) кезінде дамиды\n\n<img src=\"images/bio321395_p12_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "А авитоминозы (жетіспеуі) кезінде дамиды",
       "options": [
         {
           "key": "A",
@@ -1240,7 +1367,7 @@
       "id": "v7_q2",
       "variant": "7-нұсқа",
       "question_number": 2,
-      "question_text": "Ағзаның өсуі және дамуы, эпителий ұлпасы жасушаларының: тері, шаш, шырышты қабықтың жаңаруы, қалыпты көру үшін қажет\n\n<img src=\"images/bio321395_p12_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ағзаның өсуі және дамуы, эпителий ұлпасы жасушаларының: тері, шаш, шырышты қабықтың жаңаруы, қалыпты көру үшін қажет",
       "options": [
         {
           "key": "A",
@@ -1271,7 +1398,7 @@
       "id": "v7_q3",
       "variant": "7-нұсқа",
       "question_number": 3,
-      "question_text": "А дәруменінің ізашарлары өсімдіктердің қызыл, сары пигменттері\n\n<img src=\"images/bio321395_p12_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "А дәруменінің ізашарлары өсімдіктердің қызыл, сары пигменттері",
       "options": [
         {
           "key": "A",
@@ -1279,11 +1406,11 @@
         },
         {
           "key": "B",
-          "text": " Ксонтофилл"
+          "text": "Ксонтофилл"
         },
         {
           "key": "C",
-          "text": " Каротин"
+          "text": "Каротин"
         },
         {
           "key": "D",
@@ -1291,7 +1418,7 @@
         },
         {
           "key": "E",
-          "text": " Флавон"
+          "text": "Флавон"
         }
       ],
       "correct_answer": "A",
@@ -1302,7 +1429,7 @@
       "id": "v7_q4",
       "variant": "7-нұсқа",
       "question_number": 4,
-      "question_text": "А дәруменінің тәуліктік қажет мөлшері\n\n<img src=\"images/bio321395_p12_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "А дәруменінің тәуліктік қажет мөлшері",
       "options": [
         {
           "key": "A",
@@ -1310,11 +1437,11 @@
         },
         {
           "key": "B",
-          "text": " 1 – 2  мг"
+          "text": "1 – 2  мг"
         },
         {
           "key": "C",
-          "text": " 3,5 мг"
+          "text": "3,5 мг"
         },
         {
           "key": "D",
@@ -1322,7 +1449,7 @@
         },
         {
           "key": "E",
-          "text": " 12,5 мг"
+          "text": "12,5 мг"
         }
       ],
       "correct_answer": "A",
@@ -1337,11 +1464,23 @@
       "options": [
         {
           "key": "A",
-          "text": " В1"
+          "text": "В1"
         },
         {
           "key": "B",
-          "text": " С"
+          "text": "С"
+        },
+        {
+          "key": "C",
+          "text": "Д"
+        },
+        {
+          "key": "D",
+          "text": "А"
+        },
+        {
+          "key": "E",
+          "text": "В12"
         }
       ],
       "correct_answer": "A",
@@ -1349,30 +1488,30 @@
       "verification_status": "verified"
     },
     {
-      "id": "v8_q6",
-      "variant": "8-нұсқа",
+      "id": "v7_q6",
+      "variant": "7-нұсқа",
       "question_number": 6,
       "question_text": "Орталық жүйке жүйесінің қалыпты жұмыс істеуі, сондай-ақ зат алмасу және қан түзілу үшін маңызы зор",
       "options": [
         {
           "key": "A",
-          "text": " В1"
+          "text": "В1"
         },
         {
           "key": "B",
-          "text": " С"
+          "text": "С"
         },
         {
           "key": "C",
-          "text": " В2 (рибофлавин)"
+          "text": "В2 (рибофлавин)"
         },
         {
           "key": "D",
-          "text": " А"
+          "text": "А"
         },
         {
           "key": "E",
-          "text": " В12"
+          "text": "В12"
         }
       ],
       "correct_answer": "A",
@@ -1380,30 +1519,30 @@
       "verification_status": "verified"
     },
     {
-      "id": "v8_q7",
-      "variant": "8-нұсқа",
+      "id": "v7_q7",
+      "variant": "7-нұсқа",
       "question_number": 7,
       "question_text": "Нәруыздардың алмасуын реттейді, ағзаның темірді пайдалануына, эритроциттердің жетілуіне әсер етеді, майлардың алмасуын, бауыр мен терідегі дұрыс зат алмасуын қамтамасыз етеді",
       "options": [
         {
           "key": "A",
-          "text": " В1"
+          "text": "В1"
         },
         {
           "key": "B",
-          "text": " С"
+          "text": "С"
         },
         {
           "key": "C",
-          "text": " В2 (рибофлавин)"
+          "text": "В2 (рибофлавин)"
         },
         {
           "key": "D",
-          "text": " А"
+          "text": "А"
         },
         {
           "key": "E",
-          "text": " В6(пиридоксин)"
+          "text": "В6(пиридоксин)"
         }
       ],
       "correct_answer": "A",
@@ -1411,30 +1550,30 @@
       "verification_status": "verified"
     },
     {
-      "id": "v8_q8",
-      "variant": "8-нұсқа",
+      "id": "v7_q8",
+      "variant": "7-нұсқа",
       "question_number": 8,
       "question_text": "Қан түзілу үшін қажет, ол бауырдың қызметін реттейді, жүйке ұлпасы жасушаларының жаңаруына қатысады, бұл дәрумен жетіспесе қатерлі анемия ауруын тудырады",
       "options": [
         {
           "key": "A",
-          "text": " В1"
+          "text": "В1"
         },
         {
           "key": "B",
-          "text": " В12 (цианкобаламин)"
+          "text": "В12 (цианкобаламин)"
         },
         {
           "key": "C",
-          "text": " В2 (рибофлавин)"
+          "text": "В2 (рибофлавин)"
         },
         {
           "key": "D",
-          "text": " А"
+          "text": "А"
         },
         {
           "key": "E",
-          "text": " В6(пиридоксин)"
+          "text": "В6(пиридоксин)"
         }
       ],
       "correct_answer": "A",
@@ -1473,10 +1612,41 @@
       "verification_status": "verified"
     },
     {
+      "id": "v8_q2",
+      "variant": "8-нұсқа",
+      "question_number": 2,
+      "question_text": "Астың ыдырау реакциясын тездететін, яғни органикалық заттарды қорытатын нәруыз",
+      "options": [
+        {
+          "key": "A",
+          "text": "Абсорбция(сіңіру)"
+        },
+        {
+          "key": "B",
+          "text": "Реабсорбция(қайта сіңіру)"
+        },
+        {
+          "key": "C",
+          "text": "Асқорыту ферметтері"
+        },
+        {
+          "key": "D",
+          "text": "Асқорыту бездері"
+        },
+        {
+          "key": "E",
+          "text": "Асқорыту заттары"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
       "id": "v8_q3",
       "variant": "8-нұсқа",
       "question_number": 3,
-      "question_text": "Ас қорыту барысында түзілетін органикалық заттардың ұсақ молекулаларының ішек қабырғасы арқылы қанға және лимфаға өтетін физиологиялық үдеріс\n\n<img src=\"images/bio321395_p14_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ас қорыту барысында түзілетін органикалық заттардың ұсақ молекулаларының ішек қабырғасы арқылы қанға және лимфаға өтетін физиологиялық үдеріс",
       "options": [
         {
           "key": "A",
@@ -1507,7 +1677,7 @@
       "id": "v8_q4",
       "variant": "8-нұсқа",
       "question_number": 4,
-      "question_text": "Ауыз қуысында ыдырайды\n\n<img src=\"images/bio321395_p14_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ауыз қуысында ыдырайды",
       "options": [
         {
           "key": "A",
@@ -1527,7 +1697,7 @@
         },
         {
           "key": "E",
-          "text": "Жасунық "
+          "text": "Жасунық"
         }
       ],
       "correct_answer": "A",
@@ -1538,7 +1708,7 @@
       "id": "v8_q5",
       "variant": "8-нұсқа",
       "question_number": 5,
-      "question_text": "Дәрумендер мен минералды тұздар сіңіріледі\n\n<img src=\"images/bio321395_p14_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Дәрумендер мен минералды тұздар сіңіріледі",
       "options": [
         {
           "key": "A",
@@ -1569,7 +1739,7 @@
       "id": "v8_q6",
       "variant": "8-нұсқа",
       "question_number": 6,
-      "question_text": "Тыныс алу және асқорыту жүйесінің ортақ бөлімі\n\n<img src=\"images/bio321395_p14_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тыныс алу және асқорыту жүйесінің ортақ бөлімі",
       "options": [
         {
           "key": "A",
@@ -1597,8 +1767,39 @@
       "verification_status": "verified"
     },
     {
-      "id": "v9_q8",
-      "variant": "9-нұсқа",
+      "id": "v8_q7",
+      "variant": "8-нұсқа",
+      "question_number": 7,
+      "question_text": "Бауыр және ұйқы безінің өзектері ашылады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Аш ішекке"
+        },
+        {
+          "key": "B",
+          "text": "Тоқ ішекке"
+        },
+        {
+          "key": "C",
+          "text": "Ұлтабарға"
+        },
+        {
+          "key": "D",
+          "text": "Ішек бүрлеріне"
+        },
+        {
+          "key": "E",
+          "text": "Бауырға"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v8_q8",
+      "variant": "8-нұсқа",
       "question_number": 8,
       "question_text": "Ащы ішектің қалған бөлімдері қорытылған заттарды қанға және лимфаға сіңіріледі",
       "options": [
@@ -1620,7 +1821,7 @@
         },
         {
           "key": "E",
-          "text": "Амилаза арқылы "
+          "text": "Амилаза арқылы"
         }
       ],
       "correct_answer": "A",
@@ -1631,7 +1832,7 @@
       "id": "v9_q1",
       "variant": "9-нұсқа",
       "question_number": 1,
-      "question_text": " Ауыз қуысында ыдырайды",
+      "question_text": "Ауыз қуысында ыдырайды",
       "options": [
         {
           "key": "F",
@@ -1662,7 +1863,7 @@
       "id": "v9_q2",
       "variant": "9-нұсқа",
       "question_number": 2,
-      "question_text": " Көмірсуларды ыдыратады",
+      "question_text": "Көмірсуларды ыдыратады",
       "options": [
         {
           "key": "A",
@@ -1693,7 +1894,7 @@
       "id": "v9_q3",
       "variant": "9-нұсқа",
       "question_number": 3,
-      "question_text": " Кейбір зиянды бактериялар жойылады",
+      "question_text": "Кейбір зиянды бактериялар жойылады",
       "options": [
         {
           "key": "A",
@@ -1705,7 +1906,15 @@
         },
         {
           "key": "C",
-          "text": "Липаза әсерінен "
+          "text": "Липаза әсерінен"
+        },
+        {
+          "key": "D",
+          "text": "Лизоцим әсерінен"
+        },
+        {
+          "key": "E",
+          "text": "Пепсин әсерінен"
         }
       ],
       "correct_answer": "A",
@@ -1713,10 +1922,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v10_q4",
-      "variant": "10-нұсқа",
+      "id": "v9_q4",
+      "variant": "9-нұсқа",
       "question_number": 4,
-      "question_text": " Пепсин ферментін белсенділігін арттырады",
+      "question_text": "Пепсин ферментін белсенділігін арттырады",
       "options": [
         {
           "key": "A",
@@ -1744,10 +1953,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v10_q5",
-      "variant": "10-нұсқа",
+      "id": "v9_q5",
+      "variant": "9-нұсқа",
       "question_number": 5,
-      "question_text": " Бауырдың секреті",
+      "question_text": "Бауырдың секреті",
       "options": [
         {
           "key": "A",
@@ -1775,10 +1984,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v10_q6",
-      "variant": "10-нұсқа",
+      "id": "v9_q6",
+      "variant": "9-нұсқа",
       "question_number": 6,
-      "question_text": " Тәулігіне адамнан өт түзіледі",
+      "question_text": "Тәулігіне адамнан өт түзіледі",
       "options": [
         {
           "key": "A",
@@ -1806,10 +2015,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v10_q7",
-      "variant": "10-нұсқа",
+      "id": "v9_q7",
+      "variant": "9-нұсқа",
       "question_number": 7,
-      "question_text": " Өт пигменті",
+      "question_text": "Өт пигменті",
       "options": [
         {
           "key": "A",
@@ -1837,10 +2046,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v10_q8",
-      "variant": "10-нұсқа",
+      "id": "v9_q8",
+      "variant": "9-нұсқа",
       "question_number": 8,
-      "question_text": " Өт қышқылдарының бейтарап майларды орасан көп мөлшерде ұсақ тамшыларға бөлу үдерісі",
+      "question_text": "Өт қышқылдарының бейтарап майларды орасан көп мөлшерде ұсақ тамшыларға бөлу үдерісі",
       "options": [
         {
           "key": "A",
@@ -1860,7 +2069,7 @@
         },
         {
           "key": "E",
-          "text": "Фотолиз "
+          "text": "Фотолиз"
         }
       ],
       "correct_answer": "A",
@@ -1871,7 +2080,7 @@
       "id": "v10_q1",
       "variant": "10-нұсқа",
       "question_number": 1,
-      "question_text": "Қан мен дененің барлық жасушалары арасында «делдал» рөлін атқарады\n\n<img src=\"images/bio321395_p17_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан мен дененің барлық жасушалары арасында «делдал» рөлін атқарады",
       "options": [
         {
           "key": "A",
@@ -1902,7 +2111,7 @@
       "id": "v10_q2",
       "variant": "10-нұсқа",
       "question_number": 2,
-      "question_text": "Ұлпа сұйықтығы түзіледі\n\n<img src=\"images/bio321395_p17_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ұлпа сұйықтығы түзіледі",
       "options": [
         {
           "key": "A",
@@ -1933,7 +2142,7 @@
       "id": "v10_q3",
       "variant": "10-нұсқа",
       "question_number": 3,
-      "question_text": "Ұлпа сұйықтығы айналады\n\n<img src=\"images/bio321395_p17_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ұлпа сұйықтығы айналады",
       "options": [
         {
           "key": "A",
@@ -1964,7 +2173,7 @@
       "id": "v10_q4",
       "variant": "10-нұсқа",
       "question_number": 4,
-      "question_text": "Лимфа тасмалдайтын органикалық зат\n\n<img src=\"images/bio321395_p17_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Лимфа тасмалдайтын органикалық зат",
       "options": [
         {
           "key": "A",
@@ -1984,7 +2193,7 @@
         },
         {
           "key": "E",
-          "text": "Су "
+          "text": "Су"
         }
       ],
       "correct_answer": "A",
@@ -1995,7 +2204,7 @@
       "id": "v10_q5",
       "variant": "10-нұсқа",
       "question_number": 5,
-      "question_text": "Қан плазмасындағы нәруыз фибриногеннің қызметі\n\n<img src=\"images/bio321395_p17_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан плазмасындағы нәруыз фибриногеннің қызметі",
       "options": [
         {
           "key": "A",
@@ -2003,7 +2212,19 @@
         },
         {
           "key": "B",
-          "text": "Май тәрізді заттарды тасымалдау "
+          "text": "Май тәрізді заттарды тасымалдау"
+        },
+        {
+          "key": "C",
+          "text": "Қанның ұюы"
+        },
+        {
+          "key": "D",
+          "text": "Энергия көзі"
+        },
+        {
+          "key": "E",
+          "text": "Жылуды реттеу"
         }
       ],
       "correct_answer": "A",
@@ -2011,10 +2232,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v11_q6",
-      "variant": "11-нұсқа",
+      "id": "v10_q6",
+      "variant": "10-нұсқа",
       "question_number": 6,
-      "question_text": "Қан плазмасындағы нәруыз глобулин қызметі\n\n<img src=\"images/bio321395_p18_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан плазмасындағы нәруыз глобулин қызметі",
       "options": [
         {
           "key": "A",
@@ -2042,10 +2263,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v11_q7",
-      "variant": "11-нұсқа",
+      "id": "v10_q7",
+      "variant": "10-нұсқа",
       "question_number": 7,
-      "question_text": "Қан плазмасындағы нәруыз альбумин қызметі\n\n<img src=\"images/bio321395_p18_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан плазмасындағы нәруыз альбумин қызметі",
       "options": [
         {
           "key": "A",
@@ -2073,10 +2294,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v11_q8",
-      "variant": "11-нұсқа",
+      "id": "v10_q8",
+      "variant": "10-нұсқа",
       "question_number": 8,
-      "question_text": "Адамның қанының құрамында гемоглобин, темір, эриторциттер мөлшері азаятын болса, туындайтын ауру\n\n<img src=\"images/bio321395_p18_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Адамның қанының құрамында гемоглобин, темір, эриторциттер мөлшері азаятын болса, туындайтын ауру",
       "options": [
         {
           "key": "A",
@@ -2096,7 +2317,7 @@
         },
         {
           "key": "E",
-          "text": "Дифтерия "
+          "text": "Дифтерия"
         }
       ],
       "correct_answer": "A",
@@ -2107,7 +2328,7 @@
       "id": "v11_q1",
       "variant": "11-нұсқа",
       "question_number": 1,
-      "question_text": " Ядросы бар, ұан ағысымен ғана емес , жалған аяқтарымен де қозғалатын, қан тамыры арнасынан шыға алатын ақ қан жасушалары\n\n<img src=\"images/bio321395_p18_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ядросы бар, ұан ағысымен ғана емес , жалған аяқтарымен де қозғалатын, қан тамыры арнасынан шыға алатын ақ қан жасушалары",
       "options": [
         {
           "key": "A",
@@ -2138,7 +2359,7 @@
       "id": "v11_q2",
       "variant": "11-нұсқа",
       "question_number": 2,
-      "question_text": " Ауру тудыратын микробтардан қорғайды, иммунитетті жүзеге асырады\n\n<img src=\"images/bio321395_p18_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ауру тудыратын микробтардан қорғайды, иммунитетті жүзеге асырады",
       "options": [
         {
           "key": "A",
@@ -2146,7 +2367,7 @@
         },
         {
           "key": "B",
-          "text": " Тромбоциттер"
+          "text": "Тромбоциттер"
         }
       ],
       "correct_answer": "A",
@@ -2157,7 +2378,7 @@
       "id": "v11_q3",
       "variant": "11-нұсқа",
       "question_number": 3,
-      "question_text": " Қанның ұю үдерісіне қатысатын, ядросы жоқ, ұсақ қан пластинкалары\n\n<img src=\"images/bio321395_p19_img1.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қанның ұю үдерісіне қатысатын, ядросы жоқ, ұсақ қан пластинкалары",
       "options": [
         {
           "key": "A",
@@ -2188,7 +2409,7 @@
       "id": "v11_q4",
       "variant": "11-нұсқа",
       "question_number": 4,
-      "question_text": " Фибриннің жабысып қалған жіпшелерінен түзілген, ерімейтін ніруыз\n\n<img src=\"images/bio321395_p19_img1.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Фибриннің жабысып қалған жіпшелерінен түзілген, ерімейтін ніруыз",
       "options": [
         {
           "key": "A",
@@ -2219,7 +2440,7 @@
       "id": "v11_q5",
       "variant": "11-нұсқа",
       "question_number": 5,
-      "question_text": " Эритроциттердегі нәруыздар\n\n<img src=\"images/bio321395_p19_img1.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Эритроциттердегі нәруыздар",
       "options": [
         {
           "key": "A",
@@ -2250,7 +2471,7 @@
       "id": "v11_q6",
       "variant": "11-нұсқа",
       "question_number": 6,
-      "question_text": " Плазмадағы нәруыз\n\n<img src=\"images/bio321395_p19_img1.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Плазмадағы нәруыз",
       "options": [
         {
           "key": "A",
@@ -2281,7 +2502,7 @@
       "id": "v11_q7",
       "variant": "11-нұсқа",
       "question_number": 7,
-      "question_text": " Эритроциттердің бір – біріне жабысып қалу үдерісі\n\n<img src=\"images/bio321395_p19_img1.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Эритроциттердің бір – біріне жабысып қалу үдерісі",
       "options": [
         {
           "key": "A",
@@ -2302,6 +2523,37 @@
         {
           "key": "E",
           "text": "Конденсация"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v11_q8",
+      "variant": "11-нұсқа",
+      "question_number": 8,
+      "question_text": "Егер анасының резус – факторы жоқ, ал бала қанында болса",
+      "options": [
+        {
+          "key": "A",
+          "text": "Резус – сәйкессіздік"
+        },
+        {
+          "key": "B",
+          "text": "Резус – сәйкестік"
+        },
+        {
+          "key": "C",
+          "text": "Агглютинация"
+        },
+        {
+          "key": "D",
+          "text": "Рецепиент"
+        },
+        {
+          "key": "E",
+          "text": "Донор"
         }
       ],
       "correct_answer": "A",
@@ -2433,8 +2685,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v13_q5",
-      "variant": "13-нұсқа",
+      "id": "v12_q5",
+      "variant": "12-нұсқа",
       "question_number": 5,
       "question_text": "Антиденелердің түзілуіне жауап береді",
       "options": [
@@ -2464,8 +2716,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v13_q6",
-      "variant": "13-нұсқа",
+      "id": "v12_q6",
+      "variant": "12-нұсқа",
       "question_number": 6,
       "question_text": "Бір аурумен ауырған соң қалыптасатын иммунитет",
       "options": [
@@ -2495,8 +2747,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v13_q7",
-      "variant": "13-нұсқа",
+      "id": "v12_q7",
+      "variant": "12-нұсқа",
       "question_number": 7,
       "question_text": "Медициналық препараттар емдік сарысу немесе вакцина енгізілнен соң пайда болатын  иммунитет",
       "options": [
@@ -2506,11 +2758,11 @@
         },
         {
           "key": "B",
-          "text": " Жүре пайда болған иммунитет"
+          "text": "Жүре пайда болған иммунитет"
         },
         {
           "key": "C",
-          "text": " Туа пайда болған иммунитет"
+          "text": "Туа пайда болған иммунитет"
         },
         {
           "key": "D",
@@ -2518,7 +2770,7 @@
         },
         {
           "key": "E",
-          "text": " Жасанды иммунитет"
+          "text": "Жасанды иммунитет"
         }
       ],
       "correct_answer": "A",
@@ -2526,8 +2778,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v13_q8",
-      "variant": "13-нұсқа",
+      "id": "v12_q8",
+      "variant": "12-нұсқа",
       "question_number": 8,
       "question_text": "Тіршілігі жойылған немесе әлсіздендірілген ауру қоздырғышы, не оның уы",
       "options": [
@@ -2549,7 +2801,7 @@
         },
         {
           "key": "E",
-          "text": "Прибиотик 13 – нұсқа"
+          "text": "Прибиотик"
         }
       ],
       "correct_answer": "A",
@@ -2560,7 +2812,7 @@
       "id": "v13_q1",
       "variant": "13-нұсқа",
       "question_number": 1,
-      "question_text": "Қандауыршада жүрек қызметін атқарады\n\n<img src=\"images/bio321395_p22_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қандауыршада жүрек қызметін атқарады",
       "options": [
         {
           "key": "A",
@@ -2591,7 +2843,7 @@
       "id": "v13_q2",
       "variant": "13-нұсқа",
       "question_number": 2,
-      "question_text": "Қан тамырларына пішін, серпімділік және беріктік қасиет беретін сыртқы қабаты тұрады\n\n<img src=\"images/bio321395_p22_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан тамырларына пішін, серпімділік және беріктік қасиет беретін сыртқы қабаты тұрады",
       "options": [
         {
           "key": "A",
@@ -2622,7 +2874,7 @@
       "id": "v13_q3",
       "variant": "13-нұсқа",
       "question_number": 3,
-      "question_text": "Қан тамырларына серпімділік қасиет береді, яғни қан тамырларын тарылтып, кеңейтетін ортаңғы қабаты\n\n<img src=\"images/bio321395_p22_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан тамырларына серпімділік қасиет береді, яғни қан тамырларын тарылтып, кеңейтетін ортаңғы қабаты",
       "options": [
         {
           "key": "A",
@@ -2653,7 +2905,7 @@
       "id": "v13_q4",
       "variant": "13-нұсқа",
       "question_number": 4,
-      "question_text": "Қан тамырларының ішкі қабаты жалпақ эпителий ұлпасының жасушаларынан тұрады\n\n<img src=\"images/bio321395_p22_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан тамырларының ішкі қабаты жалпақ эпителий ұлпасының жасушаларынан тұрады",
       "options": [
         {
           "key": "A",
@@ -2661,11 +2913,11 @@
         },
         {
           "key": "B",
-          "text": " Сілемейлі қабықшадан"
+          "text": "Сілемейлі қабықшадан"
         },
         {
           "key": "C",
-          "text": " Дәнекер ұлпасынан"
+          "text": "Дәнекер ұлпасынан"
         },
         {
           "key": "D",
@@ -2673,7 +2925,7 @@
         },
         {
           "key": "E",
-          "text": " Тірек ұлпасынан"
+          "text": "Тірек ұлпасынан"
         }
       ],
       "correct_answer": "A",
@@ -2684,7 +2936,7 @@
       "id": "v13_q5",
       "variant": "13-нұсқа",
       "question_number": 5,
-      "question_text": "Жүректен шыққан қанды таратады\n\n<img src=\"images/bio321395_p23_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жүректен шыққан қанды таратады",
       "options": [
         {
           "key": "A",
@@ -2715,7 +2967,7 @@
       "id": "v13_q6",
       "variant": "13-нұсқа",
       "question_number": 6,
-      "question_text": "Ағзадағы ең ірі артерия қан тамыры\n\n<img src=\"images/bio321395_p23_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ағзадағы ең ірі артерия қан тамыры",
       "options": [
         {
           "key": "A",
@@ -2723,11 +2975,11 @@
         },
         {
           "key": "B",
-          "text": " Капиллярлар"
+          "text": "Капиллярлар"
         },
         {
           "key": "C",
-          "text": " Артериялар"
+          "text": "Артериялар"
         },
         {
           "key": "D",
@@ -2735,7 +2987,7 @@
         },
         {
           "key": "E",
-          "text": " Қолқа(аорта)"
+          "text": "Қолқа(аорта)"
         }
       ],
       "correct_answer": "A",
@@ -2746,7 +2998,7 @@
       "id": "v13_q7",
       "variant": "13-нұсқа",
       "question_number": 7,
-      "question_text": "Қанды денеден жүрекке айдайтын қан тамырлары\n\n<img src=\"images/bio321395_p23_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қанды денеден жүрекке айдайтын қан тамырлары",
       "options": [
         {
           "key": "A",
@@ -2754,11 +3006,11 @@
         },
         {
           "key": "B",
-          "text": " Капиллярлар"
+          "text": "Капиллярлар"
         },
         {
           "key": "C",
-          "text": " Артериялар"
+          "text": "Артериялар"
         },
         {
           "key": "D",
@@ -2766,7 +3018,7 @@
         },
         {
           "key": "E",
-          "text": " Қолқа"
+          "text": "Қолқа"
         }
       ],
       "correct_answer": "A",
@@ -2777,7 +3029,7 @@
       "id": "v13_q8",
       "variant": "13-нұсқа",
       "question_number": 8,
-      "question_text": "Зат алмасу мен газ алмасуды қамтамасыз ететін ең жіңішке қан тамырлары\n\n<img src=\"images/bio321395_p23_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Зат алмасу мен газ алмасуды қамтамасыз ететін ең жіңішке қан тамырлары",
       "options": [
         {
           "key": "A",
@@ -2785,11 +3037,11 @@
         },
         {
           "key": "B",
-          "text": " Капиллярлар"
+          "text": "Капиллярлар"
         },
         {
           "key": "C",
-          "text": " Артериялар"
+          "text": "Артериялар"
         },
         {
           "key": "D",
@@ -2797,7 +3049,7 @@
         },
         {
           "key": "E",
-          "text": " Қолқа"
+          "text": "Қолқа"
         }
       ],
       "correct_answer": "A",
@@ -2808,7 +3060,7 @@
       "id": "v14_q1",
       "variant": "14-нұсқа",
       "question_number": 1,
-      "question_text": " Балықтардың қан айналым шеңбері\n\n<img src=\"images/bio321395_p24_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Балықтардың қан айналым шеңбері",
       "options": [
         {
           "key": "A",
@@ -2839,7 +3091,7 @@
       "id": "v14_q2",
       "variant": "14-нұсқа",
       "question_number": 2,
-      "question_text": " Үлкен қан айналым шеңбері басталады\n\n<img src=\"images/bio321395_p24_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Үлкен қан айналым шеңбері басталады",
       "options": [
         {
           "key": "A",
@@ -2870,7 +3122,7 @@
       "id": "v14_q3",
       "variant": "14-нұсқа",
       "question_number": 3,
-      "question_text": " Кіші қан айналым шеңбері басталады\n\n<img src=\"images/bio321395_p24_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Кіші қан айналым шеңбері басталады",
       "options": [
         {
           "key": "A",
@@ -2901,7 +3153,7 @@
       "id": "v14_q4",
       "variant": "14-нұсқа",
       "question_number": 4,
-      "question_text": " Өкпе венасымен ағады\n\n<img src=\"images/bio321395_p24_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Өкпе венасымен ағады",
       "options": [
         {
           "key": "A",
@@ -2917,7 +3169,11 @@
         },
         {
           "key": "D",
-          "text": "Гемолимфа "
+          "text": "Гемолимфа"
+        },
+        {
+          "key": "E",
+          "text": "Лимфа"
         }
       ],
       "correct_answer": "A",
@@ -2925,10 +3181,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v15_q5",
-      "variant": "15-нұсқа",
+      "id": "v14_q5",
+      "variant": "14-нұсқа",
       "question_number": 5,
-      "question_text": " Қан қысымының жоғарлауы\n\n<img src=\"images/bio321395_p25_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан қысымының жоғарлауы",
       "options": [
         {
           "key": "A",
@@ -2936,11 +3192,11 @@
         },
         {
           "key": "B",
-          "text": " Гипотония"
+          "text": "Гипотония"
         },
         {
           "key": "C",
-          "text": " Инсульт"
+          "text": "Инсульт"
         },
         {
           "key": "D",
@@ -2948,7 +3204,7 @@
         },
         {
           "key": "E",
-          "text": " Атеросклероз"
+          "text": "Атеросклероз"
         }
       ],
       "correct_answer": "A",
@@ -2956,10 +3212,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v15_q6",
-      "variant": "15-нұсқа",
+      "id": "v14_q6",
+      "variant": "14-нұсқа",
       "question_number": 6,
-      "question_text": " Жүректің қанмен қамтамасыз етілуінің бұзылуы\n\n<img src=\"images/bio321395_p25_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жүректің қанмен қамтамасыз етілуінің бұзылуы",
       "options": [
         {
           "key": "A",
@@ -2967,11 +3223,11 @@
         },
         {
           "key": "B",
-          "text": " Гипотония"
+          "text": "Гипотония"
         },
         {
           "key": "C",
-          "text": " Ишемиялық ауру"
+          "text": "Ишемиялық ауру"
         },
         {
           "key": "D",
@@ -2979,7 +3235,7 @@
         },
         {
           "key": "E",
-          "text": " Атеросклероз"
+          "text": "Атеросклероз"
         }
       ],
       "correct_answer": "A",
@@ -2987,10 +3243,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v15_q7",
-      "variant": "15-нұсқа",
+      "id": "v14_q7",
+      "variant": "14-нұсқа",
       "question_number": 7,
-      "question_text": " Май шытырларының орнына тамырларда қан ұйығы пайда болуы\n\n<img src=\"images/bio321395_p25_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Май шытырларының орнына тамырларда қан ұйығы пайда болуы",
       "options": [
         {
           "key": "A",
@@ -2998,11 +3254,11 @@
         },
         {
           "key": "B",
-          "text": " Гипотония"
+          "text": "Гипотония"
         },
         {
           "key": "C",
-          "text": " Инсульт"
+          "text": "Инсульт"
         },
         {
           "key": "D",
@@ -3010,7 +3266,7 @@
         },
         {
           "key": "E",
-          "text": " Тромбоз"
+          "text": "Тромбоз"
         }
       ],
       "correct_answer": "A",
@@ -3018,10 +3274,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v15_q8",
-      "variant": "15-нұсқа",
+      "id": "v14_q8",
+      "variant": "14-нұсқа",
       "question_number": 8,
-      "question_text": " Жүректің жиі соғуы\n\n<img src=\"images/bio321395_p25_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жүректің жиі соғуы",
       "options": [
         {
           "key": "A",
@@ -3029,11 +3285,11 @@
         },
         {
           "key": "B",
-          "text": " Гипотония"
+          "text": "Гипотония"
         },
         {
           "key": "C",
-          "text": " Инсульт"
+          "text": "Инсульт"
         },
         {
           "key": "D",
@@ -3041,7 +3297,7 @@
         },
         {
           "key": "E",
-          "text": " Атеросклероз"
+          "text": "Атеросклероз"
         }
       ],
       "correct_answer": "A",
@@ -3049,8 +3305,48 @@
       "verification_status": "verified"
     },
     {
-      "id": "v16_q5",
-      "variant": "16-нұсқа",
+      "id": "v15_q1",
+      "variant": "15-нұсқа",
+      "question_number": 1,
+      "question_text": "Оттексіз тіршілік ете алатын тіршілік иелері а) прокариодтар б) эукариодтар в) аэробты ағзалар г) анаэробты ағзалар д) протистер",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q2",
+      "variant": "15-нұсқа",
+      "question_number": 2,
+      "question_text": "Оттек қатысатын күрделі химиялық үдеріс а) бөліп шығару б) тыныс алу в) көбею г) қоректену д) тітіркену",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q3",
+      "variant": "15-нұсқа",
+      "question_number": 3,
+      "question_text": "Жәндік денесінде күшті тармақталған тыныс алу түтікшелері а) кеңірдек б) бронх в) өкпе г) желбезек д) ауа қапшығы",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q4",
+      "variant": "15-нұсқа",
+      "question_number": 4,
+      "question_text": "Кеңірдекке ауа түсетін тесік не деп аталады а) демтүтік б) бронх в) жұтқыншақ г) бойлық кеңірдек д) желбезек доғалары Суретте адамның тыныс алу мүшелері берілген Тыныс алудың маңызы Газ алмасады Энергия бөліп шығарады Органикалық заттарды тотықтырып, ыдыратады\n\n<img src=\"images/bio321395_p27_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q5",
+      "variant": "15-нұсқа",
       "question_number": 5,
       "question_text": "Суретте 4 санымен берілген бөлікті анықтаңыз\n\n<img src=\"images/bio321395_p27_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
       "options": [
@@ -3072,9 +3368,39 @@
         },
         {
           "key": "E",
-          "text": " Көмей"
+          "text": "Көмей"
         }
       ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q6",
+      "variant": "15-нұсқа",
+      "question_number": 6,
+      "question_text": "Қан капилярлары көп, шырышты бездер төселген мүше а) жұтқыншақ б) көмей в) өкпе г) мұрын қуысы д) кеңірдек",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q7",
+      "variant": "15-нұсқа",
+      "question_number": 7,
+      "question_text": "Ауыз және мұрын қуысы жалғанатын орын а) өкпе б) мұрын қуысы в) көмей г) кеңірдек д) жұтқыншақ",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v15_q8",
+      "variant": "15-нұсқа",
+      "question_number": 8,
+      "question_text": "Тыныс алу орталығы қайда орналасқан а) сопақша ми б) мишық в) үлкен ми сыңары г) ми көмірі д) аралық ми",
+      "options": [],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3083,7 +3409,7 @@
       "id": "v16_q1",
       "variant": "16-нұсқа",
       "question_number": 1,
-      "question_text": "Адам және сүтқоректілерде қанның зиянды заттардан тазаруына жауапты басты бөлу мүшесі\n\n<img src=\"images/bio321395_p28_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Адам және сүтқоректілерде қанның зиянды заттардан тазаруына жауапты басты бөлу мүшесі",
       "options": [
         {
           "key": "A",
@@ -3114,7 +3440,7 @@
       "id": "v16_q2",
       "variant": "16-нұсқа",
       "question_number": 2,
-      "question_text": "Адам және сүтқоректілер ағзасындағы зиянды заттарды зарарсыздандырады\n\n<img src=\"images/bio321395_p28_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Адам және сүтқоректілер ағзасындағы зиянды заттарды зарарсыздандырады",
       "options": [
         {
           "key": "A",
@@ -3145,7 +3471,7 @@
       "id": "v16_q3",
       "variant": "16-нұсқа",
       "question_number": 3,
-      "question_text": "Заттар мен энергия пайдалану және шығару үдерістерінің жиынтығы\n\n<img src=\"images/bio321395_p28_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Заттар мен энергия пайдалану және шығару үдерістерінің жиынтығы",
       "options": [
         {
           "key": "A",
@@ -3176,7 +3502,7 @@
       "id": "v16_q4",
       "variant": "16-нұсқа",
       "question_number": 4,
-      "question_text": "Фотосинтездің соңғы өнімі\n\n<img src=\"images/bio321395_p28_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Фотосинтездің соңғы өнімі",
       "options": [
         {
           "key": "A",
@@ -3196,7 +3522,7 @@
         },
         {
           "key": "E",
-          "text": "Гелий "
+          "text": "Гелий"
         }
       ],
       "correct_answer": "A",
@@ -3204,8 +3530,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v17_q5",
-      "variant": "17-нұсқа",
+      "id": "v16_q5",
+      "variant": "16-нұсқа",
       "question_number": 5,
       "question_text": "Қарапайымдарда бөліп шығаруды жүзеге асырады",
       "options": [
@@ -3235,8 +3561,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v17_q6",
-      "variant": "17-нұсқа",
+      "id": "v16_q6",
+      "variant": "16-нұсқа",
       "question_number": 6,
       "question_text": "Буылтық құрттарда алғаш пайда болған бөліп шығару мүшесі",
       "options": [
@@ -3266,8 +3592,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v17_q7",
-      "variant": "17-нұсқа",
+      "id": "v16_q7",
+      "variant": "16-нұсқа",
       "question_number": 7,
       "question_text": "Жалпақ құрттардың зәр шығару жүйесі",
       "options": [
@@ -3277,11 +3603,11 @@
         },
         {
           "key": "B",
-          "text": " Мальпигий түтікшелері"
+          "text": "Мальпигий түтікшелері"
         },
         {
           "key": "C",
-          "text": " Жұлдызша тәрізді жасушалар"
+          "text": "Жұлдызша тәрізді жасушалар"
         },
         {
           "key": "D",
@@ -3289,7 +3615,7 @@
         },
         {
           "key": "E",
-          "text": " Жасыл түсті бездер"
+          "text": "Жасыл түсті бездер"
         }
       ],
       "correct_answer": "A",
@@ -3297,8 +3623,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v17_q8",
-      "variant": "17-нұсқа",
+      "id": "v16_q8",
+      "variant": "16-нұсқа",
       "question_number": 8,
       "question_text": "Шаянтәрізділер класының зәр шығару жүйесі",
       "options": [
@@ -3308,11 +3634,11 @@
         },
         {
           "key": "B",
-          "text": " Мальпигий түтікшелері"
+          "text": "Мальпигий түтікшелері"
         },
         {
           "key": "C",
-          "text": " Жұлдызша тәрізді жасушалар"
+          "text": "Жұлдызша тәрізді жасушалар"
         },
         {
           "key": "D",
@@ -3320,7 +3646,7 @@
         },
         {
           "key": "E",
-          "text": " Жасыл түсті бездер"
+          "text": "Жасыл түсті бездер"
         }
       ],
       "correct_answer": "A",
@@ -3331,7 +3657,7 @@
       "id": "v17_q1",
       "variant": "17-нұсқа",
       "question_number": 1,
-      "question_text": "Қанның сұйық бөлігі плазманың капиляр шумағынан нефрон капсуласына түсуі\n\n<img src=\"images/bio321395_p30_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қанның сұйық бөлігі плазманың капиляр шумағынан нефрон капсуласына түсуі",
       "options": [
         {
           "key": "A",
@@ -3362,7 +3688,7 @@
       "id": "v17_q2",
       "variant": "17-нұсқа",
       "question_number": 2,
-      "question_text": "Қан ағымына, яғни нефронға түскен заттарды кері қайтару\n\n<img src=\"images/bio321395_p30_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қан ағымына, яғни нефронға түскен заттарды кері қайтару",
       "options": [
         {
           "key": "A",
@@ -3393,7 +3719,7 @@
       "id": "v17_q3",
       "variant": "17-нұсқа",
       "question_number": 3,
-      "question_text": "Нефрон капсуласында жүретін үдеріс\n\n<img src=\"images/bio321395_p30_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Нефрон капсуласында жүретін үдеріс",
       "options": [
         {
           "key": "A",
@@ -3424,7 +3750,7 @@
       "id": "v17_q4",
       "variant": "17-нұсқа",
       "question_number": 4,
-      "question_text": "Нефрон қабырғасы\n\n<img src=\"images/bio321395_p30_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Нефрон қабырғасы",
       "options": [
         {
           "key": "A",
@@ -3452,10 +3778,41 @@
       "verification_status": "verified"
     },
     {
-      "id": "v18_q6",
-      "variant": "18-нұсқа",
+      "id": "v17_q5",
+      "variant": "17-нұсқа",
+      "question_number": 5,
+      "question_text": "Суретте берілген бүйрек ауруын анықтаңыз\n\n<img src=\"images/bio321395_p30_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "Анемия"
+        },
+        {
+          "key": "B",
+          "text": "Цистит"
+        },
+        {
+          "key": "C",
+          "text": "Пиелонефрит"
+        },
+        {
+          "key": "D",
+          "text": "Несептас"
+        },
+        {
+          "key": "E",
+          "text": "Өрлеме жұқпа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v17_q6",
+      "variant": "17-нұсқа",
       "question_number": 6,
-      "question_text": "Бүйрек ұлпаларына патогенді бактериялардың еніп, нефрон жасушаларын жойып, бүйректі қабындыруы\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бүйрек ұлпаларына патогенді бактериялардың еніп, нефрон жасушаларын жойып, бүйректі қабындыруы",
       "options": [
         {
           "key": "A",
@@ -3483,10 +3840,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v18_q7",
-      "variant": "18-нұсқа",
+      "id": "v17_q7",
+      "variant": "17-нұсқа",
       "question_number": 7,
-      "question_text": "Қуықтың жұқпалы қабынуы\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қуықтың жұқпалы қабынуы",
       "options": [
         {
           "key": "A",
@@ -3514,10 +3871,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v18_q8",
-      "variant": "18-нұсқа",
+      "id": "v17_q8",
+      "variant": "17-нұсқа",
       "question_number": 8,
-      "question_text": "Бүйректе ерімейтін тұздардың бөлшектерінің қалыптасуы\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бүйректе ерімейтін тұздардың бөлшектерінің қалыптасуы",
       "options": [
         {
           "key": "A",
@@ -3537,7 +3894,7 @@
         },
         {
           "key": "E",
-          "text": "Дальтонизм 18 – нұсқа"
+          "text": "Дальтонизм"
         }
       ],
       "correct_answer": "A",
@@ -3548,7 +3905,7 @@
       "id": "v18_q1",
       "variant": "18-нұсқа",
       "question_number": 1,
-      "question_text": " Суретта А әріпімен берілген құрамында азоты бар органикалық заттардың ыдырауының соңғы өнімдерін анықтаңыз\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Суретта А әріпімен берілген құрамында азоты бар органикалық заттардың ыдырауының соңғы өнімдерін анықтаңыз\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -3556,7 +3913,7 @@
         },
         {
           "key": "B",
-          "text": "Несепнәр А"
+          "text": "Несепнәр"
         }
       ],
       "correct_answer": "A",
@@ -3567,7 +3924,7 @@
       "id": "v18_q2",
       "variant": "18-нұсқа",
       "question_number": 2,
-      "question_text": " Өрмекшітәрізділердің барлығы құрамында азот бар пуриндік негіз бөледі\n\n<img src=\"images/bio321395_p32_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Өрмекшітәрізділердің барлығы құрамында азот бар пуриндік негіз бөледі",
       "options": [
         {
           "key": "A",
@@ -3598,7 +3955,7 @@
       "id": "v18_q3",
       "variant": "18-нұсқа",
       "question_number": 3,
-      "question_text": " Суды қорға жинаудың қажеті жоқ, оның жеткіліксіздігін сезінбей-ақ одан оңай арылатын ағзалардың бөліп шығару өнімдері\n\n<img src=\"images/bio321395_p32_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Суды қорға жинаудың қажеті жоқ, оның жеткіліксіздігін сезінбей-ақ одан оңай арылатын ағзалардың бөліп шығару өнімдері",
       "options": [
         {
           "key": "A",
@@ -3629,7 +3986,7 @@
       "id": "v18_q4",
       "variant": "18-нұсқа",
       "question_number": 4,
-      "question_text": " Әрдайым суды үнемдеуге және аз мөлшерде концентрлі зәр бөлуге мәжбүр ағзалардың бөліп шығару өнімдері\n\n<img src=\"images/bio321395_p32_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Әрдайым суды үнемдеуге және аз мөлшерде концентрлі зәр бөлуге мәжбүр ағзалардың бөліп шығару өнімдері",
       "options": [
         {
           "key": "A",
@@ -3657,10 +4014,41 @@
       "verification_status": "verified"
     },
     {
-      "id": "v19_q6",
-      "variant": "19-нұсқа",
+      "id": "v18_q5",
+      "variant": "18-нұсқа",
+      "question_number": 5,
+      "question_text": "Сүтқоректілердің денесінің сыртқы жамылғысы",
+      "options": [
+        {
+          "key": "A",
+          "text": "Қауырсын"
+        },
+        {
+          "key": "B",
+          "text": "Қабыршақ"
+        },
+        {
+          "key": "C",
+          "text": "Тері"
+        },
+        {
+          "key": "D",
+          "text": "Мембрана"
+        },
+        {
+          "key": "E",
+          "text": "Қабықша"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v18_q6",
+      "variant": "18-нұсқа",
       "question_number": 6,
-      "question_text": " Көпқабатты эпителиден түзілген",
+      "question_text": "Көпқабатты эпителиден түзілген",
       "options": [
         {
           "key": "A",
@@ -3688,10 +4076,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v19_q7",
-      "variant": "19-нұсқа",
+      "id": "v18_q7",
+      "variant": "18-нұсқа",
       "question_number": 7,
-      "question_text": " Терінің ортаңғы қабаты",
+      "question_text": "Терінің ортаңғы қабаты",
       "options": [
         {
           "key": "A",
@@ -3719,10 +4107,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v19_q8",
-      "variant": "19-нұсқа",
+      "id": "v18_q8",
+      "variant": "18-нұсқа",
       "question_number": 8,
-      "question_text": " Терінің барлық негізгі элементтері орналасқан",
+      "question_text": "Терінің барлық негізгі элементтері орналасқан",
       "options": [
         {
           "key": "A",
@@ -3742,7 +4130,7 @@
         },
         {
           "key": "E",
-          "text": "Қабықша "
+          "text": "Қабықша"
         }
       ],
       "correct_answer": "A",
@@ -3800,7 +4188,11 @@
         },
         {
           "key": "D",
-          "text": "Бактерия "
+          "text": "Бактерия"
+        },
+        {
+          "key": "E",
+          "text": "Мукор"
         }
       ],
       "correct_answer": "A",
@@ -3862,7 +4254,7 @@
         },
         {
           "key": "E",
-          "text": "Дерма "
+          "text": "Дерма"
         }
       ],
       "correct_answer": "A",
@@ -3955,7 +4347,7 @@
         },
         {
           "key": "E",
-          "text": "Хемосинтез Өсімдіктің қозғалуы"
+          "text": "Хемосинтез"
         }
       ],
       "correct_answer": "A",
@@ -3963,10 +4355,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q8",
-      "variant": "20-нұсқа",
+      "id": "v19_q8",
+      "variant": "19-нұсқа",
       "question_number": 8,
-      "question_text": "Тірі жүйелердегі мерзімімен қайталанып отыратын циклдік үдерістер\n\n<img src=\"images/bio321395_p35_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тірі жүйелердегі мерзімімен қайталанып отыратын циклдік үдерістер",
       "options": [
         {
           "key": "A",
@@ -3986,7 +4378,7 @@
         },
         {
           "key": "E",
-          "text": "Катаболизм "
+          "text": "Катаболизм"
         }
       ],
       "correct_answer": "A",
@@ -3994,10 +4386,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q1",
-      "variant": "20-нұсқа",
+      "id": "v19_q1",
+      "variant": "19-нұсқа",
       "question_number": 1,
-      "question_text": "Амебаның қозғалу мүшесі\n\n<img src=\"images/bio321395_p35_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Амебаның қозғалу мүшесі",
       "options": [
         {
           "key": "A",
@@ -4025,10 +4417,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q2",
-      "variant": "20-нұсқа",
+      "id": "v19_q2",
+      "variant": "19-нұсқа",
       "question_number": 2,
-      "question_text": "Талшықтарымен қозғалады\n\n<img src=\"images/bio321395_p35_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Талшықтарымен қозғалады",
       "options": [
         {
           "key": "A",
@@ -4056,10 +4448,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q3",
-      "variant": "20-нұсқа",
+      "id": "v19_q3",
+      "variant": "19-нұсқа",
       "question_number": 3,
-      "question_text": "Балықтардың қозғалу мүшесі\n\n<img src=\"images/bio321395_p35_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Балықтардың қозғалу мүшесі",
       "options": [
         {
           "key": "A",
@@ -4087,10 +4479,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q4",
-      "variant": "20-нұсқа",
+      "id": "v19_q4",
+      "variant": "19-нұсқа",
       "question_number": 4,
-      "question_text": "Реактивті қозғалады\n\n<img src=\"images/bio321395_p35_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Реактивті қозғалады",
       "options": [
         {
           "key": "A",
@@ -4102,7 +4494,7 @@
         },
         {
           "key": "C",
-          "text": "Гидра Жалған аяқтары"
+          "text": "Гидра"
         }
       ],
       "correct_answer": "A",
@@ -4110,10 +4502,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q1",
-      "variant": "20-нұсқа",
+      "id": "v19_q1",
+      "variant": "19-нұсқа",
       "question_number": 1,
-      "question_text": "Сүйек түзілетін ұлпа\n\n<img src=\"images/bio321395_p36_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйек түзілетін ұлпа",
       "options": [
         {
           "key": "A",
@@ -4141,10 +4533,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q2",
-      "variant": "20-нұсқа",
+      "id": "v19_q2",
+      "variant": "19-нұсқа",
       "question_number": 2,
-      "question_text": "Сүйек сыртын қаптайды\n\n<img src=\"images/bio321395_p36_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйек сыртын қаптайды",
       "options": [
         {
           "key": "A",
@@ -4172,10 +4564,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q3",
-      "variant": "20-нұсқа",
+      "id": "v19_q3",
+      "variant": "19-нұсқа",
       "question_number": 3,
-      "question_text": "Сүйектің ұзынан өсуіне әсер етеді\n\n<img src=\"images/bio321395_p36_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйектің ұзынан өсуіне әсер етеді",
       "options": [
         {
           "key": "A",
@@ -4203,10 +4595,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v20_q4",
-      "variant": "20-нұсқа",
+      "id": "v19_q4",
+      "variant": "19-нұсқа",
       "question_number": 4,
-      "question_text": "Сүйектің негізгі жасушасы\n\n<img src=\"images/bio321395_p36_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйектің негізгі жасушасы",
       "options": [
         {
           "key": "A",
@@ -4234,10 +4626,41 @@
       "verification_status": "verified"
     },
     {
-      "id": "v21_q6",
-      "variant": "21-нұсқа",
+      "id": "v19_q5",
+      "variant": "19-нұсқа",
+      "question_number": 5,
+      "question_text": "Адам қаңқасы суретінен 4 санымен берілген сүйекті анықтаңыз\n\n<img src=\"images/bio321395_p36_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "Бұғана"
+        },
+        {
+          "key": "B",
+          "text": "Жауырын"
+        },
+        {
+          "key": "C",
+          "text": "Қабырға"
+        },
+        {
+          "key": "D",
+          "text": "Төс сүйегі"
+        },
+        {
+          "key": "E",
+          "text": "Омыртқа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v19_q6",
+      "variant": "19-нұсқа",
       "question_number": 6,
-      "question_text": "Сүйек жасушаларын қоректік заттар мен оттекпен қамтамасыз етеді\n\n<img src=\"images/bio321395_p37_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйек жасушаларын қоректік заттар мен оттекпен қамтамасыз етеді",
       "options": [
         {
           "key": "A",
@@ -4265,10 +4688,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v21_q7",
-      "variant": "21-нұсқа",
+      "id": "v19_q7",
+      "variant": "19-нұсқа",
       "question_number": 7,
-      "question_text": "Сүйекке беріктік және қаттылық қасиет береді\n\n<img src=\"images/bio321395_p37_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүйекке беріктік және қаттылық қасиет береді",
       "options": [
         {
           "key": "A",
@@ -4296,10 +4719,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v21_q8",
-      "variant": "21-нұсқа",
+      "id": "v19_q8",
+      "variant": "19-нұсқа",
       "question_number": 8,
-      "question_text": "Сүтқоректілерде мойын омыртқалар саны\n\n<img src=\"images/bio321395_p37_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Сүтқоректілерде мойын омыртқалар саны",
       "options": [
         {
           "key": "A",
@@ -4319,7 +4742,7 @@
         },
         {
           "key": "E",
-          "text": "2 "
+          "text": "2"
         }
       ],
       "correct_answer": "A",
@@ -4330,7 +4753,7 @@
       "id": "v21_q1",
       "variant": "21-нұсқа",
       "question_number": 1,
-      "question_text": "Әртүрлі қозғалысқа жауап беретін тірек-қимыл жүйесінің бөлімі\n\n<img src=\"images/bio321395_p38_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p38_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Әртүрлі қозғалысқа жауап беретін тірек-қимыл жүйесінің бөлімі",
       "options": [
         {
           "key": "A",
@@ -4361,7 +4784,7 @@
       "id": "v21_q2",
       "variant": "21-нұсқа",
       "question_number": 2,
-      "question_text": "Төс және құрсақ қуысын бөліп тұрады\n\n<img src=\"images/bio321395_p38_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p38_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Төс және құрсақ қуысын бөліп тұрады",
       "options": [
         {
           "key": "A",
@@ -4392,7 +4815,7 @@
       "id": "v21_q3",
       "variant": "21-нұсқа",
       "question_number": 3,
-      "question_text": "Бұлшықет жасушасы\n\n<img src=\"images/bio321395_p38_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p38_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бұлшықет жасушасы",
       "options": [
         {
           "key": "A",
@@ -4423,7 +4846,7 @@
       "id": "v21_q4",
       "variant": "21-нұсқа",
       "question_number": 4,
-      "question_text": "Қаңқа бұлшық еттерінің ұшында орналасқан\n\n<img src=\"images/bio321395_p38_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p38_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Қаңқа бұлшық еттерінің ұшында орналасқан",
       "options": [
         {
           "key": "A",
@@ -4451,10 +4874,41 @@
       "verification_status": "verified"
     },
     {
-      "id": "v22_q6",
-      "variant": "22-нұсқа",
+      "id": "v21_q5",
+      "variant": "21-нұсқа",
+      "question_number": 5,
+      "question_text": "Бас сүйектің суретінен 1 санымен берілген сүйекті анықтаңыз\n\n<img src=\"images/bio321395_p38_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p38_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "Маңдай"
+        },
+        {
+          "key": "B",
+          "text": "Шүйде"
+        },
+        {
+          "key": "C",
+          "text": "Төбе"
+        },
+        {
+          "key": "D",
+          "text": "Бет"
+        },
+        {
+          "key": "E",
+          "text": "Самай"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v21_q6",
+      "variant": "21-нұсқа",
       "question_number": 6,
-      "question_text": "3 санымен берілген құрылымды анықтаңыз\n\n<img src=\"images/bio321395_p39_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img4.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img5.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "3 санымен берілген құрылымды анықтаңыз",
       "options": [
         {
           "key": "A",
@@ -4482,10 +4936,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v22_q7",
-      "variant": "22-нұсқа",
+      "id": "v21_q7",
+      "variant": "21-нұсқа",
       "question_number": 7,
-      "question_text": "Омыртқалар байланысқан\n\n<img src=\"images/bio321395_p39_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img4.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img5.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Омыртқалар байланысқан",
       "options": [
         {
           "key": "A",
@@ -4513,10 +4967,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v22_q8",
-      "variant": "22-нұсқа",
+      "id": "v21_q8",
+      "variant": "21-нұсқа",
       "question_number": 8,
-      "question_text": "Тақ сүйектерге жатады\n\n<img src=\"images/bio321395_p39_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img4.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p39_img5.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Тақ сүйектерге жатады",
       "options": [
         {
           "key": "A",
@@ -4536,7 +4990,7 @@
         },
         {
           "key": "E",
-          "text": "Шүйде "
+          "text": "Шүйде"
         }
       ],
       "correct_answer": "A",
@@ -4660,7 +5114,7 @@
         },
         {
           "key": "E",
-          "text": "Ми сұйықтығы "
+          "text": "Ми сұйықтығы"
         }
       ],
       "correct_answer": "A",
@@ -4668,8 +5122,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v23_q5",
-      "variant": "23-нұсқа",
+      "id": "v22_q5",
+      "variant": "22-нұсқа",
       "question_number": 5,
       "question_text": "Жүйке жүйесі торлы ағза",
       "options": [
@@ -4699,8 +5153,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v23_q6",
-      "variant": "23-нұсқа",
+      "id": "v22_q6",
+      "variant": "22-нұсқа",
       "question_number": 6,
       "question_text": "Жұтқыншақүсті және жұтқыншақасты түйіндерінен тұратын жүйке жүйесі",
       "options": [
@@ -4730,8 +5184,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v23_q7",
-      "variant": "23-нұсқа",
+      "id": "v22_q7",
+      "variant": "22-нұсқа",
       "question_number": 7,
       "question_text": "Жүйке жүйесі жүйке түтігінен тұратын ағзалар",
       "options": [
@@ -4761,8 +5215,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v23_q8",
-      "variant": "23-нұсқа",
+      "id": "v22_q8",
+      "variant": "22-нұсқа",
       "question_number": 8,
       "question_text": "Ағзаның әртүрлі бөлігінде жүретін үдерістерді үйлестіретін жүйе",
       "options": [
@@ -4784,7 +5238,7 @@
         },
         {
           "key": "E",
-          "text": "Репродуктивті "
+          "text": "Репродуктивті"
         }
       ],
       "correct_answer": "A",
@@ -4795,7 +5249,7 @@
       "id": "v23_q1",
       "variant": "23-нұсқа",
       "question_number": 1,
-      "question_text": "Жұлындағы сегменттер саны\n\n<img src=\"images/bio321395_p42_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жұлындағы сегменттер саны",
       "options": [
         {
           "key": "A",
@@ -4826,7 +5280,7 @@
       "id": "v23_q2",
       "variant": "23-нұсқа",
       "question_number": 2,
-      "question_text": "ОЖЖ қатысында ағзаның тітіркендіргішке жауап реакциясы\n\n<img src=\"images/bio321395_p42_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "ОЖЖ қатысында ағзаның тітіркендіргішке жауап реакциясы",
       "options": [
         {
           "key": "A",
@@ -4857,7 +5311,7 @@
       "id": "v23_q3",
       "variant": "23-нұсқа",
       "question_number": 3,
-      "question_text": "Жүйке импульсін рецепторлардан миға береді\n\n<img src=\"images/bio321395_p42_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Жүйке импульсін рецепторлардан миға береді",
       "options": [
         {
           "key": "A",
@@ -4888,7 +5342,7 @@
       "id": "v23_q4",
       "variant": "23-нұсқа",
       "question_number": 4,
-      "question_text": "Ішкі мүшелерді басқарады\n\n<img src=\"images/bio321395_p42_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ішкі мүшелерді басқарады",
       "options": [
         {
           "key": "A",
@@ -4896,11 +5350,11 @@
         },
         {
           "key": "B",
-          "text": " Сомалық ЖЖ"
+          "text": "Сомалық ЖЖ"
         },
         {
           "key": "C",
-          "text": " Шартты рефлекс"
+          "text": "Шартты рефлекс"
         },
         {
           "key": "D",
@@ -4908,7 +5362,7 @@
         },
         {
           "key": "E",
-          "text": " Митоз"
+          "text": "Митоз"
         }
       ],
       "correct_answer": "A",
@@ -4916,8 +5370,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v24_q5",
-      "variant": "24-нұсқа",
+      "id": "v23_q5",
+      "variant": "23-нұсқа",
       "question_number": 5,
       "question_text": "Бір түрдің барлығында бірдей, туа біткен рефлекс",
       "options": [
@@ -4947,8 +5401,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v24_q6",
-      "variant": "24-нұсқа",
+      "id": "v23_q6",
+      "variant": "23-нұсқа",
       "question_number": 6,
       "question_text": "Өмір бойы пайда болатын және бір түр дарада бірдей емес рефлекс",
       "options": [
@@ -4978,8 +5432,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v24_q7",
-      "variant": "24-нұсқа",
+      "id": "v23_q7",
+      "variant": "23-нұсқа",
       "question_number": 7,
       "question_text": "Итте шартты рефлекстің түзілуін зерттеді",
       "options": [
@@ -5009,8 +5463,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v24_q8",
-      "variant": "24-нұсқа",
+      "id": "v23_q8",
+      "variant": "23-нұсқа",
       "question_number": 8,
       "question_text": "Қаңқа бұлшық еттерін басқарады",
       "options": [
@@ -5032,7 +5486,7 @@
         },
         {
           "key": "E",
-          "text": "Жүрек "
+          "text": "Жүрек"
         }
       ],
       "correct_answer": "A",
@@ -5043,7 +5497,7 @@
       "id": "v24_q1",
       "variant": "24-нұсқа",
       "question_number": 1,
-      "question_text": " Ағзаны белсенді күйге келтіреді",
+      "question_text": "Ағзаны белсенді күйге келтіреді",
       "options": [
         {
           "key": "A",
@@ -5051,11 +5505,11 @@
         },
         {
           "key": "B",
-          "text": " Сомалық ЖЖ"
+          "text": "Сомалық ЖЖ"
         },
         {
           "key": "C",
-          "text": " Симпатикалық ЖЖ"
+          "text": "Симпатикалық ЖЖ"
         },
         {
           "key": "D",
@@ -5063,7 +5517,7 @@
         },
         {
           "key": "E",
-          "text": " Жүрек"
+          "text": "Жүрек"
         }
       ],
       "correct_answer": "A",
@@ -5074,7 +5528,7 @@
       "id": "v24_q2",
       "variant": "24-нұсқа",
       "question_number": 2,
-      "question_text": " Ағзаны енжар күйге келтіреді",
+      "question_text": "Ағзаны енжар күйге келтіреді",
       "options": [
         {
           "key": "A",
@@ -5082,11 +5536,11 @@
         },
         {
           "key": "B",
-          "text": " Сомалық ЖЖ"
+          "text": "Сомалық ЖЖ"
         },
         {
           "key": "C",
-          "text": " Симпатикалық ЖЖ"
+          "text": "Симпатикалық ЖЖ"
         },
         {
           "key": "D",
@@ -5094,7 +5548,7 @@
         },
         {
           "key": "E",
-          "text": " Жүрек"
+          "text": "Жүрек"
         }
       ],
       "correct_answer": "A",
@@ -5105,7 +5559,7 @@
       "id": "v24_q3",
       "variant": "24-нұсқа",
       "question_number": 3,
-      "question_text": " Көз қарашығы мен бронхиоланы ұлғайтады",
+      "question_text": "Көз қарашығы мен бронхиоланы ұлғайтады",
       "options": [
         {
           "key": "A",
@@ -5136,7 +5590,7 @@
       "id": "v24_q4",
       "variant": "24-нұсқа",
       "question_number": 4,
-      "question_text": " Симпатикалық ЖЖ орталығы",
+      "question_text": "Симпатикалық ЖЖ орталығы",
       "options": [
         {
           "key": "A",
@@ -5164,8 +5618,189 @@
       "verification_status": "verified"
     },
     {
-      "id": "v27_q6",
-      "variant": "27-нұсқа",
+      "id": "v24_q5",
+      "variant": "24-нұсқа",
+      "question_number": 5,
+      "question_text": "Көздің таяқш тәрізді жасушарарына тән пигмент a) Хлоропласт b) Меланин c) Родопсин d) Иодопсин e) хлрофилл",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v24_q6",
+      "variant": "24-нұсқа",
+      "question_number": 6,
+      "question_text": "Торлы қабықшаның ортасында орналасқан a) Құтыша b) Таяқша c) Рецептор d) Жүйке импульсі e) Ақ қабық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v24_q7",
+      "variant": "24-нұсқа",
+      "question_number": 7,
+      "question_text": "Торлы қабықшада сары дақпен қоса кездеседі a) Сары дақ b) Соқыр дақ c) Қара дақ d) Қоңыр дақ e) Ақ дақ",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v24_q8",
+      "variant": "24-нұсқа",
+      "question_number": 8,
+      "question_text": "Нұрлы қабық орталығында болады a) Тор қабық b) қарашық c) ақ қабық d) соқыр дақ e) жас безі",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q1",
+      "variant": "25-нұсқа",
+      "question_number": 1,
+      "question_text": "Қарашық мөлшерін реттейді a) Алдыңғы камера b) Қасаң қабық c) Нұрлы қабық d) Соқыр дақ e) Қарашық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q2",
+      "variant": "25-нұсқа",
+      "question_number": 2,
+      "question_text": "Жарыққа сезімтал рецепторлар орналасады a) Алдыңғы камера b) Қасаң қабық c) Тор қабық d) Соқыр дақ e) Қарашық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q3",
+      "variant": "25-нұсқа",
+      "question_number": 3,
+      "question_text": "Көзді қоректік заттармен және оттекпен қамтамасыз етеді a) Тамырлы қабық b) Нұрлы қабық c) Қарашық d) Соқыр дақ e) Тор қабық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q4",
+      "variant": "25-нұсқа",
+      "question_number": 4,
+      "question_text": "Көзбұршақтан кейін орналасқан оптикалық жүйе a) Аккомодация b) Қарашық c) Нұрлы қабық d) Шыны тәрізді дене e) Тамыры қабық",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q5",
+      "variant": "25-нұсқа",
+      "question_number": 5,
+      "question_text": "Есту рецепторларында қалыптасқан тепе-теңдік мүшесі a) Дабыл жарғағы b) Вестибула аппараты c) Мишық d) Соқыр дақ e) Евстахий түтігі",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q6",
+      "variant": "25-нұсқа",
+      "question_number": 6,
+      "question_text": "Ортаңғы құлақ жалғасады a) Дабыл жарғағы b) Сыртқы құлақ c) Дыбыс жолы d) Соқыр дақ e) Евстахий түтігі Есту мүшесінің құрылысы Сыртқы құлақ Ортаңғы құлақ Ішкі құлақ",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v25_q7",
+      "variant": "25-нұсқа",
+      "question_number": 7,
+      "question_text": "Ұлуденедегі сұйықтықтың тербелісі тітіркендіреді a) Балғашықты b) Дабыл жарғағын c) Көру рецепторларын d) Төстікті e) Есту рецепторларын . 8. Суреттен 2 санымен берілген сүйекшені анықтаңыз a) Дыбыс жолы b) Евстахий түтігі c) Төстік d) Балғашық e) Үзеңгі\n\n<img src=\"images/bio321395_p47_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p47_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q1",
+      "variant": "26-нұсқа",
+      "question_number": 1,
+      "question_text": "Ағзада иммундық жүйенің орталық мүшесі болып саналатын без a) Қалқанша маңы безі b) Ұйқы безі c) Гипофиз d) Бауыр e) Айырша без",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q2",
+      "variant": "26-нұсқа",
+      "question_number": 2,
+      "question_text": "Жас балаларда йодтың жетіспеуінен пайда болатын ауру a) Қант диабеті b) Эндемиялық зоб c) Шершевский -Тернер синдромы d) Кретинизм e) Базедов (бадырақ көз)",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q3",
+      "variant": "26-нұсқа",
+      "question_number": 3,
+      "question_text": "Гипофиз қызметіне тәуелсіз без a) Бүйрек үсті безі b) Қалқанша безі c) Айырша без d) Жыныс безі e) Ұйқы безі",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q4",
+      "variant": "26-нұсқа",
+      "question_number": 4,
+      "question_text": "Өсу гормоны мөлшерден көп бөлінде адам қандай ауруға шалдығады a) Ергежейлілік b) Гипофункция c) Алыптылық d) Мексидема e) Акромегалия Жасушалық цикл - бөліну арқылы түзілген жаңа жасушаның өзіндік бөлінуге дейінгі кезеңді жасушалықцикл деп атаймыз.",
+      "options": [],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q5",
+      "variant": "26-нұсқа",
+      "question_number": 5,
+      "question_text": "Жаңа жасуша өсетін және бөлінуге дайындалатын кезең.",
+      "options": [
+        {
+          "key": "А",
+          "text": "Митоз"
+        },
+        {
+          "key": "B",
+          "text": "Профаза"
+        },
+        {
+          "key": "C",
+          "text": "Телофаза"
+        },
+        {
+          "key": "D",
+          "text": "Анафаза"
+        },
+        {
+          "key": "E",
+          "text": "Интерфаза"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_keys_table",
+      "verification_status": "verified"
+    },
+    {
+      "id": "v26_q6",
+      "variant": "26-нұсқа",
       "question_number": 6,
       "question_text": "Хромосомалардың ширатылуы шегіне жетіп,экватор сызығының бойына жиналады",
       "options": [
@@ -5195,8 +5830,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v27_q7",
-      "variant": "27-нұсқа",
+      "id": "v26_q7",
+      "variant": "26-нұсқа",
       "question_number": 7,
       "question_text": "Центромера қосылған орыннан басталады",
       "options": [
@@ -5226,30 +5861,30 @@
       "verification_status": "verified"
     },
     {
-      "id": "v27_q8",
-      "variant": "27-нұсқа",
+      "id": "v26_q8",
+      "variant": "26-нұсқа",
       "question_number": 8,
       "question_text": "Цитоплазманың бөліну үдерісі басталады",
       "options": [
         {
           "key": "A",
-          "text": " Цитокинез"
+          "text": "Цитокинез"
         },
         {
           "key": "B",
-          "text": " Профаза"
+          "text": "Профаза"
         },
         {
           "key": "C",
-          "text": " Метафаза"
+          "text": "Метафаза"
         },
         {
           "key": "D",
-          "text": " Кариокинез"
+          "text": "Кариокинез"
         },
         {
           "key": "E",
-          "text": " Телофаза"
+          "text": "Телофаза"
         }
       ],
       "correct_answer": "A",
@@ -5311,7 +5946,7 @@
         },
         {
           "key": "E",
-          "text": "Ген "
+          "text": "Ген"
         }
       ],
       "correct_answer": "A",
@@ -5419,23 +6054,23 @@
       "options": [
         {
           "key": "A",
-          "text": " Гаплоидты"
+          "text": "Гаплоидты"
         },
         {
           "key": "B",
-          "text": " Диплоидты"
+          "text": "Диплоидты"
         },
         {
           "key": "C",
-          "text": " Триплоидты"
+          "text": "Триплоидты"
         },
         {
           "key": "D",
-          "text": " Тетраплоидты"
+          "text": "Тетраплоидты"
         },
         {
           "key": "E",
-          "text": " Полиплоидты"
+          "text": "Полиплоидты"
         }
       ],
       "correct_answer": "A",
@@ -5462,7 +6097,11 @@
         },
         {
           "key": "D",
-          "text": "Микроспорангий "
+          "text": "Микроспорангий"
+        },
+        {
+          "key": "E",
+          "text": "Ұрық"
         }
       ],
       "correct_answer": "A",
@@ -5470,8 +6109,8 @@
       "verification_status": "verified"
     },
     {
-      "id": "v28_q8",
-      "variant": "28-нұсқа",
+      "id": "v27_q8",
+      "variant": "27-нұсқа",
       "question_number": 8,
       "question_text": "Жабықтұқымдылардың аталық гаметофиті",
       "options": [
@@ -5493,7 +6132,7 @@
         },
         {
           "key": "E",
-          "text": "Тозаң бидайы "
+          "text": "Тозаң бидайы"
         }
       ],
       "correct_answer": "A",
@@ -5617,7 +6256,7 @@
         },
         {
           "key": "E",
-          "text": "Партеногенез "
+          "text": "Партеногенез"
         }
       ],
       "correct_answer": "A",
@@ -5625,10 +6264,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v29_q5",
-      "variant": "29-нұсқа",
+      "id": "v28_q5",
+      "variant": "28-нұсқа",
       "question_number": 5,
-      "question_text": "Зір шығару және жыныс мүшелері жүйесі түзіледі\n\n<img src=\"images/bio321395_p52_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Зір шығару және жыныс мүшелері жүйесі түзіледі",
       "options": [
         {
           "key": "A",
@@ -5656,10 +6295,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v29_q6",
-      "variant": "29-нұсқа",
+      "id": "v28_q6",
+      "variant": "28-нұсқа",
       "question_number": 6,
-      "question_text": "Ұрық жапырақшасында түрлі қабықшалардың пайда болу сатысы\n\n<img src=\"images/bio321395_p52_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ұрық жапырақшасында түрлі қабықшалардың пайда болу сатысы",
       "options": [
         {
           "key": "A",
@@ -5687,10 +6326,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v29_q7",
-      "variant": "29-нұсқа",
+      "id": "v28_q7",
+      "variant": "28-нұсқа",
       "question_number": 7,
-      "question_text": "Зигота түзілгенен бастап, туылғанға дейінгі кезең\n\n<img src=\"images/bio321395_p52_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Зигота түзілгенен бастап, туылғанға дейінгі кезең",
       "options": [
         {
           "key": "A",
@@ -5718,10 +6357,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v29_q8",
-      "variant": "29-нұсқа",
+      "id": "v28_q8",
+      "variant": "28-нұсқа",
       "question_number": 8,
-      "question_text": "Өкпе және басқа да тыныс алу мүшелері түзіледі\n\n<img src=\"images/bio321395_p52_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Өкпе және басқа да тыныс алу мүшелері түзіледі",
       "options": [
         {
           "key": "A",
@@ -5741,7 +6380,7 @@
         },
         {
           "key": "E",
-          "text": "Онтогенез "
+          "text": "Онтогенез"
         }
       ],
       "correct_answer": "A",
@@ -5865,7 +6504,7 @@
         },
         {
           "key": "Е",
-          "text": "Лейкоцит Ұрықтың"
+          "text": "Лейкоцит"
         }
       ],
       "correct_answer": "A",
@@ -5873,10 +6512,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v30_q5",
-      "variant": "30-нұсқа",
+      "id": "v29_q5",
+      "variant": "29-нұсқа",
       "question_number": 5,
-      "question_text": "Ана мен шарана ағасының арасында байланысты түзеді\n\n<img src=\"images/bio321395_p54_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ана мен шарана ағасының арасында байланысты түзеді",
       "options": [
         {
           "key": "A",
@@ -5904,10 +6543,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v30_q6",
-      "variant": "30-нұсқа",
+      "id": "v29_q6",
+      "variant": "29-нұсқа",
       "question_number": 6,
-      "question_text": "Трофобластың сыртқы қабаты\n\n<img src=\"images/bio321395_p54_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Трофобластың сыртқы қабаты",
       "options": [
         {
           "key": "A",
@@ -5935,10 +6574,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v30_q7",
-      "variant": "30-нұсқа",
+      "id": "v29_q7",
+      "variant": "29-нұсқа",
       "question_number": 7,
-      "question_text": "Бластоцистаның сыртықы қабаты\n\n<img src=\"images/bio321395_p54_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бластоцистаның сыртықы қабаты",
       "options": [
         {
           "key": "A",
@@ -5966,10 +6605,10 @@
       "verification_status": "verified"
     },
     {
-      "id": "v30_q8",
-      "variant": "30-нұсқа",
+      "id": "v29_q8",
+      "variant": "29-нұсқа",
       "question_number": 8,
-      "question_text": "Ұрықты қорғайтын жұқа қабықша\n\n<img src=\"images/bio321395_p54_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Ұрықты қорғайтын жұқа қабықша",
       "options": [
         {
           "key": "A",
@@ -5989,7 +6628,7 @@
         },
         {
           "key": "E",
-          "text": "Хорион "
+          "text": "Хорион"
         }
       ],
       "correct_answer": "A",
@@ -6113,7 +6752,7 @@
         },
         {
           "key": "E",
-          "text": "Фенотип Бактериялар (көне грекше: βακτηρία - «таяқша») —"
+          "text": "Фенотип"
         }
       ],
       "correct_answer": "A",
@@ -6124,7 +6763,7 @@
       "id": "v30_q5",
       "variant": "30-нұсқа",
       "question_number": 5,
-      "question_text": "Шартәрізді бактерия\n\n<img src=\"images/bio321395_p56_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Шартәрізді бактерия",
       "options": [
         {
           "key": "А",
@@ -6155,7 +6794,7 @@
       "id": "v30_q6",
       "variant": "30-нұсқа",
       "question_number": 6,
-      "question_text": "Пенициллинді ең алғаш ашқан ғалым\n\n<img src=\"images/bio321395_p56_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Пенициллинді ең алғаш ашқан ғалым",
       "options": [
         {
           "key": "А",
@@ -6186,7 +6825,7 @@
       "id": "v30_q7",
       "variant": "30-нұсқа",
       "question_number": 7,
-      "question_text": "Бактерияларды зақымдайтын вирус\n\n<img src=\"images/bio321395_p56_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бактерияларды зақымдайтын вирус",
       "options": [
         {
           "key": "A",
@@ -6217,7 +6856,7 @@
       "id": "v30_q8",
       "variant": "30-нұсқа",
       "question_number": 8,
-      "question_text": "Бактериялардың қозғалу мүшесі\n\n<img src=\"images/bio321395_p56_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
+      "question_text": "Бактериялардың қозғалу мүшесі",
       "options": [
         {
           "key": "A",
@@ -6237,7 +6876,7 @@
         },
         {
           "key": "E",
-          "text": "Параподия Талшықтар"
+          "text": "Параподия"
         }
       ],
       "correct_answer": "A",
