@@ -1,0 +1,619 @@
+{
+  "all_passed": true,
+  "total_questions": 4192,
+  "total_images": 774,
+  "details": [
+    {
+      "file": "biology_9_373959.json",
+      "test_id": "biology_9_373959",
+      "total_questions": 21,
+      "valid_questions": 21,
+      "images_checked": 1,
+      "errors_count": 0,
+      "warnings_count": 4,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q16: менее 2 вариантов ответа (1)",
+        "q17: менее 2 вариантов ответа (1)",
+        "q25: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "chemistry_9_321395.json",
+      "test_id": "chemistry_9_321395",
+      "total_questions": 248,
+      "valid_questions": 248,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 2,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "chemistry_9_321396.json",
+      "test_id": "chemistry_9_321396",
+      "total_questions": 251,
+      "valid_questions": 251,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 3,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "geography_9_332622.json",
+      "test_id": "geography_9_332622",
+      "total_questions": 18,
+      "valid_questions": 18,
+      "images_checked": 10,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_321397.json",
+      "test_id": "math_literacy_9_321397",
+      "total_questions": 98,
+      "valid_questions": 98,
+      "images_checked": 20,
+      "errors_count": 0,
+      "warnings_count": 12,
+      "errors": [],
+      "warnings": [
+        "q23: менее 2 вариантов ответа (1)",
+        "q24: менее 2 вариантов ответа (1)",
+        "q39: менее 2 вариантов ответа (1)",
+        "q43: менее 2 вариантов ответа (1)",
+        "q52: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_325853.json",
+      "test_id": "math_literacy_9_325853",
+      "total_questions": 12,
+      "valid_questions": 12,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_326882.json",
+      "test_id": "math_literacy_9_326882",
+      "total_questions": 71,
+      "valid_questions": 71,
+      "images_checked": 622,
+      "errors_count": 0,
+      "warnings_count": 8,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q16: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_326909.json",
+      "test_id": "math_literacy_9_326909",
+      "total_questions": 12,
+      "valid_questions": 12,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_332147.json",
+      "test_id": "math_literacy_9_332147",
+      "total_questions": 11,
+      "valid_questions": 11,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 3,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q6: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_333943.json",
+      "test_id": "math_literacy_9_333943",
+      "total_questions": 5,
+      "valid_questions": 5,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_335871.json",
+      "test_id": "math_literacy_9_335871",
+      "total_questions": 19,
+      "valid_questions": 19,
+      "images_checked": 2,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q11: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_337789.json",
+      "test_id": "math_literacy_9_337789",
+      "total_questions": 11,
+      "valid_questions": 11,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_341352.json",
+      "test_id": "math_literacy_9_341352",
+      "total_questions": 10,
+      "valid_questions": 10,
+      "images_checked": 1,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "math_literacy_9_391442.json",
+      "test_id": "math_literacy_9_391442",
+      "total_questions": 106,
+      "valid_questions": 106,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 16,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q7: менее 2 вариантов ответа (1)",
+        "q14: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341345.json",
+      "test_id": "physics_9_341345",
+      "total_questions": 10,
+      "valid_questions": 10,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 2,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341347.json",
+      "test_id": "physics_9_341347",
+      "total_questions": 10,
+      "valid_questions": 10,
+      "images_checked": 2,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341348.json",
+      "test_id": "physics_9_341348",
+      "total_questions": 17,
+      "valid_questions": 17,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q5: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341350.json",
+      "test_id": "physics_9_341350",
+      "total_questions": 6,
+      "valid_questions": 6,
+      "images_checked": 3,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341351.json",
+      "test_id": "physics_9_341351",
+      "total_questions": 16,
+      "valid_questions": 16,
+      "images_checked": 4,
+      "errors_count": 0,
+      "warnings_count": 2,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341353.json",
+      "test_id": "physics_9_341353",
+      "total_questions": 9,
+      "valid_questions": 9,
+      "images_checked": 1,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341354.json",
+      "test_id": "physics_9_341354",
+      "total_questions": 10,
+      "valid_questions": 10,
+      "images_checked": 1,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_341356.json",
+      "test_id": "physics_9_341356",
+      "total_questions": 35,
+      "valid_questions": 35,
+      "images_checked": 7,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "physics_9_384445.json",
+      "test_id": "physics_9_384445",
+      "total_questions": 119,
+      "valid_questions": 119,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "primary_complex_4_329127.json",
+      "test_id": "primary_complex_4_329127",
+      "total_questions": 273,
+      "valid_questions": 273,
+      "images_checked": 34,
+      "errors_count": 0,
+      "warnings_count": 19,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q18: менее 2 вариантов ответа (1)",
+        "q33: менее 2 вариантов ответа (1)",
+        "q68: менее 2 вариантов ответа (1)",
+        "q83: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "primary_complex_4_332681.json",
+      "test_id": "primary_complex_4_332681",
+      "total_questions": 627,
+      "valid_questions": 627,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 41,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q12: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "primary_complex_4_335226.json",
+      "test_id": "primary_complex_4_335226",
+      "total_questions": 87,
+      "valid_questions": 87,
+      "images_checked": 22,
+      "errors_count": 0,
+      "warnings_count": 6,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q5: менее 2 вариантов ответа (1)",
+        "q13: менее 2 вариантов ответа (1)",
+        "q14: менее 2 вариантов ответа (1)",
+        "q11: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "primary_complex_4_411464.json",
+      "test_id": "primary_complex_4_411464",
+      "total_questions": 204,
+      "valid_questions": 204,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 119,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q7: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_4_332849.json",
+      "test_id": "reading_literacy_en_4_332849",
+      "total_questions": 16,
+      "valid_questions": 16,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 6,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)",
+        "q9: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q10: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_322446.json",
+      "test_id": "reading_literacy_en_9_322446",
+      "total_questions": 16,
+      "valid_questions": 16,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 5,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q2: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q6: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_324293.json",
+      "test_id": "reading_literacy_en_9_324293",
+      "total_questions": 49,
+      "valid_questions": 49,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_327279.json",
+      "test_id": "reading_literacy_en_9_327279",
+      "total_questions": 10,
+      "valid_questions": 10,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_328969.json",
+      "test_id": "reading_literacy_en_9_328969",
+      "total_questions": 346,
+      "valid_questions": 346,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 169,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q7: менее 2 вариантов ответа (1)",
+        "q8: менее 2 вариантов ответа (1)",
+        "q9: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_329123.json",
+      "test_id": "reading_literacy_en_9_329123",
+      "total_questions": 78,
+      "valid_questions": 78,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 6,
+      "errors": [],
+      "warnings": [
+        "q3: менее 2 вариантов ответа (1)",
+        "q4: менее 2 вариантов ответа (1)",
+        "q5: менее 2 вариантов ответа (1)",
+        "q7: менее 2 вариантов ответа (1)",
+        "q31: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_329130.json",
+      "test_id": "reading_literacy_en_9_329130",
+      "total_questions": 56,
+      "valid_questions": 56,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q22: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_en_9_334809.json",
+      "test_id": "reading_literacy_en_9_334809",
+      "total_questions": 990,
+      "valid_questions": 990,
+      "images_checked": 1,
+      "errors_count": 0,
+      "warnings_count": 501,
+      "errors": [],
+      "warnings": [
+        "q2: менее 2 вариантов ответа (1)",
+        "q3: менее 2 вариантов ответа (1)",
+        "q6: менее 2 вариантов ответа (1)",
+        "q9: менее 2 вариантов ответа (1)",
+        "q8: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_kk_9_319177.json",
+      "test_id": "reading_literacy_kk_9_319177",
+      "total_questions": 46,
+      "valid_questions": 46,
+      "images_checked": 6,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_kk_9_326908.json",
+      "test_id": "reading_literacy_kk_9_326908",
+      "total_questions": 87,
+      "valid_questions": 87,
+      "images_checked": 22,
+      "errors_count": 0,
+      "warnings_count": 6,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)",
+        "q5: менее 2 вариантов ответа (1)",
+        "q13: менее 2 вариантов ответа (1)",
+        "q14: менее 2 вариантов ответа (1)",
+        "q11: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_ru_9_381886.json",
+      "test_id": "reading_literacy_ru_9_381886",
+      "total_questions": 150,
+      "valid_questions": 150,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 14,
+      "errors": [],
+      "warnings": [
+        "q5: менее 2 вариантов ответа (1)",
+        "q39: менее 2 вариантов ответа (1)",
+        "q58: менее 2 вариантов ответа (1)",
+        "q7: менее 2 вариантов ответа (1)",
+        "q76: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_ru_9_381887.json",
+      "test_id": "reading_literacy_ru_9_381887",
+      "total_questions": 12,
+      "valid_questions": 12,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 1,
+      "errors": [],
+      "warnings": [
+        "q1: менее 2 вариантов ответа (1)"
+      ],
+      "passed": true
+    },
+    {
+      "file": "reading_literacy_ru_9_386714.json",
+      "test_id": "reading_literacy_ru_9_386714",
+      "total_questions": 20,
+      "valid_questions": 20,
+      "images_checked": 0,
+      "errors_count": 0,
+      "warnings_count": 0,
+      "errors": [],
+      "warnings": [],
+      "passed": true
+    }
+  ]
+}

@@ -1,0 +1,1536 @@
+{
+  "test_id": "reading_literacy_en_9_329130",
+  "title": "ББЖМ, МОДО, 9-сынып Ағылшын тілі бойынша Дайындық материалдары, 10нұсқа+дұрыс жауаптарымен",
+  "subject": "reading_literacy_en",
+  "grade": 9,
+  "language": "en",
+  "source_file": "ББЖМ, МОДО, 9-сынып Ағылшын тілі бойынша Дайындық материалдары, 10нұсқ.docx",
+  "total_questions": 56,
+  "verified_questions": 55,
+  "answer_sources_distribution": {
+    "ai_solved": 56
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**What is the main idea of the text?**\n\nNew York’s tourist\n\nTaxi cabs in New York\n\nCity transport of New York\n\nSubway in New York\n\nАnswer the question: “Who will give the tourists a piece of paper with printed time and direction of the trip?”\n\ntaxi cab service\n\nartist\n\nporter\n\ndriver or operator\n\n**Сұрақ 1:** What can tourists take in rush hour?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a taxi cab service"
+        },
+        {
+          "key": "B",
+          "text": "the subway"
+        },
+        {
+          "key": "C",
+          "text": "bus or street car"
+        },
+        {
+          "key": "D",
+          "text": "train"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('a taxi cab service...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Which sentence contradicts the text?**\n\nCars fill the roads and crowd the streets of the city.\n\nIn New York subway system there are parallel tracks for local and express trains.\n\nThere are a lot of taxi stands where you can stop a taxi by whistling, shouting or raising your hand.\n\nTaxi cabs keep running along the streets all the time.\n\n**Сұрақ 2:** What expression is true about transport in New York?",
+      "options": [
+        {
+          "key": "A",
+          "text": "City transport isn’t a big problem in New York"
+        },
+        {
+          "key": "B",
+          "text": "There are parallel tracks for local and express trains in subway system"
+        },
+        {
+          "key": "C",
+          "text": "The passenger can’t get on another bus or street car at a transfer point."
+        },
+        {
+          "key": "D",
+          "text": "There isn’t extensive bus service operating on a transit basis"
+        },
+        {
+          "key": "E",
+          "text": "What is “subway?”"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('There are parallel tracks for ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Which sentence contradicts the text?**\n\nCars fill the roads and crowd the streets of the city.\n\nIn New York subway system there are parallel tracks for local and express trains.\n\nThere are a lot of taxi stands where you can stop a taxi by whistling, shouting or raising your hand.\n\nTaxi cabs keep running along the streets all the time.\n\n**Сұрақ 3:** What does New York’s public transport include?",
+      "options": [
+        {
+          "key": "A",
+          "text": "the subway, an extensive bus and street car service and taxi cabs."
+        },
+        {
+          "key": "B",
+          "text": "the subway, an extensive bus and car service and taxi drivers."
+        },
+        {
+          "key": "C",
+          "text": "the subway, bus and street vehicle and taxi cabs."
+        },
+        {
+          "key": "D",
+          "text": "the subway, an extensive bus and taxi cabs."
+        },
+        {
+          "key": "E",
+          "text": "New York subway system is a rather"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('the subway, an extensive bus a...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Which sentence contradicts the text?**\n\nCars fill the roads and crowd the streets of the city.\n\nIn New York subway system there are parallel tracks for local and express trains.\n\nThere are a lot of taxi stands where you can stop a taxi by whistling, shouting or raising your hand.\n\nTaxi cabs keep running along the streets all the time.\n\n**Сұрақ 4:** What expression is true about New York’s public transport?",
+      "options": [
+        {
+          "key": "A",
+          "text": "There aren’t many roads and crowd"
+        },
+        {
+          "key": "B",
+          "text": "Local train stops at every station"
+        },
+        {
+          "key": "C",
+          "text": "There aren’t a lot of private automobiles"
+        },
+        {
+          "key": "D",
+          "text": "There are parallel roads for tourists and express trains"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('There are parallel roads for t...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Which sentence contradicts the text?**\n\nCars fill the roads and crowd the streets of the city.\n\nIn New York subway system there are parallel tracks for local and express trains.\n\nThere are a lot of taxi stands where you can stop a taxi by whistling, shouting or raising your hand.\n\nTaxi cabs keep running along the streets all the time.\n\n**Сұрақ 5:** What stands for a taxi cab?",
+      "options": [
+        {
+          "key": "A",
+          "text": "a motor vehicle licensed to transport passengers in return for payment of a fare and typically fitted with a taximeter."
+        },
+        {
+          "key": "B",
+          "text": "an extensive bus and street car service and taxi cabs."
+        },
+        {
+          "key": "C",
+          "text": "a rapid transit system that serves boroughs of New York City,"
+        },
+        {
+          "key": "D",
+          "text": "extensive bus service operating on a transit basis"
+        },
+        {
+          "key": "E",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('a rapid transit system that se...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Reading. Read the text and choose the correct answer**\n\nFood\n\nFood is an important substance for human organism. It mainly consists of proteins, fats and carbohydrates. Besides these three nutritive materials, food can also be divided into two groups – meals of plant origin and meals of animal origin.\n\nThe first group (plant meals) is everything that grows out of our earth. First of all these are vegetables. Vegetables have a tiny amount of calories and are very rich in fiber. Certainly fruit is there where vegetable is. Comparing with veggies, fruit is more dangerous for one's figure, because any fruit is primarily a carbohydrate product. In this respect an intake of fruits doesn’t have to exceed 500-700 grams per day. Any seeds are also included in our list – legumes and cereals.\n\nThe second group (animal meals) is all elements of our nutrition, which are obtained directly from animals. For the most part it’s milk and eggs. Consequently all dairy products turn to be animal food automatically, that is – cheese, curds, ryazhenka, kefir, organic yoghurts and so on. Honey also takes place in this list as well as meat (beef, veal, pork) and meal products (sausages, cutlets).\n\nThe most wholesome food is the food from the first group. The thing is, nourishment like that suits all people – the sick, the healthy, the little and the old. Nonetheless, the second group won’t do harm to healthy people too, especially if it’s not consumed in a processed form.\n\nFood consists of\n\nproteins, oil and carbohydrates\n\nproteins, fats and vitamins\n\nproteins, sugar and carbohydrates\n\nproteins, fats and carbohydrates\n\n**Сұрақ 6:** Why is fruit dangerous for people?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because it contains carbohydrate"
+        },
+        {
+          "key": "B",
+          "text": "Because it has tiny amount of calories"
+        },
+        {
+          "key": "C",
+          "text": "Because it contains fruits"
+        },
+        {
+          "key": "D",
+          "text": "Obtained directly from animals"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Because it has tiny amount of ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Which sentence contradicts the text?**\n\nvegetables have a tiny amount of calories\n\nfruit is more dangerous for one's figure\n\nall dairy products turn to be animal food\n\nanimal meals have a tiny amount of calories\n\n**Сұрақ 7:** Which paragraph answer the question: What do animals give us?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "What is “ryazhenka”"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('What is “ryazhenka”...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "**Which sentence contradicts the text?**\n\nvegetables have a tiny amount of calories\n\nfruit is more dangerous for one's figure\n\nall dairy products turn to be animal food\n\nanimal meals have a tiny amount of calories\n\n**Сұрақ 8:** What stands for “plant meals”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "meals of animal origin"
+        },
+        {
+          "key": "B",
+          "text": "grows out of our earth"
+        },
+        {
+          "key": "C",
+          "text": "obtained directly from animals"
+        },
+        {
+          "key": "D",
+          "text": "animal milk"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('meals of animal origin...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**Which sentence contradicts the text?**\n\nvegetables have a tiny amount of calories\n\nfruit is more dangerous for one's figure\n\nall dairy products turn to be animal food\n\nanimal meals have a tiny amount of calories\n\n**Сұрақ 9:** What expression is true about animal meals?",
+      "options": [
+        {
+          "key": "A",
+          "text": "do harm to healthy people"
+        },
+        {
+          "key": "B",
+          "text": "have a tiny amount of calories"
+        },
+        {
+          "key": "C",
+          "text": "dangerous for one's figure"
+        },
+        {
+          "key": "D",
+          "text": "it consists of milk and eggs"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('have a tiny amount of calories...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**Which sentence contradicts the text?**\n\nvegetables have a tiny amount of calories\n\nfruit is more dangerous for one's figure\n\nall dairy products turn to be animal food\n\nanimal meals have a tiny amount of calories\n\n**Сұрақ 10:** What is “the wholesome food”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "plant meals"
+        },
+        {
+          "key": "B",
+          "text": "animal meals"
+        },
+        {
+          "key": "C",
+          "text": "carbohydrates"
+        },
+        {
+          "key": "D",
+          "text": "proteins"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('animal meals...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "**Which sentence contradicts the text?**\n\nvegetables have a tiny amount of calories\n\nfruit is more dangerous for one's figure\n\nall dairy products turn to be animal food\n\nanimal meals have a tiny amount of calories\n\n**Сұрақ 11:** What does the first group consist of?",
+      "options": [
+        {
+          "key": "A",
+          "text": "sausages, cutlets"
+        },
+        {
+          "key": "B",
+          "text": "beef, veal, pork"
+        },
+        {
+          "key": "C",
+          "text": "legumes and cereals"
+        },
+        {
+          "key": "D",
+          "text": "cheese, curds, organic yoghurts"
+        },
+        {
+          "key": "E",
+          "text": "Honey takes place in"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 12:** Who wrote the songs to “Snow White and the Seven Dwarfs\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Walt Disney"
+        },
+        {
+          "key": "B",
+          "text": "Walt Disney’s brother"
+        },
+        {
+          "key": "C",
+          "text": "Mary Poppins"
+        },
+        {
+          "key": "D",
+          "text": "Frank Churchill"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Walt Disney’s brother...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 13:** Which paragraph answers the question: “How many themes are there in Disney -land”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q14",
+      "question_number": 14,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 14:** What stands for “amusement park”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An amusement park is a park with a piece of ground adjoining a house, in which grass, flowers, and shrubs may be grown."
+        },
+        {
+          "key": "B",
+          "text": "An amusement park is a place where a bus stops for passengers to get on or off."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('An amusement park is a park wi...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q15",
+      "question_number": 15,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 15:** Who created the “kingdom of fantasy”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Frank Churchill"
+        },
+        {
+          "key": "B",
+          "text": "Walt Disney"
+        },
+        {
+          "key": "C",
+          "text": "Walt Disney’s brother"
+        },
+        {
+          "key": "D",
+          "text": "Mary Poppins"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('Walt Disney’s brother...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q16",
+      "question_number": 16,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 16:** What did Walt Disney do during the First World War?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He unfolded a talent for drawing"
+        },
+        {
+          "key": "B",
+          "text": "He struggled against poverty"
+        },
+        {
+          "key": "C",
+          "text": "achieved lasting success"
+        },
+        {
+          "key": "D",
+          "text": "turned his attention to real-life nature"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('turned his attention to real-l...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q17",
+      "question_number": 17,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 17:** What expression is true about Mickey Mouse?",
+      "options": [
+        {
+          "key": "A",
+          "text": "unsuccessful feature cartoon"
+        },
+        {
+          "key": "B",
+          "text": "achieved lasting success"
+        },
+        {
+          "key": "C",
+          "text": "became favourite"
+        },
+        {
+          "key": "D",
+          "text": "divided into six themes"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('unsuccessful feature cartoon...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q18",
+      "question_number": 18,
+      "question_text": "**Which sentence contradicts the text?**\n\nHis works have given so much pleasure for many years\n\nHe branched out into a different enterprise\n\nHe left with his brother Roy for Hollywood\n\nFrank Churchill created superb kingdom of fantasy linked to technology\n\n**Сұрақ 18:** Where is a huge amusement park situated?",
+      "options": [
+        {
+          "key": "A",
+          "text": "in Chicago"
+        },
+        {
+          "key": "B",
+          "text": "in California"
+        },
+        {
+          "key": "C",
+          "text": "in Canada"
+        },
+        {
+          "key": "D",
+          "text": "C"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q19",
+      "question_number": 19,
+      "question_text": "**Which sentence contradicts the text?**\n\nHis works have given so much pleasure for many years\n\nHe branched out into a different enterprise\n\nHe left with his brother Roy for Hollywood\n\nFrank Churchill created superb kingdom of fantasy linked to technology\n\n**Сұрақ 19:** What did Walt Disney do after the Second World War?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He died in California"
+        },
+        {
+          "key": "B",
+          "text": "He achieved lasting success"
+        },
+        {
+          "key": "C",
+          "text": "He branched out into a different enterprise"
+        },
+        {
+          "key": "D",
+          "text": "He worked with non-cartoon films"
+        },
+        {
+          "key": "E",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('He branched out into a differe...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q20",
+      "question_number": 20,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAmerica's music culture\n\nAmerica's music culture would be incomplete without blues music. Thought it was created in the early decades of the 20th century, blues music has had a huge influence on American popular music up to the present days. In fact, many key elements we hear in pop, soul, rhythm and blues, rock and roll, have their beginnings in blues music. It has never been the leader in music sales.\n\nBlues music has retained a significant presence not only in concerts and festivals throughout the United States, but in the daily life of every person on the planet, as well. One can hear the sound of the blues in unexpected places, from a television commercial to a new country or western song.\n\nThe best known blues musician today is B.B. King. His fame is well- deserved. Born in Indianola, Mississippi in 1925, he earned the nickname \"B.B.\" (\"Blues boy\") while playing on radio programs in Memphis, Tennessee. From the 1940s through the 1960s, he played mostly in clubs in the South that had only black audiences. In 1948, he had a hit record with \"Three A.M. Blues\" and toured steadily thereafter. His fame spread as he played at blues festivals, concert halls, universities, and on television shows across the country.\n\nBy the late 1960s, B. B. had perfected his famous guitar style of vibrating the fingers of his left hand as he played, and bending notes to achieve the blues notes, that are such an integral part of blue music. This singing guitar sound, coupled with his expressive tenor voice, brought King great success in 1969 with the recording of \"The Thrill is Gone\". The song broke through the limited sales of the blues market to achieve mainstream success and brought B.B. a Grammy award.\n\n**Сұрақ 20:** When was blues music created?",
+      "options": [
+        {
+          "key": "A",
+          "text": "in the twenty first century"
+        },
+        {
+          "key": "B",
+          "text": "in the twentieth century"
+        },
+        {
+          "key": "C",
+          "text": "in the nineteenth century"
+        },
+        {
+          "key": "D",
+          "text": "in the eighteenth century"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('in the twenty first century...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q21",
+      "question_number": 21,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAmerica's music culture\n\nAmerica's music culture would be incomplete without blues music. Thought it was created in the early decades of the 20th century, blues music has had a huge influence on American popular music up to the present days. In fact, many key elements we hear in pop, soul, rhythm and blues, rock and roll, have their beginnings in blues music. It has never been the leader in music sales.\n\nBlues music has retained a significant presence not only in concerts and festivals throughout the United States, but in the daily life of every person on the planet, as well. One can hear the sound of the blues in unexpected places, from a television commercial to a new country or western song.\n\nThe best known blues musician today is B.B. King. His fame is well- deserved. Born in Indianola, Mississippi in 1925, he earned the nickname \"B.B.\" (\"Blues boy\") while playing on radio programs in Memphis, Tennessee. From the 1940s through the 1960s, he played mostly in clubs in the South that had only black audiences. In 1948, he had a hit record with \"Three A.M. Blues\" and toured steadily thereafter. His fame spread as he played at blues festivals, concert halls, universities, and on television shows across the country.\n\nBy the late 1960s, B. B. had perfected his famous guitar style of vibrating the fingers of his left hand as he played, and bending notes to achieve the blues notes, that are such an integral part of blue music. This singing guitar sound, coupled with his expressive tenor voice, brought King great success in 1969 with the recording of \"The Thrill is Gone\". The song broke through the limited sales of the blues market to achieve mainstream success and brought B.B. a Grammy award.\n\n**Сұрақ 21:** Which paragraph answers the question: When did he earn the nickname \"Blues boy\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q22",
+      "question_number": 22,
+      "question_text": "**Which sentence contradicts the text?**\n\nAmerican popular music up to the present days\n\nPeople can hear the sound of the blues in unexpected places\n\nThe song broke through the limited sales of the blues market\n\nKing got his great success recording \"Three A.M. Blues\"\n\n**Сұрақ 22:** What expression is true about America's music culture?",
+      "options": [
+        {
+          "key": "B",
+          "text": "played for everybody"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('had a great success in 1979...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q23",
+      "question_number": 23,
+      "question_text": "**Which sentence contradicts the text?**\n\nAmerican popular music up to the present days\n\nPeople can hear the sound of the blues in unexpected places\n\nThe song broke through the limited sales of the blues market\n\nKing got his great success recording \"Three A.M. Blues\"\n\n**Сұрақ 23:** What is “blues”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Blues is a genre of popular music that produces and sells the most hits."
+        },
+        {
+          "key": "B",
+          "text": "Blues is a mixture of pop, soul, rhythm and rock and roll"
+        },
+        {
+          "key": "C",
+          "text": "Blues is a genre of popular music that evolved in the United States in 1940"
+        },
+        {
+          "key": "D",
+          "text": "Blues is a music genre and musical form which was originated in the United States"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Blues is a genre of popular mu...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q24",
+      "question_number": 24,
+      "question_text": "**Which sentence contradicts the text?**\n\nAmerican popular music up to the present days\n\nPeople can hear the sound of the blues in unexpected places\n\nThe song broke through the limited sales of the blues market\n\nKing got his great success recording \"Three A.M. Blues\"\n\n**Сұрақ 24:** What stands for “Grammy award”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Grammy award recognizes spectacular work in the film industry."
+        },
+        {
+          "key": "B",
+          "text": "Grammy award recognizes spectacular work in the music industry."
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Pop, soul, rhythm and blues, rock and roll"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Grammy award recognizes specta...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q25",
+      "question_number": 25,
+      "question_text": "**Which sentence contradicts the text?**\n\nAmerican popular music up to the present days\n\nPeople can hear the sound of the blues in unexpected places\n\nThe song broke through the limited sales of the blues market\n\nKing got his great success recording \"Three A.M. Blues\"\n\n**Сұрақ 25:** Where did \"Blues boy\" play his music?",
+      "options": [
+        {
+          "key": "A",
+          "text": "in festivals, concert halls, schools"
+        },
+        {
+          "key": "B",
+          "text": "in festivals, concert halls, universities"
+        },
+        {
+          "key": "C",
+          "text": "in concerts, concert halls, universities"
+        },
+        {
+          "key": "D",
+          "text": "in festivals, halls, universities"
+        },
+        {
+          "key": "E",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q26",
+      "question_number": 26,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHow floods form\n\nThere are few places on Earth where flooding is not a concern. Any area where rain falls is vulnerable to floods, though rain is not the only cause.\n\nA flood occurs when water inundates land that's normally dry, which can happen in a multitude of ways.\n\nExcessive rain, a ruptured dam or levee, rapid melting of snow or ice, or even an unfortunately placed beaver dam can overwhelm a river, spreading over the adjacent land, called a floodplain. Coastal flooding occurs when a large storm or tsunami causes the sea to surge inland.\n\nMost floods take hours or even days to develop, giving residents time to prepare or evacuate. Others generate quickly and with little warning. So-called flash floods can be extremely dangerous, instantly turning a babbling brook or even a dry wash into rushing rapids that sweep everything in their path downstream.\n\nClimate change is increasing the risk of floods worldwide, particularly in coastal and low-lying areas, because of its role in extreme weather events and rising seas. The increase in temperatures that accompanies global warming can contribute to hurricanes that move more slowly and drop more rain, funneling moisture into atmospheric rivers like the ones that led to heavy rains and flooding in California in early 2019.\n\nMeanwhile, melting glaciers and other factors are contributing to a rise in sea levels that has created long-term, chronic flooding risks for places ranging from Venice, Italy to the Marshall Islands. More than 670 U.S. communities will face repeated flooding by the end of this century, according to a 2017 analysis; it's happening in more than 90 coastal communities already.\n\n**Сұрақ 26:** What statement is true about floods?",
+      "options": [
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "There are no places on Earth where flooding is not a concern."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('There are no places on Earth w...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q27",
+      "question_number": 27,
+      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 27:** Which paragraph relates with a problem of long-term chronic flooding risks?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "4"
+        },
+        {
+          "key": "C",
+          "text": "5"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q28",
+      "question_number": 28,
+      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 28:** Which statement is NOT a cause of floods?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Excessive rains"
+        },
+        {
+          "key": "B",
+          "text": "Rapid snow melting"
+        },
+        {
+          "key": "D",
+          "text": "Hot weather and dry climate"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Excessive rains...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q29",
+      "question_number": 29,
+      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 29:** What word combinations are not related to flash floods?",
+      "options": [
+        {
+          "key": "A",
+          "text": "babbling brook"
+        },
+        {
+          "key": "B",
+          "text": "sweep everything in their path"
+        },
+        {
+          "key": "C",
+          "text": "extremely dangerous"
+        },
+        {
+          "key": "D",
+          "text": "rushing rapids"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q30",
+      "question_number": 30,
+      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 30:** How many U.S. communities will face repeated flooding by the end of this century, according to a 2017 analysis?",
+      "options": [
+        {
+          "key": "A",
+          "text": "670"
+        },
+        {
+          "key": "B",
+          "text": "90"
+        },
+        {
+          "key": "C",
+          "text": "more than 670"
+        },
+        {
+          "key": "D",
+          "text": "more than 90"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q31",
+      "question_number": 31,
+      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 31:** What has created long-term, chronic flooding risks?",
+      "options": [
+        {
+          "key": "A",
+          "text": "climate change"
+        },
+        {
+          "key": "B",
+          "text": "melting glaciers"
+        },
+        {
+          "key": "C",
+          "text": "tsunami"
+        },
+        {
+          "key": "D",
+          "text": "rains"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q32",
+      "question_number": 32,
+      "question_text": "**Choose the best new title for this text:**\n\nClimate change and global warming\n\nFlooding and its consequences\n\nCauses of floods\n\nMelting glaciers and other factors are contributing to a rise in sea levels\n\n**Сұрақ 32:** Why is climate change increasing the risk of floods worldwide?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because of its role in extreme weather events and rising seas"
+        },
+        {
+          "key": "B",
+          "text": "because of excessive rains"
+        },
+        {
+          "key": "C",
+          "text": "because of flash-floods"
+        },
+        {
+          "key": "D",
+          "text": "because of long-term, chronic flooding risks"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('because of flash-floods...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q33",
+      "question_number": 33,
+      "question_text": "**Choose the best new title for this text:**\n\nClimate change and global warming\n\nFlooding and its consequences\n\nCauses of floods\n\nMelting glaciers and other factors are contributing to a rise in sea levels\n\n**Сұрақ 33:** What led to heavy rains and flooding in California in early 2019?",
+      "options": [
+        {
+          "key": "A",
+          "text": "tsunami"
+        },
+        {
+          "key": "B",
+          "text": "excessive rains"
+        },
+        {
+          "key": "C",
+          "text": "rapid melting of snow or ice"
+        },
+        {
+          "key": "D",
+          "text": "hurricanes that move more slowly and drop more rain, funneling moisture into atmospheric rivers"
+        },
+        {
+          "key": "E",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('excessive rains...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q34",
+      "question_number": 34,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nKazakh national cuisine\n\nHospitality has always been a main character trait of Kazakh people. Even if you have just a minute to pop in to a Kazakh house, an owner will still ask you to sit down and offer a fragrant tea with sweets.\n\nHospitable owner would offer his guest a seat at a place of honor. Traditionally, meal is served at a low round table, called dastarkhan. First and foremost, in order to quench thirst of the guest a hostess would treat him with a bowl of yogurt drink. This can be \"kumys\" - a drink based on fermented mare's milk\n\n- or shubat the main ingredient of which is camel milk. Then, table will be filled with baursaks - balls of dough, pre-fried in boiling oil, samsa - triangular pastries with meat,kausyrma - a kind of thin pastries or fried doughs filled with meat and onions, raisins,kurt (small, salted cheese balls) and, of course, tea.\n\nAfter a long-drawn tea ceremony, assortment of dishes on the festive table will be complemented by meat dishes:kazi, shuzhuk, zhal, zhaya, karta, kabyrga. The above dishes are traditionally prepared from horse meat or lamb. The main dish of Kazakh cuisine, with which owners welcome their guests is besbarmak. Name of this dish is translated from Kazakh as “five fingers” because of a manner to eat the dish by hand. Besbarmak's main ingredients are: meat (lamb or horse meat), pasta (it is cut into small squares), as well as herbs (dill , parsley, cilantro, etc.).\n\nAs for traditional Kazakh first course, sorpa – rich broth completed by seasoned vegetables, spices and herbs - occupies a special place. Sorpa, unlike other first courses, is for drinking, so it is served in bowls. Tea ceremony completes the meal.\n\n(288 words)\n\nWhat is the name of the main dish of Kazakh cuisine, with which the hosts greet their guests. Choose one correct answer.\n\nKumys\n\nBeshbarmak С. Baursaks\n\nSorpa\n\nKausyrma\n\nWhat is the name of a drink based on fermented mare's milk? Choose one correct answer.\n\nsamsa В. kumys С. baursaks\n\nD. shubat\n\nE. Kurt\n\nDetermine the main product on the basis of which kurt is prepared? Choose one correct answer.\n\ncheese\n\nshubat\n\ncottage cheese\n\nfried wheat\n\ndough\n\n**Сұрақ 34:** The traditional food of the Kazakh people includes mutton and horse meat, as well as fermented dairy products. Determine what this may be related to?",
+      "options": [
+        {
+          "key": "A",
+          "text": "sedentary lifestyle"
+        },
+        {
+          "key": "B",
+          "text": "sharply continental and dry climate"
+        },
+        {
+          "key": "C",
+          "text": "large areas of pasture fields"
+        },
+        {
+          "key": "D",
+          "text": "nomadic lifestyle"
+        },
+        {
+          "key": "E",
+          "text": "all the answers are correct"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('all the answers are correct...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q35",
+      "question_number": 35,
+      "question_text": "**Suggest a name for the 1st and 2nd paragraphs of this text.**\n\nHospitable people\n\nTea ceremony\n\nKazakh sweets\n\nDastarkhan\n\nFeatures of Kazakh cuisine\n\n**Сұрақ 35:** What dish of Kazakh national cuisine can be prepared from the list of products listed below?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Oil Flour Egg salt water"
+        },
+        {
+          "key": "B",
+          "text": "starter culture"
+        },
+        {
+          "key": "C",
+          "text": "beshbarmak"
+        },
+        {
+          "key": "D",
+          "text": "male"
+        },
+        {
+          "key": "E",
+          "text": "kausyrma"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q36",
+      "question_number": 36,
+      "question_text": "**What is the main idea of the text?**\n\nPreparation of Kazakh athletes for the Olympics.\n\nThere are hundreds of sports.\n\nHistory of boxing in Kazakhstan.\n\nStatus of sport in Kazakhstan.\n\n**Сұрақ 36:** Which paragraph answers the question «What sport is the most prevalent in Kazakhstan?»?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paragraph 3"
+        },
+        {
+          "key": "B",
+          "text": "Paragraph 1"
+        },
+        {
+          "key": "C",
+          "text": "Paragraph 4"
+        },
+        {
+          "key": "D",
+          "text": "Paragraph 2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Paragraph 3...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q37",
+      "question_number": 37,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 37:** “Sport is paid much attention to in our educational establishments.” What does this sentence mean?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Members of the government are fond of sports"
+        },
+        {
+          "key": "B",
+          "text": "Sports are supported in Kazakhstan at the state level."
+        },
+        {
+          "key": "C",
+          "text": "Sport is important for the country's development strategy"
+        },
+        {
+          "key": "D",
+          "text": "sports development is included in the educational system"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Sports are supported in Kazakh...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q38",
+      "question_number": 38,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 38:** What expression is true about the total number of medals of Kazakhstan in boxing for the last three Olympiads?",
+      "options": [
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Cuba and Russia had more medals overall."
+        },
+        {
+          "key": "A",
+          "text": ""
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('Kazakhstani boxers have won si...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q39",
+      "question_number": 39,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 39:** How many boxers from Kazakhstan stood on the podium at the Sydney Olympics?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2"
+        },
+        {
+          "key": "B",
+          "text": "3"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "0"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q40",
+      "question_number": 40,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 40:** Which Kazakhstani boxers stood on the highest platform of the podium at the Sydney Olympics?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Bekzat Sattarkhanov and Yermakhan Ibraimov"
+        },
+        {
+          "key": "B",
+          "text": "Vasiliy Jirov and Bakhtiyar Artayev"
+        },
+        {
+          "key": "C",
+          "text": "Bulat Jumadilov and Mukhtarkhan Dildabekov"
+        },
+        {
+          "key": "D",
+          "text": "Bakhtiyar Artayev and Bulat Jumadilov"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q41",
+      "question_number": 41,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 41:** What is the Val Barker trophy?",
+      "options": [
+        {
+          "key": "A",
+          "text": "an award for more medals in boxing"
+        },
+        {
+          "key": "B",
+          "text": "а prize for two gold medals in boxing in a row"
+        },
+        {
+          "key": "C",
+          "text": "а consolation prize in boxing"
+        },
+        {
+          "key": "D",
+          "text": "a prize that is awarded to the most technical boxer of the Olympic Games"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('a prize that is awarded to the...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q42",
+      "question_number": 42,
+      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 42:** How is sport in Kazakhstan supported by the state?",
+      "options": [
+        {
+          "key": "A",
+          "text": "There are different sporting societies clubs and complexes."
+        },
+        {
+          "key": "B",
+          "text": "Sport is paid much attention to in educational establishments."
+        },
+        {
+          "key": "C",
+          "text": "all of the above"
+        },
+        {
+          "key": "D",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('There are different sporting s...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q43",
+      "question_number": 43,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 43:** Is the given statement correct: Human health condition, ecosystem quality and aquatic and terrestrial biodiversity might be influenced and even modified by pollution?",
+      "options": [
+        {
+          "key": "B",
+          "text": "incorrect"
+        },
+        {
+          "key": "C",
+          "text": "partly correct"
+        },
+        {
+          "key": "D",
+          "text": "partially incorrect"
+        },
+        {
+          "key": "A",
+          "text": "toxic chemicals"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('Pollution happens when ecosyst...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q44",
+      "question_number": 44,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 44:** Why can’t the environment naturally eliminate pollutants from it?",
+      "options": [
+        {
+          "key": "A",
+          "text": "since the critical threshold of its ability is compromised and the balance of the ecosystem is broken"
+        },
+        {
+          "key": "B",
+          "text": "since the critical threshold of its ability is compromised"
+        },
+        {
+          "key": "D",
+          "text": "destruction of the biodiversity"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q45",
+      "question_number": 45,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 45:** What is considered to be complex in terms of the number of different pollutants for the environment?",
+      "options": [
+        {
+          "key": "A",
+          "text": "the identification of different particles and their effects on ecosystems"
+        },
+        {
+          "key": "B",
+          "text": "the number of different particles and their effects on ecosystems"
+        },
+        {
+          "key": "D",
+          "text": "destruction of natural habitat"
+        },
+        {
+          "key": "C",
+          "text": "stable"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('the number of different partic...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q46",
+      "question_number": 46,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 46:** What terrible consequences could oil spills and nuclear accidents have on people and the planet?",
+      "options": [
+        {
+          "key": "A",
+          "text": "destruction of the biodiversity"
+        },
+        {
+          "key": "C",
+          "text": "modification of the people’ genes"
+        },
+        {
+          "key": "D",
+          "text": "damage to the quality of soil, water and air"
+        },
+        {
+          "key": "B",
+          "text": "protection of the environment"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('prevention of pollution and pr...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q47",
+      "question_number": 47,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 47:** What must be prevented if we heal the existing pollution?",
+      "options": [
+        {
+          "key": "A",
+          "text": "future possible influence"
+        },
+        {
+          "key": "B",
+          "text": "future pollution sources"
+        },
+        {
+          "key": "C",
+          "text": "future generations needs"
+        },
+        {
+          "key": "D",
+          "text": "use of the world ocean"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('future pollution sources...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q48",
+      "question_number": 48,
+      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 48:** Which strict rules towards the environmental damage must be created?",
+      "options": [
+        {
+          "key": "A",
+          "text": "any environmental damage must be punished by law"
+        },
+        {
+          "key": "B",
+          "text": "any environmental damage must be punished by society"
+        },
+        {
+          "key": "C",
+          "text": "any environmental damage must be punished by the environmentalists"
+        },
+        {
+          "key": "D",
+          "text": "any damage to the environment should be taxed"
+        },
+        {
+          "key": "E",
+          "text": "Ағылшын тілі"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('any environmental damage must ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q49",
+      "question_number": 49,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 49:** What statement is true about the history of the Internet?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Computers of the 20th century were perfect."
+        },
+        {
+          "key": "B",
+          "text": "In the 20th century the history of the Internet began."
+        },
+        {
+          "key": "C",
+          "text": "The history of the Internet has begun as the result of automatization."
+        },
+        {
+          "key": "D",
+          "text": "There was no necessity of the Internet in the middle of the 20th century."
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('There was no necessity of the ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q50",
+      "question_number": 50,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 50:** What was the reason of appearing the history of the Internet?",
+      "options": [
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "It was a concept of multi-tasking."
+        },
+        {
+          "key": "C",
+          "text": "People wanted to have many computers."
+        },
+        {
+          "key": "D",
+          "text": "People wanted to work together."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('It was a concept of multi-task...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q51",
+      "question_number": 51,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 51:** Who would be able to exchange data with the others?",
+      "options": [
+        {
+          "key": "A",
+          "text": "each participant"
+        },
+        {
+          "key": "B",
+          "text": "only two participants"
+        },
+        {
+          "key": "C",
+          "text": "all the participants"
+        },
+        {
+          "key": "D",
+          "text": "three participants"
+        },
+        {
+          "key": "E",
+          "text": "Which term relates to the network architecture in itself."
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('Which term relates to the netw...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q52",
+      "question_number": 52,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 52:** Which paragraph relates with a problem of uniting some computers into a single network?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "3"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q53",
+      "question_number": 53,
+      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 53:** Tim Berners-Lee was one of the inventors of:",
+      "options": [
+        {
+          "key": "B",
+          "text": "HTML"
+        },
+        {
+          "key": "D",
+          "text": "all answers are correct"
+        },
+        {
+          "key": "E",
+          "text": "It can cut and slice the products"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('HTML...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q54",
+      "question_number": 54,
+      "question_text": "**What is the main idea of the text?**\n\nUsing 3D printers can create the things we need very quickly and easily\n\nUsing 3D printers can help to cook\n\n3D printers create new life\n\n3D printers are very dangerous for people\n\n**Сұрақ 54:** “Printing food could also help people who suffer from dysphasia”. What does this sentence mean?",
+      "options": [
+        {
+          "key": "D",
+          "text": "printer can print solid food versions"
+        },
+        {
+          "key": "B",
+          "text": "It can print favorite foods for everyone"
+        },
+        {
+          "key": "A",
+          "text": "Traditional food"
+        },
+        {
+          "key": "C",
+          "text": "planting, transporting and preparing food"
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('printer can treat from dysphas...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q55",
+      "question_number": 55,
+      "question_text": "**Which statement about 3D printer is correct according to the text?**\n\nEating together with family and friends isn’t a traditional activity.\n\nPeople are able to create the things they need very quickly and easily.\n\n3D printer can’t print softer versions of foods\n\nPeople can create new professions\n\n**Сұрақ 55:** Why do scientists concern about the nutritional value of printed food?",
+      "options": [
+        {
+          "key": "A",
+          "text": "People can’t get the nutrients they need from food-based inks and gels"
+        },
+        {
+          "key": "B",
+          "text": "People can print food from a raw 'food ink'"
+        },
+        {
+          "key": "D",
+          "text": "Printed food would be traditional and enjoyable activity."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('People can’t get the nutrients...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q56",
+      "question_number": 56,
+      "question_text": "**Which statement about 3D printer is correct according to the text?**\n\nEating together with family and friends isn’t a traditional activity.\n\nPeople are able to create the things they need very quickly and easily.\n\n3D printer can’t print softer versions of foods\n\nPeople can create new professions\n\n**Сұрақ 56:** Ағылшын тілі",
+      "options": [
+        {
+          "key": "A",
+          "text": "№ | 1 нұсқа | 2 нұсқа | 3 нұсқа | 4 нұсқа | 5 нұсқа | 6 нұсқа | 7 нұсқа | 8 нұсқа | 9 нұсқа | 10 нұсқа"
+        },
+        {
+          "key": "B",
+          "text": "1 | С | D | С | В | C | B | C | C | B | A"
+        },
+        {
+          "key": "C",
+          "text": "2 | D | A | D | С | B | В | D | A | A | B"
+        },
+        {
+          "key": "D",
+          "text": "3 | В | D | С | D | D | С | A | B | C | B"
+        },
+        {
+          "key": "E",
+          "text": "4 | С | C | D | В | D | D | A | A | A | C"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

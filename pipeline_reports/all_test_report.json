@@ -1,0 +1,531 @@
+{
+  "mode": "all",
+  "timestamp": "2026-10-08 12:06:25",
+  "duration_seconds": 26.27,
+  "total_targets": 40,
+  "successful_tests": 40,
+  "failed_tests": 0,
+  "total_parsed_questions": 4192,
+  "total_embedded_images": 666,
+  "answer_sources_summary": {
+    "ai_solved": 3683,
+    "document_highlight": 35,
+    "document_key": 347,
+    "document_bold": 118,
+    "document_plus_marker": 9
+  },
+  "details": [
+    {
+      "folder_id": "319177_9 сынып МОДО тапсырмалары",
+      "test_id": "reading_literacy_kk_9_319177",
+      "status": "success",
+      "output_file": "reading_literacy_kk_9_319177.json",
+      "questions_count": 46,
+      "verified_count": 46,
+      "images_count": 5,
+      "sources": {
+        "ai_solved": 41,
+        "document_highlight": 5
+      }
+    },
+    {
+      "folder_id": "321395_модо тапсырмалары",
+      "test_id": "chemistry_9_321395",
+      "status": "success",
+      "output_file": "chemistry_9_321395.json",
+      "questions_count": 248,
+      "verified_count": 246,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 248
+      }
+    },
+    {
+      "folder_id": "321396_модо тапсырмалары",
+      "test_id": "chemistry_9_321396",
+      "status": "success",
+      "output_file": "chemistry_9_321396.json",
+      "questions_count": 251,
+      "verified_count": 248,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 251
+      }
+    },
+    {
+      "folder_id": "321397_модо тапсырмалары",
+      "test_id": "math_literacy_9_321397",
+      "status": "success",
+      "output_file": "math_literacy_9_321397.json",
+      "questions_count": 98,
+      "verified_count": 86,
+      "images_count": 1,
+      "sources": {
+        "document_key": 15,
+        "ai_solved": 75,
+        "document_bold": 7,
+        "document_plus_marker": 1
+      }
+    },
+    {
+      "folder_id": "322446_Модо, Ағылшын тілі, 9-сынып. _Dialogue Dana and Mr Barkley_ 10 сұрақ+д",
+      "test_id": "reading_literacy_en_9_322446",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_322446.json",
+      "questions_count": 16,
+      "verified_count": 11,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 12,
+        "document_bold": 4
+      }
+    },
+    {
+      "folder_id": "324293_9 сынып МОДО, ағылшын тілінен 5текст+жауаптарымен",
+      "test_id": "reading_literacy_en_9_324293",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_324293.json",
+      "questions_count": 49,
+      "verified_count": 48,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 46,
+        "document_bold": 3
+      }
+    },
+    {
+      "folder_id": "325853_МОДО",
+      "test_id": "math_literacy_9_325853",
+      "status": "success",
+      "output_file": "math_literacy_9_325853.json",
+      "questions_count": 12,
+      "verified_count": 11,
+      "images_count": 1,
+      "sources": {
+        "ai_solved": 12
+      }
+    },
+    {
+      "folder_id": "326882_Математика сауаттылық бойынша ББЖМ (МОДО) папкасы 9-сынып.",
+      "test_id": "math_literacy_9_326882",
+      "status": "success",
+      "output_file": "math_literacy_9_326882.json",
+      "questions_count": 71,
+      "verified_count": 63,
+      "images_count": 606,
+      "sources": {
+        "document_key": 32,
+        "ai_solved": 38,
+        "document_bold": 1
+      }
+    },
+    {
+      "folder_id": "326908_МОДО. Қазақ тілі",
+      "test_id": "reading_literacy_kk_9_326908",
+      "status": "success",
+      "output_file": "reading_literacy_kk_9_326908.json",
+      "questions_count": 87,
+      "verified_count": 81,
+      "images_count": 12,
+      "sources": {
+        "ai_solved": 82,
+        "document_bold": 5
+      }
+    },
+    {
+      "folder_id": "326909_МОДО математика",
+      "test_id": "math_literacy_9_326909",
+      "status": "success",
+      "output_file": "math_literacy_9_326909.json",
+      "questions_count": 12,
+      "verified_count": 11,
+      "images_count": 1,
+      "sources": {
+        "ai_solved": 12
+      }
+    },
+    {
+      "folder_id": "327279_Модо, ағылшын тілі, 9-сынып. Dodo pizza",
+      "test_id": "reading_literacy_en_9_327279",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_327279.json",
+      "questions_count": 10,
+      "verified_count": 10,
+      "images_count": 0,
+      "sources": {
+        "document_bold": 1,
+        "ai_solved": 9
+      }
+    },
+    {
+      "folder_id": "328969_Ағылшын пәнінен модо тапсырмалары",
+      "test_id": "reading_literacy_en_9_328969",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_328969.json",
+      "questions_count": 346,
+      "verified_count": 177,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 339,
+        "document_plus_marker": 7
+      }
+    },
+    {
+      "folder_id": "329123_ББЖМ, МОДО, 9-сынып. Ағылшын тілі пәні бойынша 8 текст + дұрыс жауапта",
+      "test_id": "reading_literacy_en_9_329123",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_329123.json",
+      "questions_count": 78,
+      "verified_count": 72,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 70,
+        "document_bold": 8
+      }
+    },
+    {
+      "folder_id": "329127_4-сынып ББЖМ-ға дайындық материалдары, подготовке к МОДО, 4-класс",
+      "test_id": "primary_complex_4_329127",
+      "status": "success",
+      "output_file": "primary_complex_4_329127.json",
+      "questions_count": 273,
+      "verified_count": 254,
+      "images_count": 16,
+      "sources": {
+        "ai_solved": 267,
+        "document_bold": 6
+      }
+    },
+    {
+      "folder_id": "329130_ББЖМ, МОДО, 9-сынып Ағылшын тілі бойынша Дайындық материалдары, 10нұсқ",
+      "test_id": "reading_literacy_en_9_329130",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_329130.json",
+      "questions_count": 56,
+      "verified_count": 55,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 56
+      }
+    },
+    {
+      "folder_id": "332147_МОДО тапсырмалары үш нұсқа математика 9-сынып",
+      "test_id": "math_literacy_9_332147",
+      "status": "success",
+      "output_file": "math_literacy_9_332147.json",
+      "questions_count": 11,
+      "verified_count": 8,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 10,
+        "document_plus_marker": 1
+      }
+    },
+    {
+      "folder_id": "332622_МОДО дайындық тапсырмалары география жауаптарымен 9 сынып",
+      "test_id": "geography_9_332622",
+      "status": "success",
+      "output_file": "geography_9_332622.json",
+      "questions_count": 18,
+      "verified_count": 18,
+      "images_count": 10,
+      "sources": {
+        "document_key": 7,
+        "ai_solved": 11
+      }
+    },
+    {
+      "folder_id": "332681_МОДО ББЖМ ЖАУАПТАРЫМЕН 4-сынып барлық пәннен, ішінде 10 нұсқа бар!",
+      "test_id": "primary_complex_4_332681",
+      "status": "success",
+      "output_file": "primary_complex_4_332681.json",
+      "questions_count": 627,
+      "verified_count": 586,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 627
+      }
+    },
+    {
+      "folder_id": "332849_Модо папка",
+      "test_id": "reading_literacy_en_4_332849",
+      "status": "success",
+      "output_file": "reading_literacy_en_4_332849.json",
+      "questions_count": 16,
+      "verified_count": 10,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 16
+      }
+    },
+    {
+      "folder_id": "333943_Модо 9 сынып 2024 жыл қазақша_орысша",
+      "test_id": "math_literacy_9_333943",
+      "status": "success",
+      "output_file": "math_literacy_9_333943.json",
+      "questions_count": 5,
+      "verified_count": 5,
+      "images_count": 2,
+      "sources": {
+        "document_bold": 1,
+        "ai_solved": 4
+      }
+    },
+    {
+      "folder_id": "334809_МОДО ОЖСБ 9-сынып Шетел тілі (170 бет)",
+      "test_id": "reading_literacy_en_9_334809",
+      "status": "success",
+      "output_file": "reading_literacy_en_9_334809.json",
+      "questions_count": 990,
+      "verified_count": 489,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 690,
+        "document_key": 238,
+        "document_bold": 62
+      }
+    },
+    {
+      "folder_id": "335226_4 Сынып ББЖМ Соңғы. Модо",
+      "test_id": "primary_complex_4_335226",
+      "status": "success",
+      "output_file": "primary_complex_4_335226.json",
+      "questions_count": 87,
+      "verified_count": 81,
+      "images_count": 12,
+      "sources": {
+        "ai_solved": 82,
+        "document_bold": 5
+      }
+    },
+    {
+      "folder_id": "335871_Математикалық сауаттылық тапсырмалары ББЖМ жауаптарымен МОДО",
+      "test_id": "math_literacy_9_335871",
+      "status": "success",
+      "output_file": "math_literacy_9_335871.json",
+      "questions_count": 19,
+      "verified_count": 18,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 19
+      }
+    },
+    {
+      "folder_id": "337789_Мат сауаттылық МОДО тапсырмалары (9 сынып)",
+      "test_id": "math_literacy_9_337789",
+      "status": "success",
+      "output_file": "math_literacy_9_337789.json",
+      "questions_count": 11,
+      "verified_count": 10,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 11
+      }
+    },
+    {
+      "folder_id": "341345_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+      "test_id": "physics_9_341345",
+      "status": "success",
+      "output_file": "physics_9_341345.json",
+      "questions_count": 10,
+      "verified_count": 8,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 10
+      }
+    },
+    {
+      "folder_id": "341347_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+      "test_id": "physics_9_341347",
+      "status": "success",
+      "output_file": "physics_9_341347.json",
+      "questions_count": 10,
+      "verified_count": 9,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 9,
+        "document_bold": 1
+      }
+    },
+    {
+      "folder_id": "341348_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 3 нұсқа",
+      "test_id": "physics_9_341348",
+      "status": "success",
+      "output_file": "physics_9_341348.json",
+      "questions_count": 17,
+      "verified_count": 16,
+      "images_count": 0,
+      "sources": {
+        "document_highlight": 7,
+        "ai_solved": 10
+      }
+    },
+    {
+      "folder_id": "341350_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа",
+      "test_id": "physics_9_341350",
+      "status": "success",
+      "output_file": "physics_9_341350.json",
+      "questions_count": 6,
+      "verified_count": 6,
+      "images_count": 0,
+      "sources": {
+        "document_bold": 2,
+        "ai_solved": 4
+      }
+    },
+    {
+      "folder_id": "341351_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 7 нұсқа",
+      "test_id": "physics_9_341351",
+      "status": "success",
+      "output_file": "physics_9_341351.json",
+      "questions_count": 16,
+      "verified_count": 14,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 8,
+        "document_bold": 2,
+        "document_highlight": 6
+      }
+    },
+    {
+      "folder_id": "341352_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 8 нұсқа",
+      "test_id": "math_literacy_9_341352",
+      "status": "success",
+      "output_file": "math_literacy_9_341352.json",
+      "questions_count": 10,
+      "verified_count": 9,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 10
+      }
+    },
+    {
+      "folder_id": "341353_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 10 нұсқа",
+      "test_id": "physics_9_341353",
+      "status": "success",
+      "output_file": "physics_9_341353.json",
+      "questions_count": 9,
+      "verified_count": 9,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 9
+      }
+    },
+    {
+      "folder_id": "341354_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа",
+      "test_id": "physics_9_341354",
+      "status": "success",
+      "output_file": "physics_9_341354.json",
+      "questions_count": 10,
+      "verified_count": 9,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 10
+      }
+    },
+    {
+      "folder_id": "341356_Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+      "test_id": "physics_9_341356",
+      "status": "success",
+      "output_file": "physics_9_341356.json",
+      "questions_count": 35,
+      "verified_count": 34,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 29,
+        "document_highlight": 5,
+        "document_key": 1
+      }
+    },
+    {
+      "folder_id": "373959_9-сыныпқа арналған МОДО тапсырмалары, жауаптарымен",
+      "test_id": "biology_9_373959",
+      "status": "success",
+      "output_file": "biology_9_373959.json",
+      "questions_count": 21,
+      "verified_count": 17,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 20,
+        "document_bold": 1
+      }
+    },
+    {
+      "folder_id": "381886_Модо русский язык 9 кл я1",
+      "test_id": "reading_literacy_ru_9_381886",
+      "status": "success",
+      "output_file": "reading_literacy_ru_9_381886.json",
+      "questions_count": 150,
+      "verified_count": 136,
+      "images_count": 0,
+      "sources": {
+        "document_key": 54,
+        "ai_solved": 96
+      }
+    },
+    {
+      "folder_id": "381887_Модо 9 кл русский язык",
+      "test_id": "reading_literacy_ru_9_381887",
+      "status": "success",
+      "output_file": "reading_literacy_ru_9_381887.json",
+      "questions_count": 12,
+      "verified_count": 11,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 2,
+        "document_highlight": 10
+      }
+    },
+    {
+      "folder_id": "384445_МОДО тапсырмаларының топтамасы",
+      "test_id": "physics_9_384445",
+      "status": "success",
+      "output_file": "physics_9_384445.json",
+      "questions_count": 119,
+      "verified_count": 118,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 119
+      }
+    },
+    {
+      "folder_id": "386714_Задание МОДО грамотность чтения",
+      "test_id": "reading_literacy_ru_9_386714",
+      "status": "success",
+      "output_file": "reading_literacy_ru_9_386714.json",
+      "questions_count": 20,
+      "verified_count": 20,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 20
+      }
+    },
+    {
+      "folder_id": "391442_Модо тапсырмалар",
+      "test_id": "math_literacy_9_391442",
+      "status": "success",
+      "output_file": "math_literacy_9_391442.json",
+      "questions_count": 106,
+      "verified_count": 90,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 102,
+        "document_bold": 4
+      }
+    },
+    {
+      "folder_id": "411464_Учебно-методическое пособие «Задания по русскому языку для подготовки",
+      "test_id": "primary_complex_4_411464",
+      "status": "success",
+      "output_file": "primary_complex_4_411464.json",
+      "questions_count": 204,
+      "verified_count": 85,
+      "images_count": 0,
+      "sources": {
+        "ai_solved": 197,
+        "document_bold": 5,
+        "document_highlight": 2
+      }
+    }
+  ]
+}

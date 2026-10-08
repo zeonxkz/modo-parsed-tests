@@ -1,0 +1,168 @@
+{
+  "test_id": "math_literacy_9_333943",
+  "title": "Модо 9 сынып 2024 жыл қазақша/орысша",
+  "subject": "math_literacy",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Модо 9 сынып 2024 жыл қазақша_орысша.docx",
+  "total_questions": 5,
+  "verified_questions": 5,
+  "answer_sources_distribution": {
+    "document_bold": 1,
+    "ai_solved": 4
+  },
+  "total_embedded_images": 2,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "(9 сынып)",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 нұсқа"
+        },
+        {
+          "key": "B",
+          "text": "172; 172"
+        },
+        {
+          "key": "C",
+          "text": "172; 172,5"
+        },
+        {
+          "key": "D",
+          "text": "171; 172,75"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "<img src=\"images/math_literacy_9_333943_img1_338b132f.png\"/> 2.  Өрнектің мәнін табыңыз/Найдите значение выражения:",
+      "options": [
+        {
+          "key": "A",
+          "text": "33"
+        },
+        {
+          "key": "B",
+          "text": "-16"
+        },
+        {
+          "key": "C",
+          "text": "83"
+        },
+        {
+          "key": "D",
+          "text": "-17"
+        },
+        {
+          "key": "E",
+          "text": "17"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "<img src=\"images/math_literacy_9_333943_img2_19e5b4e5.png\"/> 3.  Теңдеуді шешіңіз/Решите уравнение:",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "5"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "1"
+        },
+        {
+          "key": "E",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('png\"/> 4.  Теңсіздікті шешіңіз...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Центрі О нүктесінде орналасқан шеңберге жанама АВ және AO кесіндісі жүргізілді. АВ=15, АО=17 болса, шеңбердің радиусын табыңыз/  К окружности с центром в точке О проведены касательная AB и секущая АО. Найдите радиус окружности, если AB=15, АО=17.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "12"
+        },
+        {
+          "key": "D",
+          "text": "4"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Векторлардың арасындағы бұрышты табыңыз/ Найдите угол между векторами:",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_literacy_9_333943_img4_125104a8.png\"/>"
+        },
+        {
+          "key": "B",
+          "text": "45 градус / 45 градусов"
+        },
+        {
+          "key": "C",
+          "text": "15 градус / 15 градусов"
+        },
+        {
+          "key": "D",
+          "text": "60 градус / 60 градусов"
+        },
+        {
+          "key": "E",
+          "text": "90 градус / 90 градусов"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

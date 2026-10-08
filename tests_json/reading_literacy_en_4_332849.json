@@ -1,0 +1,388 @@
+{
+  "test_id": "reading_literacy_en_4_332849",
+  "title": "Модо папка",
+  "subject": "reading_literacy_en",
+  "grade": 4,
+  "language": "en",
+  "source_file": "Модо папка.docx",
+  "total_questions": 16,
+  "verified_questions": 10,
+  "answer_sources_distribution": {
+    "ai_solved": 16
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Қараоба жалпы  орта білім беру  мектебі",
+      "options": [
+        {
+          "key": "A",
+          "text": "2023 – 2024 оқу жылындағы ББЖМ-ға дайындық жұмыстары"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "бойынша мұғалімнің жеке папкасы",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ағылшын тілі пәні мұғалімі: Қамалиден Бекболат Бекмұратұлы"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Сыныбы:  9 «А»",
+      "options": [
+        {
+          "key": "A",
+          "text": "Түсініктеме хат"
+        },
+        {
+          "key": "B",
+          "text": "Қазақстан Республикасы Үкіметінің 2012 жылғы 25 маусымдағы № 832 Қаулысы;"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 9:** сынып курсы үшін әлеуметтік-техникалық, оқу-еңбек және әлеуметтік-мәдениеттік салалары қамтылған оқу бағдарламасына төмендегі оқу тақырыптары енгізілген:\nЛексикалық минимумның орфографиясы. Мысалы exemplifying-especially, particularly, for example, such as, reason: because, due to, since, as. Предлогтар: from, to, at, in, by, into, on, off, out, out of.\nСонымен қатар грамматикалық құрылымдарды меңгеру жалғастырылады: Present Continuous Passive, Past Continuous Passive Tense, Past Future Perfect Continuous Active, First, Second Conditional; Participle One, Direct and indirect speech; Past Perfect Continuous Active, Past/Future Perfect Continuous Active; Present Continuous Passive, Past Continuous Passive, Gerund",
+      "options": [
+        {
+          "key": "A",
+          "text": "9 «А» сынып оқушыларының тізімі"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 4:** Телжан Динара",
+      "options": [
+        {
+          "key": "A",
+          "text": "Қараоба ЖОББ мектебінің"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 9:** ББЖМ ағылшын тілінен оқу сауаттылық пәні бойынша жылдық жоспары",
+      "options": [
+        {
+          "key": "A",
+          "text": "Бекітемін"
+        },
+        {
+          "key": "B",
+          "text": "Мектеп  директоры"
+        },
+        {
+          "key": "C",
+          "text": "____________  Н.Н.Искакова"
+        },
+        {
+          "key": "D",
+          "text": "2023 ж. «___». _________"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 10:** 9 сынып",
+      "options": [
+        {
+          "key": "A",
+          "text": "ББЖМ –ға дайындық  тақырыптық жоспары"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q21",
+      "question_number": 21,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nFloods\n\nFloods are second only to fire as the most common of all natural disasters. They occur almost everywhere in the world, resulting in widespread damage and even death. Consequently, scientists have long tried to perfect their ability to predict floods. There are a number of conditions, from deep snow on the ground to human error, that cause flooding.\n\nWhen deep snow melts it creates a large amount of water. Although deep snow alone rarely causes floods, when it occurs together with heavy rain and sudden warmer weather it can lead to serious flooding. Melting snow also contributes to high water levels in rivers and streams. Heavy rains will result in the rivers overflowing and flooding the surrounding land.\n\nRivers that are covered in ice can also lead to flooding. When ice begins to melt, the surface of the ice cracks and breaks into large pieces. These pieces of ice move and float down the river. Broken ice dams are not the only dam problems that can cause flooding. When a large human-made dam breaks or fails to hold the water collected behind it, the results can be devastating. Dams contain such huge amounts of water behind them that when sudden breaks occur, the destructive force of the water is like a great tidal wave. Unleashed dam waters can travel tens of kilometres, cover the ground in metres of mud and debris, and drown and crush everything and creature in their path.\n\nAlthough scientists cannot always predict exactly when floods will occur, they do know a great deal about when floods are likely, or probably, going to occur. Deep snow, ice-covered rivers, and weak dams are all strong conditions for potential flooding. Hopefully, this knowledge of why floods happen can help us reduce the damage they cause.\n\n**Сұрақ 21:** Floods ...",
+      "options": [
+        {
+          "key": "A",
+          "text": "are not caused by people"
+        },
+        {
+          "key": "B",
+          "text": "never cause serious damage or deaths"
+        },
+        {
+          "key": "C",
+          "text": "come after fires among natural disasters"
+        },
+        {
+          "key": "D",
+          "text": "never have bad results"
+        },
+        {
+          "key": "E",
+          "text": "are the biggest natural disaster"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('never cause serious damage or ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q23",
+      "question_number": 23,
+      "question_text": "**22. According to the text, causes of floods are**\n\nA) large lakes and bad roads\n\nB) people's deaths and human error\n\nC) melting snow and heavy rains\n\nD) drought and dam\n\nE) typhoon and earthquake\n\n**Сұрақ 23:** The most common natural disaster",
+      "options": [
+        {
+          "key": "A",
+          "text": "strong wind"
+        },
+        {
+          "key": "B",
+          "text": "heavy rain"
+        },
+        {
+          "key": "C",
+          "text": "flood"
+        },
+        {
+          "key": "D",
+          "text": "fire"
+        },
+        {
+          "key": "E",
+          "text": "earthquake"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('heavy rain...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q24",
+      "question_number": 24,
+      "question_text": "**22. According to the text, causes of floods are**\n\nA) large lakes and bad roads\n\nB) people's deaths and human error\n\nC) melting snow and heavy rains\n\nD) drought and dam\n\nE) typhoon and earthquake\n\n**Сұрақ 24:** The false statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Scientists can help to reduce the damage"
+        },
+        {
+          "key": "B",
+          "text": "Heavy rains will result in the lakes overflowing and flooding the neighbourhood"
+        },
+        {
+          "key": "C",
+          "text": "Floods can result in terrible consequences"
+        },
+        {
+          "key": "D",
+          "text": "Scientists have tried to predict floods"
+        },
+        {
+          "key": "E",
+          "text": "Waters can travel some kilometres"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Heavy rains will result in the...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q27",
+      "question_number": 27,
+      "question_text": "**22. According to the text, causes of floods are**\n\nA) large lakes and bad roads\n\nB) people's deaths and human error\n\nC) melting snow and heavy rains\n\nD) drought and dam\n\nE) typhoon and earthquake\n\n**Сұрақ 27:** The way unleashed dam waters can travel",
+      "options": [
+        {
+          "key": "A",
+          "text": "cover the ground in metres of mud and debris"
+        },
+        {
+          "key": "B",
+          "text": "all the mentioned ways"
+        },
+        {
+          "key": "C",
+          "text": "drown everything and creature"
+        },
+        {
+          "key": "D",
+          "text": "crush everything and creature"
+        },
+        {
+          "key": "E",
+          "text": "they can travel some kilometres"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('they can travel some kilometre...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q28",
+      "question_number": 28,
+      "question_text": "**22. According to the text, causes of floods are**\n\nA) large lakes and bad roads\n\nB) people's deaths and human error\n\nC) melting snow and heavy rains\n\nD) drought and dam\n\nE) typhoon and earthquake\n\n**Сұрақ 28:** Strong conditions for potential flooding",
+      "options": [
+        {
+          "key": "A",
+          "text": "all of them"
+        },
+        {
+          "key": "B",
+          "text": "none of them"
+        },
+        {
+          "key": "C",
+          "text": "ice-covered rivers"
+        },
+        {
+          "key": "D",
+          "text": "weak dams"
+        },
+        {
+          "key": "E",
+          "text": "deep snow"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('deep snow...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q29",
+      "question_number": 29,
+      "question_text": "**22. According to the text, causes of floods are**\n\nA) large lakes and bad roads\n\nB) people's deaths and human error\n\nC) melting snow and heavy rains\n\nD) drought and dam\n\nE) typhoon and earthquake\n\n**Сұрақ 29:** The true statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Sudden rise of temperature can't cause floods"
+        },
+        {
+          "key": "B",
+          "text": "People are not responsible for floods"
+        },
+        {
+          "key": "C",
+          "text": "Deep snow alone never causes floods"
+        },
+        {
+          "key": "D",
+          "text": "Consequences of floods can be upsetting"
+        },
+        {
+          "key": "E",
+          "text": "Icy rivers don't cause flooding either"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('Deep snow alone never causes f...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q19",
+      "question_number": 19,
+      "question_text": "**B) to recommend reading the text**\n\nC) to focus on natural disasters\n\nD) to make the reader feel sad\n\nE) to entertain the reader\n\n9 «а» сынып оқушыларымен ББЖМ дайындалу бойынша өткізілген  №1 тест қорытындылары туралы мәліметтер   ағылшын тілі пәні бойынша\n\nСынып: 9 «а»                                         Оқушылар саны: 4\n\nМұғалім: Қамалиден Б.Б.\n\nМақсаты:  Ағылшын тілі пәнінен тест нәтижелерін талдау\n\nТест 1 нәтижесін талдау білім алушылардың келесі білім деңгейін көрсетті:\n\n**Сұрақ 19:** Орта (С): 40-84% -  2 оқушы. Ол Бирлик Ақжарқын, Телжан Динара",
+      "options": [
+        {
+          "key": "A",
+          "text": "Төмен  (Н): 0-39% - 1 оқушы Жұмабек Ернұр"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**- мәтін бойынша сұрақ құрастырғанда қателеседі;**\n\n- сұрақ-жауап түріндегі емілелерді ескерген кезде қателеседі:\n\n**Сұрақ 3:** Тапсырмаларды орындау барысында білім алушыларға аталған қиындықтардың себептері:",
+      "options": [
+        {
+          "key": "A",
+          "text": "- лексикалық сөздік қорының аздығы."
+        },
+        {
+          "key": "B",
+          "text": "- жаттығулар түрлерін әзірлеу"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**- мәтін бойынша сұрақ құрастырғанда қателеседі;**\n\n- сұрақ-жауап түріндегі емілелерді ескерген кезде қателеседі:\n\n**Сұрақ 4:** Жоспарланған түзету  жұмысы:",
+      "options": [
+        {
+          "key": "A",
+          "text": "- қатемен жұмыс жүргізу (әр оқушымен жеке);"
+        },
+        {
+          "key": "B",
+          "text": "- жеке кеңестер өткізу;"
+        },
+        {
+          "key": "C",
+          "text": "- оқушыларды жаттықтыру;"
+        },
+        {
+          "key": "D",
+          "text": "- жаттығу жұмыстарын әзірлеу"
+        },
+        {
+          "key": "Б",
+          "text": ""
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

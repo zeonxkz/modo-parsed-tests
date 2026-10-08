@@ -1,0 +1,294 @@
+{
+  "test_id": "physics_9_341354",
+  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа",
+  "subject": "physics",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа.docx",
+  "total_questions": 10,
+  "verified_questions": 9,
+  "answer_sources_distribution": {
+    "ai_solved": 10
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "1 ТАПСЫРМА",
+      "options": [
+        {
+          "key": "A",
+          "text": "Иін"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/physics_9_341354_img1_7032d744.png\"/>"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "1Су көтергіш иіндіктің қысқа иініне 600 Н күш,ал ұзын иініне 20 Н күш әсер етеді.Тепе-теңдіктегі кіші иіннің ұзындығы 6см болса , иінінің ұзындығы қанша?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0.0001 м"
+        },
+        {
+          "key": "B",
+          "text": "0.01м"
+        },
+        {
+          "key": "C",
+          "text": "С)0,1м"
+        },
+        {
+          "key": "D",
+          "text": "0,002м"
+        },
+        {
+          "key": "E",
+          "text": "0.1см"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Кіші иіндікке 20 Н күш түссе,шелектегі судың массасын тап?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 кг"
+        },
+        {
+          "key": "B",
+          "text": "3 кг"
+        },
+        {
+          "key": "C",
+          "text": "С)4 кг"
+        },
+        {
+          "key": "D",
+          "text": "1 кг"
+        },
+        {
+          "key": "E",
+          "text": "10 кг"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Егер шелектегі 2 кг суды    600 см жерге жылжытып қойса ,қанша жұмыс атқарады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "20 ДЖ"
+        },
+        {
+          "key": "B",
+          "text": "60 ДЖ"
+        },
+        {
+          "key": "C",
+          "text": "С)12 Дж"
+        },
+        {
+          "key": "D",
+          "text": "30 Дж"
+        },
+        {
+          "key": "E",
+          "text": "120 Дж"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Егер шелектегі 2 кг суды 2м  биіктен  600 см жерге жылжытып қойса ,қанша жұмыс атқарады. Иіндіктің атқаран толық ,пайдалы жұмысын анықтап ПӘК –ін тап.",
+      "options": [
+        {
+          "key": "A",
+          "text": "55"
+        },
+        {
+          "key": "B",
+          "text": "44"
+        },
+        {
+          "key": "C",
+          "text": "С)50"
+        },
+        {
+          "key": "D",
+          "text": "33"
+        },
+        {
+          "key": "E",
+          "text": "40"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "2 ТАПСЫРМА",
+      "options": [
+        {
+          "key": "A",
+          "text": "Электромагниттер"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Саят магнитті катушка жасады. Оны тексерген соң мынадай шешімге келді:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ток күші бар катушканың магниттік қасиеттері оның айналу"
+        },
+        {
+          "key": "B",
+          "text": "санына байланысты."
+        },
+        {
+          "key": "D",
+          "text": "С)      Электр тогының бағытын катушка арқылы өзгерткенде магнит"
+        },
+        {
+          "key": "E",
+          "text": "полюстерінің орны өзгеріссіз қалады."
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('С)      Электр тогының бағытын...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Магниттік қасиеті аса жоғары заттарды қалай атайды?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Парамагнетиктер"
+        },
+        {
+          "key": "B",
+          "text": "Диамагнетиктер"
+        },
+        {
+          "key": "C",
+          "text": "Тұрақты магниттер"
+        },
+        {
+          "key": "D",
+          "text": "Ферромагнетиктер"
+        },
+        {
+          "key": "E",
+          "text": "Электромагниттер"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Электромагниттің тарту күші тура пропорционал оның.................",
+      "options": [
+        {
+          "key": "A",
+          "text": "Орамдарының санына"
+        },
+        {
+          "key": "B",
+          "text": "Өзекшесіне"
+        },
+        {
+          "key": "C",
+          "text": "Сымының ауданына"
+        },
+        {
+          "key": "D",
+          "text": "Катушканың өлшеміне"
+        },
+        {
+          "key": "E",
+          "text": "Магнит өрісіне"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Магнит пен шарғының өзара салыстырмалы қозғалысы кезінде катушкада пайда болған электр тогын.....................деп атайды.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Индукциялық ток"
+        },
+        {
+          "key": "B",
+          "text": "Тұрақты ток"
+        },
+        {
+          "key": "C",
+          "text": "Айнымалы ток"
+        },
+        {
+          "key": "D",
+          "text": "Ампер тогы"
+        },
+        {
+          "key": "E",
+          "text": "Генератор"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

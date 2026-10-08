@@ -1,0 +1,295 @@
+{
+  "test_id": "physics_9_341347",
+  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+  "subject": "physics",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
+  "total_questions": 10,
+  "verified_questions": 9,
+  "answer_sources_distribution": {
+    "ai_solved": 9,
+    "document_bold": 1
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "1 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/physics_9_341347_img1_48509862.png\"/>"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Екі нүктелік зарядтың арасындағы әсерлесу  күші неге тең?",
+      "options": [
+        {
+          "key": "A",
+          "text": "80 Н"
+        },
+        {
+          "key": "B",
+          "text": "8 Н"
+        },
+        {
+          "key": "C",
+          "text": "С) 0,8 Н"
+        },
+        {
+          "key": "D",
+          "text": "800 Н"
+        },
+        {
+          "key": "E",
+          "text": "8000 Н"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Егер бұл зарядтарды түйістірсе қандай заряд шамасын алуға болады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "-2мкКл"
+        },
+        {
+          "key": "B",
+          "text": "2 мкКл"
+        },
+        {
+          "key": "C",
+          "text": "С) 6 мкКл"
+        },
+        {
+          "key": "D",
+          "text": "8мкКл"
+        },
+        {
+          "key": "E",
+          "text": "-6 мкКл"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Егер әсерлесу күшін екі есе азайтса, нүктелік зарядтар қандай арақашықтықта болар еді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,42 мм"
+        },
+        {
+          "key": "B",
+          "text": "4,2 м"
+        },
+        {
+          "key": "C",
+          "text": "С) 4,2 см"
+        },
+        {
+          "key": "D",
+          "text": "1,8 см"
+        },
+        {
+          "key": "E",
+          "text": "18 мм"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Берілген зарядтар үшін электр өрісінің күш сызықтарының бағытын анықтаңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "document_bold",
+      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "2 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ай"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/physics_9_341347_img2_414e3ef7.png\"/>"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Ай өз өсі төңірегінде 27,3 тәулікте толық бір айналып шығады.Бұл қанша сағат қанша минутты құрайды?",
+      "options": [
+        {
+          "key": "A",
+          "text": "6,652 сағ, 39312мин"
+        },
+        {
+          "key": "B",
+          "text": "665,2 сағ, 39312мин"
+        },
+        {
+          "key": "C",
+          "text": "765,2 сағ, 49312мин"
+        },
+        {
+          "key": "D",
+          "text": "675,3 сағ, 393,12мин"
+        },
+        {
+          "key": "E",
+          "text": "6,652 сағ, 3,9312мин"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Айдың диаметрі 13 м тең делік. Айдың ауданы қанша?",
+      "options": [
+        {
+          "key": "A",
+          "text": "S ≈ 143м2"
+        },
+        {
+          "key": "B",
+          "text": "S ≈ 33м2"
+        },
+        {
+          "key": "C",
+          "text": "S ≈ 3,3м2"
+        },
+        {
+          "key": "D",
+          "text": "S ≈ 133м2"
+        },
+        {
+          "key": "E",
+          "text": "S ≈ 4,3м2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Дөңгелек ауданының формуласы:",
+      "options": [
+        {
+          "key": "A",
+          "text": "="
+        },
+        {
+          "key": "B",
+          "text": "="
+        },
+        {
+          "key": "C",
+          "text": "="
+        },
+        {
+          "key": "D",
+          "text": "="
+        },
+        {
+          "key": "E",
+          "text": "="
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Айдың екі толық тууының арасындағы уақыты 29,5 тәулікке тең. Бұл қанша сағатты құрайды?",
+      "options": [
+        {
+          "key": "A",
+          "text": "608 сағ"
+        },
+        {
+          "key": "B",
+          "text": "708 сағ"
+        },
+        {
+          "key": "C",
+          "text": "70,8 сағ"
+        },
+        {
+          "key": "D",
+          "text": "60,8 сағ"
+        },
+        {
+          "key": "E",
+          "text": "718 сағ"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

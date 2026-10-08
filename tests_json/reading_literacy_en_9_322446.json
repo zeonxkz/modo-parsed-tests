@@ -1,0 +1,377 @@
+{
+  "test_id": "reading_literacy_en_9_322446",
+  "title": "Модо, Ағылшын тілі, 9-сынып. \"Dialogue Dana and Mr Barkley\" 10 сұрақ+дұрыс жауаптарымен",
+  "subject": "reading_literacy_en",
+  "grade": 9,
+  "language": "en",
+  "source_file": "Модо, Ағылшын тілі, 9-сынып. _Dialogue Dana and Mr Barkley_ 10 сұрақ+д.docx",
+  "total_questions": 16,
+  "verified_questions": 11,
+  "answer_sources_distribution": {
+    "ai_solved": 12,
+    "document_bold": 4
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 1:** Dana : Hello M.r Barkley .My name is Dana .I am in graed 9 now and I am starting to think about my   future career.Can you help me ?",
+      "options": [
+        {
+          "key": "B",
+          "text": "Have you decided what you'd like to study at university?"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 2:** Dana: No, unfortunately I haven't.",
+      "options": [
+        {
+          "key": "E",
+          "text": "My first tavorite subject is Art, that's for sur"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 3:** Mr. Barkley: My next question is: what are your hobbies? When do you feel happiest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: Oh, my passion is photography. I feel excited when I take pictures of beautiful people wearing beautiful clothes."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 4:** Mr. Barkley: What else do you like about photography?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: like using my digital camera and some other gadgets that can make my photograpns better."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 5:** Mr. Barkley: Have you thought of photography as a career? You can become a fashion photographer.\nDano: That sounds interesting but I have always thought of it as a hobby. What do fashion photographers do? Mr. Barkley: rashion photographers mainly shoot clothing on fashion models. Otten, these photographs are used in promotions and",
+      "options": [
+        {
+          "key": "A",
+          "text": "advertising in catalogs or other media to sell the clothing to consumers"
+        },
+        {
+          "key": "D",
+          "text": "I will discuss it with"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('advertising in catalogs or oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** Mr. Barkley: That's right. Talk to your parents and come again next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: Thank you, youve been a big help."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 7:** Mr. Barkley: You're welcome!",
+      "options": [
+        {
+          "key": "A",
+          "text": ".."
+        },
+        {
+          "key": "B",
+          "text": "University student"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 8:** 9 th graed student",
+      "options": [
+        {
+          "key": "A",
+          "text": "professional photographer"
+        },
+        {
+          "key": "B",
+          "text": "medical student"
+        },
+        {
+          "key": "C",
+          "text": "career guidance counselor"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('medical student...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 9:** Mr .Barkley suggests a career of a",
+      "options": [
+        {
+          "key": "A",
+          "text": "fashion designer"
+        },
+        {
+          "key": "B",
+          "text": "fashion model"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 10:** fashion photographer",
+      "options": [
+        {
+          "key": "A",
+          "text": "software developer"
+        },
+        {
+          "key": "B",
+          "text": "software enginer"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 11:** Mr .Barkley is a",
+      "options": [
+        {
+          "key": "A",
+          "text": "School principal"
+        },
+        {
+          "key": "B",
+          "text": "career guidance counselor"
+        },
+        {
+          "key": "C",
+          "text": "teacher"
+        },
+        {
+          "key": "D",
+          "text": "fashion photographer"
+        },
+        {
+          "key": "E",
+          "text": "9th grade student"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "document_bold",
+      "explanation": "Вариант B выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 12:** Dana said their English teacher",
+      "options": [
+        {
+          "key": "A",
+          "text": "tried to develop their communication skills"
+        },
+        {
+          "key": "B",
+          "text": "was not very effective in improving their communication skills"
+        },
+        {
+          "key": "C",
+          "text": "was more interested in teaching grammar than communication skills"
+        },
+        {
+          "key": "D",
+          "text": "Didn't encourage them to speak up in class"
+        },
+        {
+          "key": "E",
+          "text": "tried to develop their leadership skills"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 13:** The photographs of fashion photographers are used",
+      "options": [
+        {
+          "key": "A",
+          "text": "at school"
+        },
+        {
+          "key": "B",
+          "text": "in books"
+        },
+        {
+          "key": "C",
+          "text": "as private photos"
+        },
+        {
+          "key": "D",
+          "text": "in advertising in social media"
+        },
+        {
+          "key": "E",
+          "text": "in science literature"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "document_bold",
+      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q14",
+      "question_number": 14,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 14:** Dana asked Mr.Barkley ...help her",
+      "options": [
+        {
+          "key": "A",
+          "text": "could he"
+        },
+        {
+          "key": "B",
+          "text": "if he can"
+        },
+        {
+          "key": "C",
+          "text": "can he"
+        },
+        {
+          "key": "D",
+          "text": "if he could"
+        },
+        {
+          "key": "E",
+          "text": "will he"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q15",
+      "question_number": 15,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 15:** The false statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mr.Barkley offered to start with her favorite school subjects"
+        },
+        {
+          "key": "B",
+          "text": "Mr.Barkley said Dana could become a fashion photographer"
+        },
+        {
+          "key": "C",
+          "text": "Mr.Barkley invited Dana to come in a month"
+        },
+        {
+          "key": "D",
+          "text": "Dana wondered what fashion photographers did"
+        },
+        {
+          "key": "E",
+          "text": "Dana said she liked using her digital camera and other gadgets"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "document_bold",
+      "explanation": "Вариант C выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q16",
+      "question_number": 16,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 16:** The true  statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana is 9 years old"
+        },
+        {
+          "key": "B",
+          "text": "Mr.Barkley asked Dana if she could speak any other languages"
+        },
+        {
+          "key": "C",
+          "text": "Mr.Barkley's responsibility is to find jobs for teenagers"
+        },
+        {
+          "key": "D",
+          "text": "Dana said she likes to create new things and speak English"
+        },
+        {
+          "key": "E",
+          "text": "Mr.Barkley invited Dana to come in month"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

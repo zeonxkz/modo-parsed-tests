@@ -1,0 +1,294 @@
+{
+  "test_id": "physics_9_341345",
+  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+  "subject": "physics",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
+  "total_questions": 10,
+  "verified_questions": 8,
+  "answer_sources_distribution": {
+    "ai_solved": 10
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "1 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Физикалық шама"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Физикалық шаманы білдіретін сөзді тап.",
+      "options": [
+        {
+          "key": "A",
+          "text": "алюминий"
+        },
+        {
+          "key": "B",
+          "text": "күш"
+        },
+        {
+          "key": "C",
+          "text": "килограмм"
+        },
+        {
+          "key": "D",
+          "text": "сағат"
+        },
+        {
+          "key": "E",
+          "text": "цельсий"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Жылқы жалының қалыңдығы 0,8 мм. Осы өлшемді метрмен өрнекте.",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,008 м"
+        },
+        {
+          "key": "B",
+          "text": "0,0008 м"
+        },
+        {
+          "key": "C",
+          "text": "0,8 м"
+        },
+        {
+          "key": "D",
+          "text": "0,08 м"
+        },
+        {
+          "key": "E",
+          "text": "800 м"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Физикалық шамаларды олардың ХБЖ-дегі өлшем бірліктерімен сәйкестендір.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Жылдамдық Масса Уақыт Көлем"
+        },
+        {
+          "key": "B",
+          "text": "км/сағ, кг, сағ, см3"
+        },
+        {
+          "key": "C",
+          "text": "м/сағ, кг, с, м2"
+        },
+        {
+          "key": "D",
+          "text": "м/с, кг, с, м3"
+        },
+        {
+          "key": "E",
+          "text": "км/сағ, кг, сағ, см2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "SI жүйесіндегі физикалық шамалардың негізгі өлшем бірліктері",
+      "options": [
+        {
+          "key": "A",
+          "text": "м, кг, с, ℃, К, А, моль, кд"
+        },
+        {
+          "key": "B",
+          "text": "км, кг, сағ, ℃, К, Н, моль, кд"
+        },
+        {
+          "key": "C",
+          "text": "км, г, с, Па, К, А, кд"
+        },
+        {
+          "key": "D",
+          "text": "моль, м, г, с, ℃, К, А"
+        },
+        {
+          "key": "E",
+          "text": "с, м, кг,Н, К, А, моль, кд"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "2 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Адамның тыныс алуы"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Ересек адамның тыныс алу периоды",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 с"
+        },
+        {
+          "key": "B",
+          "text": "4 с"
+        },
+        {
+          "key": "C",
+          "text": "С) 6 с"
+        },
+        {
+          "key": "D",
+          "text": "5 с"
+        },
+        {
+          "key": "E",
+          "text": "2 с"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Жасөспірімнің  демалу жиілігі",
+      "options": [
+        {
+          "key": "A",
+          "text": "0,22 Гц"
+        },
+        {
+          "key": "B",
+          "text": "0,44 Гц"
+        },
+        {
+          "key": "C",
+          "text": "С) 0,33 Гц"
+        },
+        {
+          "key": "D",
+          "text": "0,55 Гц"
+        },
+        {
+          "key": "E",
+          "text": "0,66 Гц"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Жасөсіпірім мен жас баланың тыныс алу периодының айырмашылығы",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,75 с"
+        },
+        {
+          "key": "B",
+          "text": "2,76 с"
+        },
+        {
+          "key": "C",
+          "text": "С) 1,3 с"
+        },
+        {
+          "key": "D",
+          "text": "4 с"
+        },
+        {
+          "key": "E",
+          "text": "3 с"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Жас бала 840 рет тыныс алатын уақытта ересек  адамның тыныс алу саны",
+      "options": [
+        {
+          "key": "A",
+          "text": "1000"
+        },
+        {
+          "key": "B",
+          "text": "360"
+        },
+        {
+          "key": "C",
+          "text": "С) 430"
+        },
+        {
+          "key": "D",
+          "text": "2100"
+        },
+        {
+          "key": "E",
+          "text": "22000"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

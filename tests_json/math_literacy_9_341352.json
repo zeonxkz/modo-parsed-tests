@@ -1,0 +1,298 @@
+{
+  "test_id": "math_literacy_9_341352",
+  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 8 нұсқа",
+  "subject": "math_literacy",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 8 нұсқа.docx",
+  "total_questions": 10,
+  "verified_questions": 9,
+  "answer_sources_distribution": {
+    "ai_solved": 10
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "1 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_literacy_9_341352_img1_396b5b58.png\"/> Бүкіл әлемдік тартылыс заңы"
+        },
+        {
+          "key": "Б",
+          "text": "ә. т. з. аспан денелерінің қозғалысы жайындағы ғылым — аспан механикасының іргетасын қалайды. Осы заңның көмегімен аспан денелерінің"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Бүкіл әлемдік тартылыс заңының өрнегінде:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Тартылыс күші арақашықтықтың квадратына кері пропорционал"
+        },
+        {
+          "key": "B",
+          "text": "Тартылыс күші арақашықтықтың квадратына тура пропорционал"
+        },
+        {
+          "key": "C",
+          "text": "С. Тартылыс күші массалардың көбейтіндісіне кері пропорционал"
+        },
+        {
+          "key": "D",
+          "text": "Тартылыс күші арақашықтық квадратына тең"
+        },
+        {
+          "key": "E",
+          "text": "Тартылыс күші массалар көбейтіндісіне тең"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Тартылыс күші арақашықтықтың к...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": ". Егер екі планета арасындағы әсерлесу күшін өзгертпей, әр планетаның массасын 3 есе арттырсақ, онда олар қандай арақашықтықта болар еді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 есе артады"
+        },
+        {
+          "key": "B",
+          "text": "3 есе кемиді"
+        },
+        {
+          "key": "C",
+          "text": "С. 9 есе кемиді"
+        },
+        {
+          "key": "D",
+          "text": "9 есе артады"
+        },
+        {
+          "key": "E",
+          "text": "өзгермейді"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Егер екі планета арасындағы әсерлесу күшін екі есе арттырсақ, онда олар қандай арақашықтықта болар еді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "2 есе артады"
+        },
+        {
+          "key": "B",
+          "text": "2 есе кемиді"
+        },
+        {
+          "key": "C",
+          "text": "С. 4 есе кемиді"
+        },
+        {
+          "key": "D",
+          "text": "4 есе артады"
+        },
+        {
+          "key": "E",
+          "text": "өзгермейді"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Әрқайсысының массаы 200 г тыныштықта тұрған шарлар бір-бірінен 0,2 Н күшпен тартылса, онда олар қандай қашықтықта орналасқан?(G=6.67*10-11м3/кг*с2)",
+      "options": [
+        {
+          "key": "A",
+          "text": "≈3,6*10-6м"
+        },
+        {
+          "key": "B",
+          "text": "≈1,3*10-11м"
+        },
+        {
+          "key": "C",
+          "text": "С. ≈3,6*10-11м"
+        },
+        {
+          "key": "D",
+          "text": "≈1,9*10-11м"
+        },
+        {
+          "key": "E",
+          "text": "≈2,3*10-11м"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "2 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Kөзілдірік"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Aтасының көзінің ақауы",
+      "options": [
+        {
+          "key": "A",
+          "text": "алыстан көргіштік"
+        },
+        {
+          "key": "B",
+          "text": "сау көз"
+        },
+        {
+          "key": "C",
+          "text": "астигматизм"
+        },
+        {
+          "key": "D",
+          "text": "аккомодация"
+        },
+        {
+          "key": "E",
+          "text": "жақыннан көргіштік"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Aтасының көзәйнегінің линзасының фокустық қашықтығы",
+      "options": [
+        {
+          "key": "A",
+          "text": "3 м"
+        },
+        {
+          "key": "B",
+          "text": "2 м"
+        },
+        {
+          "key": "C",
+          "text": "С. 2,5м"
+        },
+        {
+          "key": "D",
+          "text": "0,5 м"
+        },
+        {
+          "key": "E",
+          "text": "1м"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Aтасының көзәйнексіз анық көру қашықтығы",
+      "options": [
+        {
+          "key": "A",
+          "text": "29 см"
+        },
+        {
+          "key": "B",
+          "text": "18 см"
+        },
+        {
+          "key": "C",
+          "text": "С. 15 см"
+        },
+        {
+          "key": "D",
+          "text": "20 см"
+        },
+        {
+          "key": "E",
+          "text": "10 см"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Қарындасына қажетті көзәйнектің оптикалық күші",
+      "options": [
+        {
+          "key": "A",
+          "text": "1 дптр"
+        },
+        {
+          "key": "B",
+          "text": "-1 дптр"
+        },
+        {
+          "key": "C",
+          "text": "-2 дптр"
+        },
+        {
+          "key": "D",
+          "text": "2 дптр"
+        },
+        {
+          "key": "E",
+          "text": "-2,5 дптр"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

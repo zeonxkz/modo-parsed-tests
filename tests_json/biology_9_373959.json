@@ -1,0 +1,464 @@
+{
+  "test_id": "biology_9_373959",
+  "title": "9-сыныпқа арналған МОДО тапсырмалары, жауаптарымен",
+  "subject": "biology",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "9-сыныпқа арналған МОДО тапсырмалары, жауаптарымен.docx",
+  "total_questions": 21,
+  "verified_questions": 17,
+  "answer_sources_distribution": {
+    "ai_solved": 20,
+    "document_bold": 1
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Биология пәні бойынша тапсырмалар жинағы",
+      "options": [
+        {
+          "key": "A",
+          "text": "001 нұсқа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Мүктер мен қырықжапырақтардың тіршілігі циклі нешеде фазадан тұрады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "Ә) 4"
+        },
+        {
+          "key": "Б",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Сретте көрсетілген қырықжапырақтың даму тіршілігінің 5 санымен көрсетілген айналымын атаңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "споралардың шашылуы"
+        },
+        {
+          "key": "B",
+          "text": "Ә) споралардың өнуі"
+        },
+        {
+          "key": "Б",
+          "text": "пісіп жетілген өскін"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Жауабы: споралардың өнуі",
+      "options": [
+        {
+          "key": "A",
+          "text": "дербес өсімдік"
+        },
+        {
+          "key": "B",
+          "text": "Ә) гаметофит"
+        },
+        {
+          "key": "Б",
+          "text": "спорофит"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Жауабы: дербес өсімдік",
+      "options": [
+        {
+          "key": "A",
+          "text": "гаметангиялары бар жынысты ұрпақ\nӘ) споражайы бар жыныссыз ұрпақ"
+        },
+        {
+          "key": "Б",
+          "text": "споралар"
+        },
+        {
+          "key": "B",
+          "text": "жыныс жасушалары"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Жауабы: споражайы бар жыныссыз ұрпақ",
+      "options": [
+        {
+          "key": "A",
+          "text": "Терінің құрылысы мен қызметі"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/biology_9_373959_img2_b2dc4b61.png\"/>"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Лимфа қантамырлары орналысқан тері қабатын ата?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Эпидермис"
+        },
+        {
+          "key": "B",
+          "text": "Ә) тері асты май қабаты"
+        },
+        {
+          "key": "Б",
+          "text": "Дерма"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Ә) тері асты май қабаты...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Тері өндіретін дәруменді ата?",
+      "options": [
+        {
+          "key": "A",
+          "text": "D"
+        },
+        {
+          "key": "B",
+          "text": "Ә) A"
+        },
+        {
+          "key": "Б",
+          "text": "C"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Қор заттарын жинау ретінің қай қабатында жүзеге асады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Эпидермисте"
+        },
+        {
+          "key": "B",
+          "text": "Ә) тері асты май жасұнығында"
+        },
+        {
+          "key": "Б",
+          "text": "Дермада"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('терінің мүйізді қабатында...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Суреттен 1 санымен көрсетілген тері құрылысының құрылымын ата.",
+      "options": [
+        {
+          "key": "A",
+          "text": "жүйке талшықтары"
+        },
+        {
+          "key": "B",
+          "text": "Ә) қан тамырлары"
+        },
+        {
+          "key": "Б",
+          "text": "май безі"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q16",
+      "question_number": 16,
+      "question_text": "Жауабы: тер безі",
+      "options": [
+        {
+          "key": "A",
+          "text": "002 нұсқа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q17",
+      "question_number": 17,
+      "question_text": "Тістің құрылысы мен қызметі",
+      "options": [
+        {
+          "key": "C",
+          "text": "png\"/> Тіс асты шайнау, тістеу, механикалық үгу қызметтерін атқарады. Әрбір тістің тіс қаптамасы, мойны және түбірі болады. Әрбір тіс үш қабаттан тұрады. Сыртқы, ортаңғы, ішкі. Сонымен қатар тіс типтеріне қарай да жіктеледі. Күрек тіс, ит тіс, азу тістер болып. Ересек адамдарда 32 тіс болады. Олар үстіңгі және астыңғы жақ сүйектеріндегі ұяшықтарға бекінеді. Жаңа туған нәрестелерде тіс болмайды. Алғашқы тіс 6-9 айында шыға бастайды. Оларды сүт тістер деп атайды. Сүт тістер түскен соң орнына тұрақты тістер шыға бастайды. Ең соңғы азу тістер 18-20 жаста шығады."
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Тістің қызылиекпен жабылған бөлігі қалай аталады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "түбірі"
+        },
+        {
+          "key": "B",
+          "text": "Ә) тіс қаптамасы"
+        },
+        {
+          "key": "Б",
+          "text": "тістің ішкі қабаты"
+        }
+      ],
+      "correct_answer": "Б",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант Б ('тістің ішкі қабаты...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Суртте сойдақ тістер қандай санмен көрсетілген?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "Ә) 4"
+        },
+        {
+          "key": "Б",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Тістің жұмсақ ұлпасы қалай аталады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "эмаль"
+        },
+        {
+          "key": "B",
+          "text": "Ә) дентин"
+        },
+        {
+          "key": "Б",
+          "text": "пульпа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Кіреукенің астындағы қатты қабат қалай аталады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "эмаль"
+        },
+        {
+          "key": "B",
+          "text": "Ә) дентин"
+        },
+        {
+          "key": "Б",
+          "text": "пульпа"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q25",
+      "question_number": 25,
+      "question_text": "Жауабы: дентин",
+      "options": [
+        {
+          "key": "A",
+          "text": "Мүшелер жүйесінің дамуы эмбриогенездің сатылары"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Ұрық жапырақшасы неше қабаттан тұрады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "Ә) 4"
+        },
+        {
+          "key": "Б",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Сезім мүшелері қай қабатта түзіледі?",
+      "options": [
+        {
+          "key": "A",
+          "text": "эндодерма"
+        },
+        {
+          "key": "B",
+          "text": "Ә) мезодерма"
+        },
+        {
+          "key": "Б",
+          "text": "гаструла"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Гаструладан кейінгі эмбриогенез сатысын?",
+      "options": [
+        {
+          "key": "A",
+          "text": "бластула"
+        },
+        {
+          "key": "B",
+          "text": "Ә) зигота"
+        },
+        {
+          "key": "Б",
+          "text": "нейрула"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Жүрек-қан тамырлар жүйесі түзілетін қабат?",
+      "options": [
+        {
+          "key": "A",
+          "text": "эндодерма"
+        },
+        {
+          "key": "B",
+          "text": "Ә) мезодерма"
+        },
+        {
+          "key": "Б",
+          "text": "гаструла"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

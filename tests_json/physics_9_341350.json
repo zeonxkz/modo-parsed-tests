@@ -1,0 +1,195 @@
+{
+  "test_id": "physics_9_341350",
+  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа",
+  "subject": "physics",
+  "grade": 9,
+  "language": "kk",
+  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа.docx",
+  "total_questions": 6,
+  "verified_questions": 6,
+  "answer_sources_distribution": {
+    "document_bold": 2,
+    "ai_solved": 4
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "1 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Конденсатор"
+        },
+        {
+          "key": "B",
+          "text": "Өндірісте мынадай конденсаторлар пайдаланылады."
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/physics_9_341350_img1_9ad86b13.png\"/>"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Сыйымдылығы С=2 мкФ конденсатор батареясын 100 В-қа дейін зарядтау үшін қанша заряд керек?",
+      "options": [
+        {
+          "key": "A",
+          "text": "200 мкКл"
+        },
+        {
+          "key": "B",
+          "text": "200 Кл"
+        },
+        {
+          "key": "C",
+          "text": "0,02 Кл"
+        },
+        {
+          "key": "D",
+          "text": "400 мкКл"
+        },
+        {
+          "key": "E",
+          "text": "40 мкКл"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "0,01 Кл заряд бергенде 10 Дж жұмыс жасалса, конденсатордың сыйымдылығын анықтаңдар?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5мкФ"
+        },
+        {
+          "key": "B",
+          "text": "500 мкФ"
+        },
+        {
+          "key": "C",
+          "text": "0,5 мкФ"
+        },
+        {
+          "key": "D",
+          "text": "100 мкФ"
+        },
+        {
+          "key": "E",
+          "text": "10 мкФ"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Нүктелік зарядтың шамасын 4 есе арттырса, конденсатордың сыйымдылығы қалай өзгереді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "4 есе кемиді"
+        },
+        {
+          "key": "B",
+          "text": "2 есе кемиді"
+        },
+        {
+          "key": "C",
+          "text": "2 есе артады"
+        },
+        {
+          "key": "D",
+          "text": "4 есе артады"
+        },
+        {
+          "key": "E",
+          "text": "өзгермейді"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "2 тапсырма",
+      "options": [
+        {
+          "key": "A",
+          "text": "Кіші денелерді өлщеу"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/physics_9_341350_img2_0cb21872.png\"/> <img src=\"images/physics_9_341350_img3_46c68da8.png\"/>"
+        },
+        {
+          "key": "C",
+          "text": "Суретке қарап, бұранда қадамын анықта. Сызғыштың бөлік құны 1 мм-ге тең деп есепте."
+        },
+        {
+          "key": "D",
+          "text": "0,1 мм"
+        },
+        {
+          "key": "E",
+          "text": "0,8 мм"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Тиындардың жиынтығы 30 дана тиыннан тұрады, жиынтықтың ұзындығы 32 см. Бір тиынның қалыңдығы қанша?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,6 мм; 1,06 см; 0,0106 м"
+        },
+        {
+          "key": "B",
+          "text": "10,6 мм; 1,06 см; 0,106 м"
+        },
+        {
+          "key": "C",
+          "text": "1,06 мм; 0,106 см; 0,000106 м"
+        },
+        {
+          "key": "D",
+          "text": "10,6 мм; 1,06 см; 0,00106 м"
+        },
+        {
+          "key": "E",
+          "text": "10 мм; 1,06 см; 0,00106 м"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

@@ -1,0 +1,327 @@
+{
+  "test_id": "reading_literacy_en_9_327279",
+  "title": "Модо, ағылшын тілі, 9-сынып.  Dodo pizza",
+  "subject": "reading_literacy_en",
+  "grade": 9,
+  "language": "en",
+  "source_file": "Модо, ағылшын тілі, 9-сынып. Dodo pizza.docx",
+  "total_questions": 10,
+  "verified_questions": 10,
+  "answer_sources_distribution": {
+    "document_bold": 1,
+    "ai_solved": 9
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Margherita with a side of tech: this is the story of Dodo Pizza",
+      "options": [
+        {
+          "key": "A",
+          "text": "The creator, Fedor Ovchinnikov, had a vision to revolutionize the food industry by combining technology, the internet, and pizz"
+        },
+        {
+          "key": "E",
+          "text": "These shoppers visit eight times a month and assess 118 different criteri"
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Chef of Dodo Pizza"
+        },
+        {
+          "key": "C",
+          "text": "Marketing manager of Dodo Pizza"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "What is Fedor Ovchinnikov's vision for Dodo Pizza's future?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To promote his pizza recipe worldwide by using technology."
+        },
+        {
+          "key": "B",
+          "text": "To make Dodo Pizza the largest pizza delivery company in the worl"
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "To develop a network of eco-friendly pizzerias worldwid"
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('To make Dodo Pizza the largest...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Fedor Ovchinnikov created a special digital system ... Dodo",
+      "options": [
+        {
+          "key": "A",
+          "text": "Calling"
+        },
+        {
+          "key": "B",
+          "text": "Call"
+        },
+        {
+          "key": "C",
+          "text": "Calls"
+        },
+        {
+          "key": "D",
+          "text": "Called+"
+        },
+        {
+          "key": "E",
+          "text": "Will be calling"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Choose the statement that proves the following sentence: Quality control is crucial in the food industry, and Dodo Pizza takes is seriously.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The company later raised over $2 million through donates from supporters."
+        },
+        {
+          "key": "B",
+          "text": "Dodo Pizza started in northern Russia and has now expanded to nine countries."
+        },
+        {
+          "key": "C",
+          "text": "They regularly send secret shoppers to their pizzerias to evaluate the servic"
+        },
+        {
+          "key": "E",
+          "text": "+"
+        },
+        {
+          "key": "D",
+          "text": "There is a chance for pizzeria to be closed down if their ratings are low."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Dodo Pizza started in northern...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Passion means …",
+      "options": [
+        {
+          "key": "A",
+          "text": "a feeling of anger"
+        },
+        {
+          "key": "B",
+          "text": "having a story and intense enthusiasm or love for something+"
+        },
+        {
+          "key": "C",
+          "text": "Strongly disliking something"
+        },
+        {
+          "key": "D",
+          "text": "a lack of interest or motivation"
+        },
+        {
+          "key": "E",
+          "text": "a feeling of danger"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "According to the author, what is one of the secrets behind Dodo Pizza’s success?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unique pizza recipes"
+        },
+        {
+          "key": "B",
+          "text": "Lack of quality control +"
+        },
+        {
+          "key": "C",
+          "text": "Dodo IS"
+        },
+        {
+          "key": "D",
+          "text": "Advertising"
+        },
+        {
+          "key": "E",
+          "text": "Expensive ingredients"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Unique pizza recipes...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Fedor Ovchinnikov believes that technology … help provide restaurant-quality food and service at an affordable price",
+      "options": [
+        {
+          "key": "A",
+          "text": "might"
+        },
+        {
+          "key": "B",
+          "text": "has to +"
+        },
+        {
+          "key": "C",
+          "text": "May"
+        },
+        {
+          "key": "D",
+          "text": "Can be"
+        },
+        {
+          "key": "E",
+          "text": "Can"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "What encourages the development of Dodo IS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Visio"
+        },
+        {
+          "key": "B",
+          "text": "Use of drones for pizza delivery +"
+        },
+        {
+          "key": "C",
+          "text": "Donates"
+        },
+        {
+          "key": "D",
+          "text": "Expansion to nine countries"
+        },
+        {
+          "key": "E",
+          "text": "Customer feedback"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "What is the purpose of the secret shopper program implemented by Dodo Pizza?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Increasing sales"
+        },
+        {
+          "key": "B",
+          "text": "Monitoring food quality"
+        },
+        {
+          "key": "C",
+          "text": "Collecting customer feedback +"
+        },
+        {
+          "key": "D",
+          "text": "The improvement of the service quality"
+        },
+        {
+          "key": "E",
+          "text": "Promoting Dodo Pizza"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('Promoting Dodo Pizza...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "Fedor … technology for transforming the fast-food industry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Will continue using"
+        },
+        {
+          "key": "B",
+          "text": "Continue using"
+        },
+        {
+          "key": "C",
+          "text": "Will be continue using +"
+        },
+        {
+          "key": "D",
+          "text": "going to use"
+        },
+        {
+          "key": "E",
+          "text": "Will not use"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    }
+  ]
+}

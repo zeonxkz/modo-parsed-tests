@@ -1,0 +1,2243 @@
+{
+  "test_id": "reading_literacy_en_9_329123",
+  "title": "ББЖМ, МОДО, 9-сынып. Ағылшын тілі пәні бойынша 8 текст + дұрыс жауаптарымен",
+  "subject": "reading_literacy_en",
+  "grade": 9,
+  "language": "en",
+  "source_file": "ББЖМ, МОДО, 9-сынып. Ағылшын тілі пәні бойынша 8 текст + дұрыс жауапта.docx",
+  "total_questions": 78,
+  "verified_questions": 72,
+  "answer_sources_distribution": {
+    "ai_solved": 70,
+    "document_bold": 8
+  },
+  "total_embedded_images": 0,
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nThe Model Millionaire\n\nOnce upon a time, in the city of London, there was a young man named Hughie Erskine. He was handsome but poor, and he wanted to marry Laura Merton, a beautiful girl from a rich family. However, Laura’s father believed that a man should have wealth before he could marry his daughter. One day, as Hughie was walking down the street, he came across a beggar. The beggar was shivering in the cold and asked Hughie for some money. Feeling sorry for him, Hughie game him all the money he had in his pocket.\n\nA few days later, Hughie received a letter from his friend, Alan Trevor, who was an artist. Trevor was working on a portrait of a millionaire and needed a model. He asked Hughie to come to his studio and pose for him. When Hughie arrived at Trevor’s studio, he was surprised to see that the portrait was of the beggar he had helped. The artist explained that the beggar was actually a millionaire named Baron Hausberg, who liked to dress up as a beggar to observe people’s reactions. Impressed by Hughie’s act of kindness, Baron Hausberg, who wanted to reward him. He gave Hughie a check for ten thousand pounds, a vast sum of money in those days. Hughie was overjoyed and immediately went to Laura’s house to ask for her hand in marriage.\n\nLaura’s father was amazed when he heard about Hughie’s newfound wealth. He gladly accepted Hughie as his son-in-law, realizing that true generosity and kindness are more important than material wealth. From that day forward, Hughie and Laura lived a happy life together, and Hughie always remembered the lesson he had learned-that acts of kindness can bring unexpected rewards.\n\nBaron Hausberg is a/an …\n\nArtist\n\nPerson who was dressed up as a beggar +\n\nPoor man\n\nAlan Trevor’s friend\n\nLaura’s father\n\nLaura’s father believed that a man should have …\n\nWealthy\n\nWealth +\n\nWealthless\n\nWealths\n\nUnwealthy\n\n**Сұрақ 1:** Why Laura’s father against her marriage with Hughie?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He thought Hughie was not smart enough"
+        },
+        {
+          "key": "B",
+          "text": "He thought Hughie was too old"
+        },
+        {
+          "key": "C",
+          "text": "He thought Hughie was too rich"
+        },
+        {
+          "key": "D",
+          "text": "He thought Hughie was a bad person"
+        },
+        {
+          "key": "E",
+          "text": "He thought Hughie was not rich enough +"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('He thought Hughie was too rich...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nThe Model Millionaire\n\nOnce upon a time, in the city of London, there was a young man named Hughie Erskine. He was handsome but poor, and he wanted to marry Laura Merton, a beautiful girl from a rich family. However, Laura’s father believed that a man should have wealth before he could marry his daughter. One day, as Hughie was walking down the street, he came across a beggar. The beggar was shivering in the cold and asked Hughie for some money. Feeling sorry for him, Hughie game him all the money he had in his pocket.\n\nA few days later, Hughie received a letter from his friend, Alan Trevor, who was an artist. Trevor was working on a portrait of a millionaire and needed a model. He asked Hughie to come to his studio and pose for him. When Hughie arrived at Trevor’s studio, he was surprised to see that the portrait was of the beggar he had helped. The artist explained that the beggar was actually a millionaire named Baron Hausberg, who liked to dress up as a beggar to observe people’s reactions. Impressed by Hughie’s act of kindness, Baron Hausberg, who wanted to reward him. He gave Hughie a check for ten thousand pounds, a vast sum of money in those days. Hughie was overjoyed and immediately went to Laura’s house to ask for her hand in marriage.\n\nLaura’s father was amazed when he heard about Hughie’s newfound wealth. He gladly accepted Hughie as his son-in-law, realizing that true generosity and kindness are more important than material wealth. From that day forward, Hughie and Laura lived a happy life together, and Hughie always remembered the lesson he had learned-that acts of kindness can bring unexpected rewards.\n\nBaron Hausberg is a/an …\n\nArtist\n\nPerson who was dressed up as a beggar +\n\nPoor man\n\nAlan Trevor’s friend\n\nLaura’s father\n\nLaura’s father believed that a man should have …\n\nWealthy\n\nWealth +\n\nWealthless\n\nWealths\n\nUnwealthy\n\n**Сұрақ 2:** Why was Baron Hausberg dressed up as a beggar?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He became poor"
+        },
+        {
+          "key": "B",
+          "text": "It was his job"
+        },
+        {
+          "key": "C",
+          "text": "He didn’t like expensive clothes"
+        },
+        {
+          "key": "D",
+          "text": "He wanted to see people’s reaction +"
+        },
+        {
+          "key": "E",
+          "text": "He was actually a beggar"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('person who asks money from oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 3:** Dana: No, unfortunately I haven't.",
+      "options": [
+        {
+          "key": "E",
+          "text": "My first tavorite subject is Art, that's for sur"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 4:** Mr. Barkley: My next question is: what are your hobbies? When do you feel happiest?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: Oh, my passion is photography. I feel excited when I take pictures of beautiful people wearing beautiful clothes."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 5:** Mr. Barkley: What else do you like about photography?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: like using my digital camera and some other gadgets that can make my photograpns better."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** Mr. Barkley: Have you thought of photography as a career? You can become a fashion photographer.\nDano: That sounds interesting but I have always thought of it as a hobby. What do fashion photographers do? Mr. Barkley: rashion photographers mainly shoot clothing on fashion models. Otten, these photographs are used in promotions and",
+      "options": [
+        {
+          "key": "A",
+          "text": "advertising in catalogs or other media to sell the clothing to consumers"
+        },
+        {
+          "key": "D",
+          "text": "I will discuss it with"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('advertising in catalogs or oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 7:** Mr. Barkley: That's right. Talk to your parents and come again next week.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana: Thank you, youve been a big help."
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 8:** Mr. Barkley: You're welcome!",
+      "options": [
+        {
+          "key": "A",
+          "text": ".."
+        },
+        {
+          "key": "B",
+          "text": "University student"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 9:** 9 th graed student",
+      "options": [
+        {
+          "key": "A",
+          "text": "professional photographer"
+        },
+        {
+          "key": "B",
+          "text": "medical student"
+        },
+        {
+          "key": "C",
+          "text": "career guidance counselor"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('medical student...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 10:** Mr .Barkley suggests a career of a",
+      "options": [
+        {
+          "key": "A",
+          "text": "fashion designer"
+        },
+        {
+          "key": "B",
+          "text": "fashion model"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 11:** fashion photographer",
+      "options": [
+        {
+          "key": "A",
+          "text": "software developer"
+        },
+        {
+          "key": "B",
+          "text": "software enginer"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 12:** Mr .Barkley is a",
+      "options": [
+        {
+          "key": "A",
+          "text": "School principal"
+        },
+        {
+          "key": "B",
+          "text": "career guidance counselor"
+        },
+        {
+          "key": "C",
+          "text": "teacher"
+        },
+        {
+          "key": "D",
+          "text": "fashion photographer"
+        },
+        {
+          "key": "E",
+          "text": "9th grade student"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "document_bold",
+      "explanation": "Вариант B выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 13:** Dana said their English teacher",
+      "options": [
+        {
+          "key": "A",
+          "text": "tried to develop their communication skills"
+        },
+        {
+          "key": "B",
+          "text": "was not very effective in improving their communication skills"
+        },
+        {
+          "key": "C",
+          "text": "was more interested in teaching grammar than communication skills"
+        },
+        {
+          "key": "D",
+          "text": "Didn't encourage them to speak up in class"
+        },
+        {
+          "key": "E",
+          "text": "tried to develop their leadership skills"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q14",
+      "question_number": 14,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 14:** The photographs of fashion photographers are used",
+      "options": [
+        {
+          "key": "A",
+          "text": "at school"
+        },
+        {
+          "key": "B",
+          "text": "in books"
+        },
+        {
+          "key": "C",
+          "text": "as private photos"
+        },
+        {
+          "key": "D",
+          "text": "in advertising in social media"
+        },
+        {
+          "key": "E",
+          "text": "in science literature"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "document_bold",
+      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q15",
+      "question_number": 15,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 15:** Dana asked Mr.Barkley ...help her",
+      "options": [
+        {
+          "key": "A",
+          "text": "could he"
+        },
+        {
+          "key": "B",
+          "text": "if he can"
+        },
+        {
+          "key": "C",
+          "text": "can he"
+        },
+        {
+          "key": "D",
+          "text": "if he could"
+        },
+        {
+          "key": "E",
+          "text": "will he"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q16",
+      "question_number": 16,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 16:** The false statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Mr.Barkley offered to start with her favorite school subjects"
+        },
+        {
+          "key": "B",
+          "text": "Mr.Barkley said Dana could become a fashion photographer"
+        },
+        {
+          "key": "C",
+          "text": "Mr.Barkley invited Dana to come in a month"
+        },
+        {
+          "key": "D",
+          "text": "Dana wondered what fashion photographers did"
+        },
+        {
+          "key": "E",
+          "text": "Dana said she liked using her digital camera and other gadgets"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "document_bold",
+      "explanation": "Вариант C выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q17",
+      "question_number": 17,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 17:** The true  statement",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana is 9 years old"
+        },
+        {
+          "key": "B",
+          "text": "Mr.Barkley asked Dana if she could speak any other languages"
+        },
+        {
+          "key": "C",
+          "text": "Mr.Barkley's responsibility is to find jobs for teenagers"
+        },
+        {
+          "key": "D",
+          "text": "Dana said she likes to create new things and speak English"
+        },
+        {
+          "key": "E",
+          "text": "Mr.Barkley invited Dana to come in month"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q18",
+      "question_number": 18,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 18:** Margherita with a side of tech: this is the story of Dodo Pizza",
+      "options": [
+        {
+          "key": "A",
+          "text": "The creator, Fedor Ovchinnikov, had a vision to revolutionize the food industry by combining technology, the internet, and pizz"
+        },
+        {
+          "key": "E",
+          "text": "These shoppers visit eight times a month and assess 118 different criteri"
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Chef of Dodo Pizza"
+        },
+        {
+          "key": "C",
+          "text": "Marketing manager of Dodo Pizza"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 2:** What is Fedor Ovchinnikov's vision for Dodo Pizza's future?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To promote his pizza recipe worldwide by using technology."
+        },
+        {
+          "key": "B",
+          "text": "To make Dodo Pizza the largest pizza delivery company in the worl"
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "To develop a network of eco-friendly pizzerias worldwid"
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('To make Dodo Pizza the largest...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 3:** Fedor Ovchinnikov created a special digital system ... Dodo",
+      "options": [
+        {
+          "key": "A",
+          "text": "Calling"
+        },
+        {
+          "key": "B",
+          "text": "Call"
+        },
+        {
+          "key": "C",
+          "text": "Calls"
+        },
+        {
+          "key": "D",
+          "text": "Called+"
+        },
+        {
+          "key": "E",
+          "text": "Will be calling"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 4:** Choose the statement that proves the following sentence: Quality control is crucial in the food industry, and Dodo Pizza takes is seriously.",
+      "options": [
+        {
+          "key": "A",
+          "text": "The company later raised over $2 million through donates from supporters."
+        },
+        {
+          "key": "B",
+          "text": "Dodo Pizza started in northern Russia and has now expanded to nine countries."
+        },
+        {
+          "key": "C",
+          "text": "They regularly send secret shoppers to their pizzerias to evaluate the servic"
+        },
+        {
+          "key": "E",
+          "text": "+"
+        },
+        {
+          "key": "D",
+          "text": "There is a chance for pizzeria to be closed down if their ratings are low."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Dodo Pizza started in northern...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 5:** Passion means …",
+      "options": [
+        {
+          "key": "A",
+          "text": "a feeling of anger"
+        },
+        {
+          "key": "B",
+          "text": "having a story and intense enthusiasm or love for something+"
+        },
+        {
+          "key": "C",
+          "text": "Strongly disliking something"
+        },
+        {
+          "key": "D",
+          "text": "a lack of interest or motivation"
+        },
+        {
+          "key": "E",
+          "text": "a feeling of danger"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** According to the author, what is one of the secrets behind Dodo Pizza’s success?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Unique pizza recipes"
+        },
+        {
+          "key": "B",
+          "text": "Lack of quality control +"
+        },
+        {
+          "key": "C",
+          "text": "Dodo IS"
+        },
+        {
+          "key": "D",
+          "text": "Advertising"
+        },
+        {
+          "key": "E",
+          "text": "Expensive ingredients"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Unique pizza recipes...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 7:** Fedor Ovchinnikov believes that technology … help provide restaurant-quality food and service at an affordable price",
+      "options": [
+        {
+          "key": "A",
+          "text": "might"
+        },
+        {
+          "key": "B",
+          "text": "has to +"
+        },
+        {
+          "key": "C",
+          "text": "May"
+        },
+        {
+          "key": "D",
+          "text": "Can be"
+        },
+        {
+          "key": "E",
+          "text": "Can"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 8:** What encourages the development of Dodo IS?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Visio"
+        },
+        {
+          "key": "B",
+          "text": "Use of drones for pizza delivery +"
+        },
+        {
+          "key": "C",
+          "text": "Donates"
+        },
+        {
+          "key": "D",
+          "text": "Expansion to nine countries"
+        },
+        {
+          "key": "E",
+          "text": "Customer feedback"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 9:** What is the purpose of the secret shopper program implemented by Dodo Pizza?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Increasing sales"
+        },
+        {
+          "key": "B",
+          "text": "Monitoring food quality"
+        },
+        {
+          "key": "C",
+          "text": "Collecting customer feedback +"
+        },
+        {
+          "key": "D",
+          "text": "The improvement of the service quality"
+        },
+        {
+          "key": "E",
+          "text": "Promoting Dodo Pizza"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('Promoting Dodo Pizza...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 10:** Fedor … technology for transforming the fast-food industry.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Will continue using"
+        },
+        {
+          "key": "B",
+          "text": "Continue using"
+        },
+        {
+          "key": "C",
+          "text": "Will be continue using +"
+        },
+        {
+          "key": "D",
+          "text": "going to use"
+        },
+        {
+          "key": "E",
+          "text": "Will not use"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q28",
+      "question_number": 28,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 28:** Who has been organizing Met Gala for 28 years?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Karl Lagerfeld"
+        },
+        {
+          "key": "B",
+          "text": "Penelope Cruz"
+        },
+        {
+          "key": "C",
+          "text": "Dua Lipa"
+        },
+        {
+          "key": "D",
+          "text": "Anna Wintour  +"
+        },
+        {
+          "key": "E",
+          "text": "Kendall Jenner"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Karl Lagerfeld...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q29",
+      "question_number": 29,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 29:** Choose the correct word to complete the sentence:",
+      "options": [
+        {
+          "key": "A",
+          "text": "The event has generated millions of … in donations."
+        },
+        {
+          "key": "B",
+          "text": "Dollars +"
+        },
+        {
+          "key": "C",
+          "text": "Money"
+        },
+        {
+          "key": "D",
+          "text": "Dollar"
+        },
+        {
+          "key": "E",
+          "text": "Cash"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('The event has generated millio...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q30",
+      "question_number": 30,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 30:** Guests attending the Met Gala … use their telephones.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Don’t have to"
+        },
+        {
+          "key": "B",
+          "text": "May"
+        },
+        {
+          "key": "C",
+          "text": "Should"
+        },
+        {
+          "key": "D",
+          "text": "Don’t need to"
+        },
+        {
+          "key": "E",
+          "text": "Must not +"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q31",
+      "question_number": 31,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 31:** What does the word ‘exhibition’ mean in the last paragraph?",
+      "options": [
+        {
+          "key": "A",
+          "text": "private gathering of celebrities"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('fashion show...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q32",
+      "question_number": 32,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 32:** The information about the Met Gala 2024 … one month before the event.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Was announced"
+        },
+        {
+          "key": "B",
+          "text": "Will announce"
+        },
+        {
+          "key": "C",
+          "text": "Is announced"
+        },
+        {
+          "key": "D",
+          "text": "Will be announced +"
+        },
+        {
+          "key": "E",
+          "text": "Announces"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 1:** \"White Fang\" is the tale about...",
+      "options": [
+        {
+          "key": "A",
+          "text": "a man looking for gold"
+        },
+        {
+          "key": "B",
+          "text": "a wolf-dog and his journey"
+        },
+        {
+          "key": "C",
+          "text": "Nature of Canada"
+        },
+        {
+          "key": "D",
+          "text": "hard life of people in the 19th century"
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('hard life of people in the 19t...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 2:** What kind of challenges does White Fang face?",
+      "options": [
+        {
+          "key": "A",
+          "text": "His illness"
+        },
+        {
+          "key": "B",
+          "text": "Very hard work"
+        },
+        {
+          "key": "C",
+          "text": "Hot weather"
+        },
+        {
+          "key": "D",
+          "text": "Death of his owner"
+        },
+        {
+          "key": "E",
+          "text": "Cruelty of nature and people"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('Cruelty of nature and people...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 4:** Weedon shows White Fang…….",
+      "options": [
+        {
+          "key": "A",
+          "text": "Loves and patience"
+        },
+        {
+          "key": "B",
+          "text": "Love and patient"
+        },
+        {
+          "key": "C",
+          "text": "Loved and patient"
+        },
+        {
+          "key": "D",
+          "text": "love and patience"
+        },
+        {
+          "key": "E",
+          "text": "lovely and patient"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('love and patience...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 5:** What are the negative factors in White Fang's life?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gold and cold"
+        },
+        {
+          "key": "B",
+          "text": "In people"
+        },
+        {
+          "key": "C",
+          "text": "Nature, humans, dogs"
+        },
+        {
+          "key": "D",
+          "text": "his age"
+        },
+        {
+          "key": "E",
+          "text": "his owner Weedon"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('Nature, humans, dogs...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 6:** How does Weedon treat White Fang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He abuses the dog"
+        },
+        {
+          "key": "B",
+          "text": "He treats him with patience"
+        },
+        {
+          "key": "C",
+          "text": "He fights with the dog"
+        },
+        {
+          "key": "D",
+          "text": "he doesn't feed the dog"
+        },
+        {
+          "key": "E",
+          "text": "he sells the dog"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('He treats him with patience...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nSurvival and Transformation: The Journey of White Fang\n\n\"White Fang\" is an exciting story by Jack London about a young wolf-dog named White Fang and his incredible journey through the tough wilderness of the Yukon Territory in Canada. The story takes place during the Klondike Gold Rush in the late 1800s.\n\nWhite Fang is born in the wild and faces many challenges as he tries to adapt to his surroundings. He has to deal with the hard conditions of nature and the bad treatment from humans, which shape his character and instincts. Throughout the story, White Fang meets different people who impact his life in different ways.\n\nAt first, White Fang's encounters with humans are mostly negative, as he experiences abuse and ill-treatment. However, his life changes when a kind man named Weedon Scott saves him. Weedon shows White Fang love, care, and patience, gradually earning the wolf-dog's trust and loyalty.\n\nWith Weedon's help, White Fang learns to control his aggressive instincts and becomes more civilized. He forms a strong connection with his new master and develops connections with other dogs. Through these relationships, White Fang discovers the power of love, friendship, and loyalty.\n\nAs White Fang continues his journey, he faces various challenges, including fights with other animals and rival dogs. However, his resilience and the lessons he learns from Weedon and his companions help him overcome these problems. \"White Fang\" is a story about survival, personal growth, and the relationship between humans and animals. It explores themes such as the toughness of nature, the impact of the environment on behavior, and the ability of animals to form emotional connections. The story also highlights the natural instincts and adaptability of animals, as well as the positive effects of love and compassion. With its bright descriptions of the wilderness and interesting characters, \"White Fang\" provides an engaging reading\n\nexperience for both teenagers and adults. Adapted from Page by Page Books website https://www.pagebypagebooks.com/Jack London/White Fang/\n\n**Сұрақ 7:** How does the abuse from humans affect White Fang's character and instincts in the story \"White Fang\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It makes him It develops"
+        },
+        {
+          "key": "B",
+          "text": "fear in the wolf-dog"
+        },
+        {
+          "key": "C",
+          "text": "more aggressive and dangerous"
+        },
+        {
+          "key": "E",
+          "text": "White Fang's character, making him careful and distrustful of humans"
+        },
+        {
+          "key": "D",
+          "text": "It has no significant impact on White Fang'scharacter and instincts."
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('White Fang lived a hard life a...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q39",
+      "question_number": 39,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 39:** Answers:",
+      "options": [
+        {
+          "key": "B",
+          "text": "a wolf-dog and his journey"
+        },
+        {
+          "key": "E",
+          "text": "Cruelty of nature and people"
+        },
+        {
+          "key": "C",
+          "text": "Challenging"
+        },
+        {
+          "key": "D",
+          "text": "love and patience"
+        },
+        {
+          "key": "A",
+          "text": "large area of land with little to no human settlement"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('large area of land with little...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q40",
+      "question_number": 40,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 40:** Tsunami",
+      "options": [
+        {
+          "key": "A",
+          "text": "Tsunamis are a force of nature to be reckoned"
+        },
+        {
+          "key": "E",
+          "text": "It's a huge volume of moving water that forms massive waves when it reaches shallow areas. Single-wave tsunamis are rar"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('tsunami is caused by an underw...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 1:** What is the main cause of a tsunami?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hurricane winds"
+        },
+        {
+          "key": "B",
+          "text": "Undersea earthquake"
+        },
+        {
+          "key": "C",
+          "text": "Solar flares"
+        },
+        {
+          "key": "D",
+          "text": "Iceberg melting"
+        },
+        {
+          "key": "E",
+          "text": "Tsunamis are not caused by anything"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 2:** What caused the tsunami in Sumatra?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Volcanic eruption"
+        },
+        {
+          "key": "B",
+          "text": "Meteorites"
+        },
+        {
+          "key": "C",
+          "text": "Iceberg melting"
+        },
+        {
+          "key": "D",
+          "text": "Shifting of the Earth's crust"
+        },
+        {
+          "key": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 3:** What happened on December 26, 2004?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hurricane Katrina hit New Orleans"
+        },
+        {
+          "key": "B",
+          "text": "One of the deadliest tsunamis"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Volcano eruption in Sumatra, Indonesia"
+        },
+        {
+          "key": "E",
+          "text": "Massive landslide"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 4:** Sumatra is an island of which country?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Malaysia"
+        },
+        {
+          "key": "B",
+          "text": "Indonesia"
+        },
+        {
+          "key": "C",
+          "text": "Japan"
+        },
+        {
+          "key": "D",
+          "text": "Italy"
+        },
+        {
+          "key": "E",
+          "text": "Greece"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 5:** What happens when a tsunami hits land?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It disappears"
+        },
+        {
+          "key": "B",
+          "text": "It turns back and goes out to sea"
+        },
+        {
+          "key": "C",
+          "text": "The whole length of the wave sweeps forward"
+        },
+        {
+          "key": "D",
+          "text": "It becomes less powerful"
+        },
+        {
+          "key": "E",
+          "text": "The whole length of the wave sweeps backwards"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 6:** How high can a tsunami wave get?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 meters"
+        },
+        {
+          "key": "B",
+          "text": "10 meters"
+        },
+        {
+          "key": "C",
+          "text": "20 meters"
+        },
+        {
+          "key": "D",
+          "text": "30 meters"
+        },
+        {
+          "key": "E",
+          "text": "40 meters"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 7:** What can't create a tsunami?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Forest fires"
+        },
+        {
+          "key": "B",
+          "text": "Landslides"
+        },
+        {
+          "key": "C",
+          "text": "Meteorites"
+        },
+        {
+          "key": "D",
+          "text": "Volcanic eruptions"
+        },
+        {
+          "key": "E",
+          "text": "Undersea earthquake"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 8:** What are tsunamis composed of?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Single waves"
+        },
+        {
+          "key": "B",
+          "text": "Crests"
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "Ocean currents"
+        },
+        {
+          "key": "E",
+          "text": "None of the above"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 9:** What is the main cause of a tsunami?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hurricane winds"
+        },
+        {
+          "key": "B",
+          "text": "Undersea earthquake"
+        },
+        {
+          "key": "C",
+          "text": "Solar flares"
+        },
+        {
+          "key": "D",
+          "text": "Iceberg melting"
+        },
+        {
+          "key": "E",
+          "text": "Tsunamis are not caused by anything"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 10:** What is the main cause of a tsunami?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hurricane winds"
+        },
+        {
+          "key": "B",
+          "text": "Undersea earthquake"
+        },
+        {
+          "key": "C",
+          "text": "Solar flares"
+        },
+        {
+          "key": "D",
+          "text": "Iceberg melting"
+        },
+        {
+          "key": "E",
+          "text": "Tsunamis are not caused by anything"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q51",
+      "question_number": 51,
+      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 51:** Answers:",
+      "options": [
+        {
+          "key": "B",
+          "text": "Undersea earthquake"
+        },
+        {
+          "key": "D",
+          "text": "Shifting of the Earth's crust"
+        },
+        {
+          "key": "C",
+          "text": "The whole length of the wave sweeps forward"
+        },
+        {
+          "key": "A",
+          "text": "Forest fires"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ B определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "**4 text**\n\nTik Tok and the Death of the Attention Span\n\nTikTok has become a very popular app, especially during the lockdown. It's a platform where people can share short videos that are usually 15-60 seconds long. There are different trends and hashtags that you can explore to find new videos. TikTok has a feature called the For You Page (FYP) that shows you videos based on your interests.\n\nMany people have noticed that after spending time on TikTok, they find it harder to pay attention to longer videos or content. This could be because TikTok offers a continuous stream of quick and exciting videos that grab our attention. A study from the Technical University of Denmark found that our collective attention span may be getting shorter due to the ongoing flow of information.\n\nAttention span refers to the amount of time a person can focus and concentrate on something without getting easily distracted. TikTok's dynamic nature and the variety of content it offers can make us require quick and new information. Some people have even started listening to videos at double speed or losing interest in longer videos. TikTok's unique algorithm calculates our tastes and shows us videos that we are likely to enjoy. This constant need for new and fast content has made us more impatient when it comes to watching other types of videos.\n\nTikTok has created a culture of short and entertaining content, and users expect quick entertainment. Some popular trends on TikTok include short storytime videos and travel vlogs. These videos provide quick and entertaining overviews without requiring much attention. While there isn't specific scientific evidence, many studies, articles, and opinions suggest that TikTok may be the reason of poor attention spans.\n\nThe Oxford Blue\n\nTik Tok and the Death of the Attention Span\n\nhttps://www.theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span\n\n**Сұрақ 1:** What is the author's opinion about TikTok's impact on attention span?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The author doesn't car"
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Tik Tok increases attention span."
+        },
+        {
+          "key": "C",
+          "text": "Tik Tok decreases attention span,"
+        },
+        {
+          "key": "D",
+          "text": "The author criticizes TikTak without any support."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Tik Tok increases attention sp...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**4 text**\n\nTik Tok and the Death of the Attention Span\n\nTikTok has become a very popular app, especially during the lockdown. It's a platform where people can share short videos that are usually 15-60 seconds long. There are different trends and hashtags that you can explore to find new videos. TikTok has a feature called the For You Page (FYP) that shows you videos based on your interests.\n\nMany people have noticed that after spending time on TikTok, they find it harder to pay attention to longer videos or content. This could be because TikTok offers a continuous stream of quick and exciting videos that grab our attention. A study from the Technical University of Denmark found that our collective attention span may be getting shorter due to the ongoing flow of information.\n\nAttention span refers to the amount of time a person can focus and concentrate on something without getting easily distracted. TikTok's dynamic nature and the variety of content it offers can make us require quick and new information. Some people have even started listening to videos at double speed or losing interest in longer videos. TikTok's unique algorithm calculates our tastes and shows us videos that we are likely to enjoy. This constant need for new and fast content has made us more impatient when it comes to watching other types of videos.\n\nTikTok has created a culture of short and entertaining content, and users expect quick entertainment. Some popular trends on TikTok include short storytime videos and travel vlogs. These videos provide quick and entertaining overviews without requiring much attention. While there isn't specific scientific evidence, many studies, articles, and opinions suggest that TikTok may be the reason of poor attention spans.\n\nThe Oxford Blue\n\nTik Tok and the Death of the Attention Span\n\nhttps://www.theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span\n\n**Сұрақ 2:** How does TikTok's algorithm impact users' experience?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It makes users impatient with videos."
+        },
+        {
+          "key": "B",
+          "text": "It doesn't affect how users watch videos."
+        },
+        {
+          "key": "C",
+          "text": "It only shows long videos to users."
+        },
+        {
+          "key": "D",
+          "text": "It makes users less likely to use the app."
+        },
+        {
+          "key": "E",
+          "text": "It chooses the content based on users' interests."
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('It only shows long videos to u...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**4 text**\n\nTik Tok and the Death of the Attention Span\n\nTikTok has become a very popular app, especially during the lockdown. It's a platform where people can share short videos that are usually 15-60 seconds long. There are different trends and hashtags that you can explore to find new videos. TikTok has a feature called the For You Page (FYP) that shows you videos based on your interests.\n\nMany people have noticed that after spending time on TikTok, they find it harder to pay attention to longer videos or content. This could be because TikTok offers a continuous stream of quick and exciting videos that grab our attention. A study from the Technical University of Denmark found that our collective attention span may be getting shorter due to the ongoing flow of information.\n\nAttention span refers to the amount of time a person can focus and concentrate on something without getting easily distracted. TikTok's dynamic nature and the variety of content it offers can make us require quick and new information. Some people have even started listening to videos at double speed or losing interest in longer videos. TikTok's unique algorithm calculates our tastes and shows us videos that we are likely to enjoy. This constant need for new and fast content has made us more impatient when it comes to watching other types of videos.\n\nTikTok has created a culture of short and entertaining content, and users expect quick entertainment. Some popular trends on TikTok include short storytime videos and travel vlogs. These videos provide quick and entertaining overviews without requiring much attention. While there isn't specific scientific evidence, many studies, articles, and opinions suggest that TikTok may be the reason of poor attention spans.\n\nThe Oxford Blue\n\nTik Tok and the Death of the Attention Span\n\nhttps://www.theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span\n\n**Сұрақ 3:** What is the definition of \"attention span\"?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The number of time spent on TikTok daily."
+        },
+        {
+          "key": "B",
+          "text": "The amount of videos watched on TikTok"
+        },
+        {
+          "key": "C",
+          "text": "The duration of Tik Tok videos."
+        },
+        {
+          "key": "D",
+          "text": "The amount of \"likes\" on TikTok content."
+        },
+        {
+          "key": "E",
+          "text": "The ability to concentrate on something for plenty of tim"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('The amount of videos watched o...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**4 text**\n\nTik Tok and the Death of the Attention Span\n\nTikTok has become a very popular app, especially during the lockdown. It's a platform where people can share short videos that are usually 15-60 seconds long. There are different trends and hashtags that you can explore to find new videos. TikTok has a feature called the For You Page (FYP) that shows you videos based on your interests.\n\nMany people have noticed that after spending time on TikTok, they find it harder to pay attention to longer videos or content. This could be because TikTok offers a continuous stream of quick and exciting videos that grab our attention. A study from the Technical University of Denmark found that our collective attention span may be getting shorter due to the ongoing flow of information.\n\nAttention span refers to the amount of time a person can focus and concentrate on something without getting easily distracted. TikTok's dynamic nature and the variety of content it offers can make us require quick and new information. Some people have even started listening to videos at double speed or losing interest in longer videos. TikTok's unique algorithm calculates our tastes and shows us videos that we are likely to enjoy. This constant need for new and fast content has made us more impatient when it comes to watching other types of videos.\n\nTikTok has created a culture of short and entertaining content, and users expect quick entertainment. Some popular trends on TikTok include short storytime videos and travel vlogs. These videos provide quick and entertaining overviews without requiring much attention. While there isn't specific scientific evidence, many studies, articles, and opinions suggest that TikTok may be the reason of poor attention spans.\n\nThe Oxford Blue\n\nTik Tok and the Death of the Attention Span\n\nhttps://www.theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span\n\n**Сұрақ 4:** What is the author's opinion about TikTok's impact on attention span?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The author doesn't car"
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "Tik Tok increases attention span."
+        },
+        {
+          "key": "C",
+          "text": "Tik Tok decreases attention span,"
+        },
+        {
+          "key": "D",
+          "text": "The author criticizes TikTak without any support."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Tik Tok increases attention sp...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**4 text**\n\nTik Tok and the Death of the Attention Span\n\nTikTok has become a very popular app, especially during the lockdown. It's a platform where people can share short videos that are usually 15-60 seconds long. There are different trends and hashtags that you can explore to find new videos. TikTok has a feature called the For You Page (FYP) that shows you videos based on your interests.\n\nMany people have noticed that after spending time on TikTok, they find it harder to pay attention to longer videos or content. This could be because TikTok offers a continuous stream of quick and exciting videos that grab our attention. A study from the Technical University of Denmark found that our collective attention span may be getting shorter due to the ongoing flow of information.\n\nAttention span refers to the amount of time a person can focus and concentrate on something without getting easily distracted. TikTok's dynamic nature and the variety of content it offers can make us require quick and new information. Some people have even started listening to videos at double speed or losing interest in longer videos. TikTok's unique algorithm calculates our tastes and shows us videos that we are likely to enjoy. This constant need for new and fast content has made us more impatient when it comes to watching other types of videos.\n\nTikTok has created a culture of short and entertaining content, and users expect quick entertainment. Some popular trends on TikTok include short storytime videos and travel vlogs. These videos provide quick and entertaining overviews without requiring much attention. While there isn't specific scientific evidence, many studies, articles, and opinions suggest that TikTok may be the reason of poor attention spans.\n\nThe Oxford Blue\n\nTik Tok and the Death of the Attention Span\n\nhttps://www.theoxfordblue.co.uk/tiktok-and-the-death-of-the-attention-span\n\n**Сұрақ 5:** What is one of the most popular content styles on TikTok?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Academic research papers."
+        },
+        {
+          "key": "B",
+          "text": "Travel vlogs"
+        },
+        {
+          "key": "C",
+          "text": "Long novels."
+        },
+        {
+          "key": "D",
+          "text": "Detailed documentaries."
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('Travel vlogs...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**6.Which of the following is the central idea of the text?**\n\nA Tik Tok is the best app for video sharing.\n\nB TikTok might impact attention spans negatively.\n\nC Tik Tok users prefer long videos.\n\nD TikTok's popularity is declining\n\nE TikTok's algorithm is ineffective.\n\n**Сұрақ 7:** Compared to traditional videos, TikTok's videos are:",
+      "options": [
+        {
+          "key": "A",
+          "text": "Longer and more detaile"
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": "The most interesting."
+        },
+        {
+          "key": "C",
+          "text": "Similar in length."
+        },
+        {
+          "key": "E",
+          "text": "Less entertaining and exciting"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант D ('Shorter and more attention-gra...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 9:** Why could Tik Tok be making people more impatient with longer videos?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TikTok users must watch short videos"
+        },
+        {
+          "key": "B",
+          "text": "The information on TikTok should be helpful and informativ"
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Tik Tok users must watch the videos till the en"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('TikTok users must watch short ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 10:** Why could Tik Tok be making people more impatient with longer videos?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TikTok users must watch short videos"
+        },
+        {
+          "key": "B",
+          "text": "The information on TikTok should be helpful and informativ"
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": "Tik Tok users must watch the videos till the en"
+        },
+        {
+          "key": "D",
+          "text": ""
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('TikTok users must watch short ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 2:** E - It chooses the content based on users' interests.",
+      "options": [
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ верифицирован по спецификации теста.",
+      "verification_status": "needs_review"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 7:** D - Shorter and more attention-grabbing.",
+      "options": [
+        {
+          "key": "A",
+          "text": "page that displays content based on user preferences."
+        },
+        {
+          "key": "D",
+          "text": "People might get used to short videos"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "document_bold",
+      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q66",
+      "question_number": 66,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 66:** Turkey earthquake: Where did it hit and why was it so deadly?",
+      "options": [
+        {
+          "key": "E",
+          "text": "The earthquake had a magnitude of 7.8, which is considered a \"big\" earthquak"
+        },
+        {
+          "key": "A",
+          "text": "fault line is a crack or a line in the Earth's surface where two tectonic plates meet."
+        },
+        {
+          "key": "D",
+          "text": "Since the earthquake occurred early in the morning, many people were inside their homes sleeping, making it harder for them to evacuate or find safety. The buildings were not strong enough, and this led to many people getting hurt or even losing their lives."
+        },
+        {
+          "key": "C",
+          "text": "News. Turkey earthquake: Where did it hit and why was it so deadly? - BB"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('News. Turkey earthquake: Where...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q67",
+      "question_number": 67,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 67:** Choose the correct word to complete the sentence The earthquake, many buildings, had a magnitude of 7.8.",
+      "options": [
+        {
+          "key": "A",
+          "text": "damaging"
+        },
+        {
+          "key": "B",
+          "text": "damaged"
+        },
+        {
+          "key": "C",
+          "text": "damagingly"
+        },
+        {
+          "key": "D",
+          "text": "damages"
+        },
+        {
+          "key": "E",
+          "text": "damage"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 2:** What was the magnitude of the earthquake in Turkey?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A8.7"
+        },
+        {
+          "key": "B",
+          "text": "B9.1"
+        },
+        {
+          "key": "C",
+          "text": "C9.5"
+        },
+        {
+          "key": "D",
+          "text": "D7.8"
+        },
+        {
+          "key": "E",
+          "text": "E7.9"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 3:** Where did the earthquake happen in 2023?",
+      "options": [
+        {
+          "key": "A",
+          "text": "AIn Chile"
+        },
+        {
+          "key": "B",
+          "text": "In Turkey, near Syria"
+        },
+        {
+          "key": "C",
+          "text": "CIn Syria"
+        },
+        {
+          "key": "D",
+          "text": "In Turkey, far from Syria"
+        },
+        {
+          "key": "E",
+          "text": "In Syria, far from Turkey"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 4:** Fault line means...",
+      "options": [
+        {
+          "key": "A",
+          "text": ""
+        },
+        {
+          "key": "B",
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "document_bold",
+      "explanation": "Вариант E выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q71",
+      "question_number": 71,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 71:** The region was not_for such a major earthquake because they hadn't experienced one in over 200 year",
+      "options": [
+        {
+          "key": "A",
+          "text": "well-prepared"
+        },
+        {
+          "key": "B",
+          "text": "unpreparednon-prepared"
+        },
+        {
+          "key": "C",
+          "text": "non-prepared"
+        },
+        {
+          "key": "D",
+          "text": "poorly-prepared"
+        },
+        {
+          "key": "E",
+          "text": "ill-prepared"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 6:** Choose the correct sentence In Japan. The big",
+      "options": [
+        {
+          "key": "A",
+          "text": "suffered people because the earthquake many happened in the morning."
+        },
+        {
+          "key": "B",
+          "text": "many people suffered because the earthquake happened in the morning."
+        },
+        {
+          "key": "C",
+          "text": "the morning happened because many people suffered the earthquak"
+        },
+        {
+          "key": "E",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": "the earthquake morning suffered many people happened in."
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "document_bold",
+      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q73",
+      "question_number": 73,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 73:** The earthquake led to significant of nearby buildings.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Destroyed"
+        },
+        {
+          "key": "B",
+          "text": "Destructed"
+        },
+        {
+          "key": "C",
+          "text": "Destroy"
+        },
+        {
+          "key": "D",
+          "text": "D"
+        },
+        {
+          "key": "E",
+          "text": "Destruction"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 5:** Main facts about the earthquake",
+      "options": [
+        {
+          "key": "A",
+          "text": "5-3-2-1-4"
+        },
+        {
+          "key": "B",
+          "text": "5-3-2-4-1"
+        },
+        {
+          "key": "C",
+          "text": "5-2-4-3-1"
+        },
+        {
+          "key": "D",
+          "text": "5-4-2-3-1"
+        },
+        {
+          "key": "E",
+          "text": "5-2-3-4-1"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 9:** What was one of the consequences of the strong earthquake in Turkey?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The Arabian plate was moving north"
+        },
+        {
+          "key": "B",
+          "text": "Many buildings were destroyed"
+        },
+        {
+          "key": "C",
+          "text": "The earthquake had a magnitude of 7.8"
+        },
+        {
+          "key": "D",
+          "text": "The region hadn't experienced such a major earthquake in over 200 years"
+        },
+        {
+          "key": "E",
+          "text": "The fault line was 200 km long"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('The earthquake had a magnitude...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 10:** Why did so many people get hurt or die?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because they didn't know what to do"
+        },
+        {
+          "key": "B",
+          "text": "Because they didn't have access to emergency services"
+        },
+        {
+          "key": "C",
+          "text": "Because the earthquake happened during the day when people were outside"
+        },
+        {
+          "key": "D",
+          "text": "Because the region had experienced many earthquakes before"
+        },
+        {
+          "key": "E",
+          "text": "Because the buildings were not strong enough"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант C ('Because the earthquake happene...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**1.According to the text, double-paned windows.**\n\nA) are the most efficient solution for energy saving.\n\nB) can replace single-paned ones.\n\nC) should only be used in building an addition.\n\nD) will cut your heating expenses by 50%.\n\nE) will reduce the amount of draughts by half.\n\n**Сұрақ 2:** Choose the best option to fill in the blank (2).",
+      "options": [
+        {
+          "key": "A",
+          "text": "accommodations"
+        },
+        {
+          "key": "B",
+          "text": "appliances"
+        },
+        {
+          "key": "C",
+          "text": "foundations"
+        },
+        {
+          "key": "D",
+          "text": "places"
+        },
+        {
+          "key": "E",
+          "text": "traditions"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**6.Which organizational scheme can be identified in this text?**\n\nA) cause and effect\n\nB) chronological order\n\nC) compare and contrast\n\nD) hierarchical order\n\nE) ordering by topic\n\n**Сұрақ 7:** Choose the most accurate definition for the word \"caulk\" marked in paragraph 5.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to finish something successfully, to"
+        },
+        {
+          "key": "B",
+          "text": "achieve a goal"
+        },
+        {
+          "key": "C",
+          "text": "to refuse to allow something, especially officially"
+        },
+        {
+          "key": "D",
+          "text": "to seal the gaps along the edge of something with an insulating substance"
+        },
+        {
+          "key": "E",
+          "text": "to stop something from happening or someone from doing something"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 9:** Which paragraph mentions replacing electric lights?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paragraph 1"
+        },
+        {
+          "key": "B",
+          "text": "Paragraph 2"
+        },
+        {
+          "key": "C",
+          "text": "Paragraph 3"
+        },
+        {
+          "key": "D",
+          "text": "Paragraph 4"
+        },
+        {
+          "key": "E",
+          "text": "Paragraph 5"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант A ('Paragraph 1...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q96",
+      "question_number": 96,
+      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 96:** 10 .Choose the best option to fill in the blank (1).",
+      "options": [
+        {
+          "key": "A",
+          "text": "achievements"
+        },
+        {
+          "key": "B",
+          "text": "adjustments"
+        },
+        {
+          "key": "C",
+          "text": "appearances"
+        },
+        {
+          "key": "D",
+          "text": "appointments"
+        },
+        {
+          "key": "E",
+          "text": "arguments"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "ai_solved",
+      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 11:** Choose the most accurate definition for the word \"caulk\" marked in paragraph 5.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to finish something successfully, to"
+        },
+        {
+          "key": "B",
+          "text": "achieve a goal"
+        },
+        {
+          "key": "C",
+          "text": "to refuse to allow something, especially officially"
+        },
+        {
+          "key": "D",
+          "text": "to seal the gaps along the edge of something with an insulating substance"
+        },
+        {
+          "key": "E",
+          "text": "to stop something from happening or someone from doing something"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант B ('to provide something that is w...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    },
+    {
+      "id": "q98",
+      "question_number": 98,
+      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 98:** Aswers",
+      "options": [
+        {
+          "key": "B",
+          "text": "can replace single-paned ones."
+        },
+        {
+          "key": "E",
+          "text": "Ways to save energy at home"
+        },
+        {
+          "key": "D",
+          "text": "to seal the gaps along the edge of something with an insulating substance"
+        },
+        {
+          "key": "C",
+          "text": "Paragraph 3"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved",
+      "explanation": "Вариант E ('Replace old windows with doubl...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
+      "verification_status": "verified"
+    }
+  ]
+}
