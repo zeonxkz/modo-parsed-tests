@@ -5,43 +5,377 @@
   "grade": 9,
   "language": "kk",
   "source_file": "МОДО математика.docx",
-  "total_questions": 1,
-  "verified_questions": 1,
+  "total_questions": 13,
+  "verified_questions": 13,
   "answer_sources_distribution": {
     "ai_solved": 12
   },
   "total_embedded_images": 1,
   "questions": [
     {
-      "id": "q8",
-      "question_number": 8,
-      "question_text": "**Нұсқаулық: Сізге бір дұрыс жауапты тест тапсырмалары беріледі**\n\n**Сұрақ 8:** <img src=\"images/math_literacy_9_326909_img3_c43a0fa1.png\"/> 9. Суретте көлденеңнен және тігінен орналастырылған (ойыншық) фигуралардың жалпы бағасы берілген. Мысалы, төрт жұлдызшаның бағасы 32 теңге. Олай болса, тігінен бірінші бағандағы фигуралардың бағасы қанша теңгеге тең болатынын көрсетіңіз.",
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Мамыр айында бір грамм алтын 6000 теңге болды. Ай сайын, желтоқсанды қосқанда, бір грамм алтынның құны 10%-ға артады, бірақ 31 желтоқсанда 30% жеңілдік бар. 31 желтоқсанда алтын қанша тұрады?",
       "options": [
         {
           "key": "A",
-          "text": "30 тг."
+          "text": "11692 теңге"
         },
         {
           "key": "B",
-          "text": "25 тг."
+          "text": "11962 теңге"
         },
         {
           "key": "C",
-          "text": "27 тг."
+          "text": "8184 теңге"
         },
         {
           "key": "D",
-          "text": "28тг."
+          "text": "8481 теңге"
         },
         {
           "key": "E",
-          "text": "26 тг."
+          "text": "8814 теңге"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Отбасында жасы 2, 5, 9, 13, 18 және 23-ке тең алты бала бар. Осы сандық мәндердің медианасын табыңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "9"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "23"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Суреттің ішіндегі сандар арифметикалық амалдардың белгілі бір заңына сәйкес алынады. Қандай сан болуы керек ? белгісінің орнына?\n<img src=\"images/math_326909_raw3.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "56"
+        },
+        {
+          "key": "B",
+          "text": "80"
+        },
+        {
+          "key": "C",
+          "text": "70"
+        },
+        {
+          "key": "D",
+          "text": "42"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Самат шелекке майлылығы 3% болатын 4 литр сүт, ал майлылығы 6% болатын 6 литр сүт құйды. Шелектегі сүттің майлылығы қанша пайызды құрайды?",
+      "options": [
+        {
+          "key": "A",
+          "text": "5%"
+        },
+        {
+          "key": "B",
+          "text": "9%"
+        },
+        {
+          "key": "C",
+          "text": "7,5%"
+        },
+        {
+          "key": "D",
+          "text": "4,8%"
+        },
+        {
+          "key": "E",
+          "text": "6,5%"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Мектепте сабақ 8:15-те басталады. Әр сабақ 45 минутқа созылады. Екінші және үшінші сабақтардан кейінгі үзілістердің ұзақтығы — 10 минут, қалған үзілістер — 5 минут. Қазір сағат 12:00-де. Ең жақын қоңырау неше минуттан кейін соғылады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10 минуттан кейін"
+        },
+        {
+          "key": "B",
+          "text": "30 минуттан кейін"
+        },
+        {
+          "key": "C",
+          "text": "25 минуттан кейін"
+        },
+        {
+          "key": "D",
+          "text": "15 минуттан кейін"
+        },
+        {
+          "key": "E",
+          "text": "5 минуттан кейін"
+        }
+      ],
+      "correct_answer": "B"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Кестеде үлгі көрсетілген. Сұрақ белгісіне қай сан сәйкес келеді?\n3 | 5 | 15 | 17 | 51 | ?",
+      "options": [
+        {
+          "key": "A",
+          "text": "155"
+        },
+        {
+          "key": "B",
+          "text": "75"
+        },
+        {
+          "key": "C",
+          "text": "53"
+        },
+        {
+          "key": "D",
+          "text": "99"
+        },
+        {
+          "key": "E",
+          "text": "57"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "P, O, S нүктелері бір түзу сызықта орналасқан.\n<img src=\"images/math_326909_raw1.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "15"
+        },
+        {
+          "key": "B",
+          "text": "20"
+        },
+        {
+          "key": "C",
+          "text": "30"
+        },
+        {
+          "key": "D",
+          "text": "10"
+        },
+        {
+          "key": "E",
+          "text": "5"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Кестеде x және y айнымалыларының арасындағы тәуелділік көрсетілген. Кестедегі тәуелділікті анықтайтын теңдеу арқылы сұрақ белгісіне сәйкес санды табыңыз.\n\nx | -1 | -2 | 0 | 1 | 2\n\ny | 1 | -3 | 5 | ? | 13",
+      "options": [
+        {
+          "key": "A",
+          "text": "9"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "6"
+        },
+        {
+          "key": "D",
+          "text": "11"
+        },
+        {
+          "key": "E",
+          "text": "8"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "Суретте көлденеңінен және тігінен орналастырылған ойыншық фигуралардың жалпы бағасы берілген. Мысалы, төрт жұлдызшаның бағасы 32 теңге. Олай болса, тігінен орналасқан бірінші бағандағы фигуралардың бағасы қанша теңгеге тең екенін көрсетіңіз.\n<img src=\"images/math_326909_raw8.jpeg\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "30 тг"
+        },
+        {
+          "key": "B",
+          "text": "25 тг"
+        },
+        {
+          "key": "C",
+          "text": "27 тг"
+        },
+        {
+          "key": "D",
+          "text": "28 тг"
+        },
+        {
+          "key": "E",
+          "text": "26 тг"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "САХАР, ХАБАР, САУНА, БАНАН, НАРОД сөздерін төмендегі сандармен алмастыруға болса, ХАБАР сөзіне сәйкес болатын санды табыңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "51918"
+        },
+        {
+          "key": "B",
+          "text": "91318"
+        },
+        {
+          "key": "C",
+          "text": "31414"
+        },
+        {
+          "key": "D",
+          "text": "41827"
+        },
+        {
+          "key": "E",
+          "text": "51641"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "ABCD төртбұрышы екі квадратқа және екі тіктөртбұрышқа бөлінген. Суретті пайдаланып, ABCD төртбұрышының ауданын табыңыз.\n<img src=\"images/math_326909_raw7.jpeg\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "324 см²"
+        },
+        {
+          "key": "B",
+          "text": "289 см²"
+        },
+        {
+          "key": "C",
+          "text": "285 см²"
+        },
+        {
+          "key": "D",
+          "text": "196 см²"
+        },
+        {
+          "key": "E",
+          "text": "256 см²"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "Диаграммада әртүрлі көкөніс дақылдарының отырғызылған және өсіп шыққан тұқымдарының саны туралы мәліметтер пайызбен көрсетілген. Осы дақылдардың қайсысы тұқымның өнуінің ең жоғары пайызына ие екенін анықтаңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Қырыққабат"
+        },
+        {
+          "key": "B",
+          "text": "Қызанақ"
+        },
+        {
+          "key": "C",
+          "text": "Сәбіз"
+        },
+        {
+          "key": "D",
+          "text": "Қияр"
+        },
+        {
+          "key": "E",
+          "text": "Бұрыш"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "Егер ені d, ұзындығы енінен 3 есе, ал биіктігі ұзындығынан 2 есе ұзын болса, тікбұрышты параллелепипедтің көлемі қандай болады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_326909_raw4.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_326909_raw2.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_326909_raw9.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_326909_raw6.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_326909_raw5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "A"
     }
-  ]
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }

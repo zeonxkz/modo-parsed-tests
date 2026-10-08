@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "en",
   "source_file": "ББЖМ, МОДО, 9-сынып. Ағылшын тілі пәні бойынша 8 текст + дұрыс жауапта.docx",
-  "total_questions": 46,
-  "verified_questions": 46,
+  "total_questions": 91,
+  "verified_questions": 91,
   "answer_sources_distribution": {
     "ai_solved": 70,
     "document_bold": 8
@@ -16,7 +16,65 @@
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nThe Model Millionaire\n\nOnce upon a time, in the city of London, there was a young man named Hughie Erskine. He was handsome but poor, and he wanted to marry Laura Merton, a beautiful girl from a rich family. However, Laura’s father believed that a man should have wealth before he could marry his daughter. One day, as Hughie was walking down the street, he came across a beggar. The beggar was shivering in the cold and asked Hughie for some money. Feeling sorry for him, Hughie game him all the money he had in his pocket.\n\nA few days later, Hughie received a letter from his friend, Alan Trevor, who was an artist. Trevor was working on a portrait of a millionaire and needed a model. He asked Hughie to come to his studio and pose for him. When Hughie arrived at Trevor’s studio, he was surprised to see that the portrait was of the beggar he had helped. The artist explained that the beggar was actually a millionaire named Baron Hausberg, who liked to dress up as a beggar to observe people’s reactions. Impressed by Hughie’s act of kindness, Baron Hausberg, who wanted to reward him. He gave Hughie a check for ten thousand pounds, a vast sum of money in those days. Hughie was overjoyed and immediately went to Laura’s house to ask for her hand in marriage.\n\nLaura’s father was amazed when he heard about Hughie’s newfound wealth. He gladly accepted Hughie as his son-in-law, realizing that true generosity and kindness are more important than material wealth. From that day forward, Hughie and Laura lived a happy life together, and Hughie always remembered the lesson he had learned-that acts of kindness can bring unexpected rewards.\n\nBaron Hausberg is a/an …\n\nArtist\n\nPerson who was dressed up as a beggar +\n\nPoor man\n\nAlan Trevor’s friend\n\nLaura’s father\n\nLaura’s father believed that a man should have …\n\nWealthy\n\nWealth +\n\nWealthless\n\nWealths\n\nUnwealthy\n\n**Сұрақ 1:** Why Laura’s father against her marriage with Hughie?",
+      "question_text": "**Мәтін: The Model Millionaire.** Hughie Erskine көмектескен қайыршы шын мәнінде миллионер Baron Hausberg болып шықты. Baron Hausberg is a/an …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Artist"
+        },
+        {
+          "key": "B",
+          "text": "Person who was dressed up as a beggar"
+        },
+        {
+          "key": "C",
+          "text": "Poor man"
+        },
+        {
+          "key": "D",
+          "text": "Alan Trevor’s friend"
+        },
+        {
+          "key": "E",
+          "text": "Laura’s father"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "**Мәтін: The Model Millionaire.** Laura’s father believed that a man should have …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Wealthy"
+        },
+        {
+          "key": "B",
+          "text": "Wealth"
+        },
+        {
+          "key": "C",
+          "text": "Wealthless"
+        },
+        {
+          "key": "D",
+          "text": "Wealths"
+        },
+        {
+          "key": "E",
+          "text": "Unwealthy"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "**Мәтін: The Model Millionaire.** Why was Laura’s father against her marriage with Hughie?",
       "options": [
         {
           "key": "A",
@@ -36,18 +94,45 @@
         },
         {
           "key": "E",
-          "text": "He thought Hughie was not rich enough +"
+          "text": "He thought Hughie was not rich enough"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "**Мәтін: The Model Millionaire.** Alan Trevor, … is an artist, is Hughie’s friend.",
+      "options": [
+        {
+          "key": "A",
+          "text": "What"
+        },
+        {
+          "key": "B",
+          "text": "Whom"
+        },
+        {
+          "key": "C",
+          "text": "Who"
+        },
+        {
+          "key": "D",
+          "text": "Whose"
+        },
+        {
+          "key": "E",
+          "text": "Which"
         }
       ],
       "correct_answer": "C",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант C ('He thought Hughie was too rich...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nThe Model Millionaire\n\nOnce upon a time, in the city of London, there was a young man named Hughie Erskine. He was handsome but poor, and he wanted to marry Laura Merton, a beautiful girl from a rich family. However, Laura’s father believed that a man should have wealth before he could marry his daughter. One day, as Hughie was walking down the street, he came across a beggar. The beggar was shivering in the cold and asked Hughie for some money. Feeling sorry for him, Hughie game him all the money he had in his pocket.\n\nA few days later, Hughie received a letter from his friend, Alan Trevor, who was an artist. Trevor was working on a portrait of a millionaire and needed a model. He asked Hughie to come to his studio and pose for him. When Hughie arrived at Trevor’s studio, he was surprised to see that the portrait was of the beggar he had helped. The artist explained that the beggar was actually a millionaire named Baron Hausberg, who liked to dress up as a beggar to observe people’s reactions. Impressed by Hughie’s act of kindness, Baron Hausberg, who wanted to reward him. He gave Hughie a check for ten thousand pounds, a vast sum of money in those days. Hughie was overjoyed and immediately went to Laura’s house to ask for her hand in marriage.\n\nLaura’s father was amazed when he heard about Hughie’s newfound wealth. He gladly accepted Hughie as his son-in-law, realizing that true generosity and kindness are more important than material wealth. From that day forward, Hughie and Laura lived a happy life together, and Hughie always remembered the lesson he had learned-that acts of kindness can bring unexpected rewards.\n\nBaron Hausberg is a/an …\n\nArtist\n\nPerson who was dressed up as a beggar +\n\nPoor man\n\nAlan Trevor’s friend\n\nLaura’s father\n\nLaura’s father believed that a man should have …\n\nWealthy\n\nWealth +\n\nWealthless\n\nWealths\n\nUnwealthy\n\n**Сұрақ 2:** Why was Baron Hausberg dressed up as a beggar?",
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "**Мәтін: The Model Millionaire.** Why was Baron Hausberg dressed up as a beggar?",
       "options": [
         {
           "key": "A",
@@ -63,83 +148,194 @@
         },
         {
           "key": "D",
-          "text": "He wanted to see people’s reaction +"
+          "text": "He wanted to see people’s reaction"
         },
         {
           "key": "E",
           "text": "He was actually a beggar"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('person who asks money from oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** Mr. Barkley: Have you thought of photography as a career? You can become a fashion photographer.\nDano: That sounds interesting but I have always thought of it as a hobby. What do fashion photographers do? Mr. Barkley: rashion photographers mainly shoot clothing on fashion models. Otten, these photographs are used in promotions and",
+      "question_text": "**Мәтін: The Model Millionaire.** Choose the false statement.",
       "options": [
         {
           "key": "A",
-          "text": "advertising in catalogs or other media to sell the clothing to consumers"
+          "text": "Hughie Erskine was a young man living in the city of London."
+        },
+        {
+          "key": "B",
+          "text": "Hughie wanted to marry Laura Merton, a girl from a wealthy family."
+        },
+        {
+          "key": "C",
+          "text": "The beggar turned out to be Baron Hausberg, a millionaire who dressed up as a beggar."
         },
         {
           "key": "D",
-          "text": "I will discuss it with"
+          "text": "Laura’s father believed that a man should have wealth before marrying his daughter."
+        },
+        {
+          "key": "E",
+          "text": "After receiving the check, Hughie decided not to marry Laura."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "**Мәтін: The Model Millionaire.** Beggar means …",
+      "options": [
+        {
+          "key": "A",
+          "text": "A person who asks money from others"
+        },
+        {
+          "key": "B",
+          "text": "A person who lives a luxurious lifestyle."
+        },
+        {
+          "key": "C",
+          "text": "A person who helps those in need"
+        },
+        {
+          "key": "D",
+          "text": "A person who pretends to be homeless for personal gain."
+        },
+        {
+          "key": "E",
+          "text": "A skilled professional in a specific field."
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('advertising in catalogs or oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q8",
       "question_number": 8,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 8:** Mr. Barkley: You're welcome!",
+      "question_text": "**Мәтін: The Model Millionaire.** Real … are more valuable than material wealth.",
       "options": [
         {
           "key": "A",
-          "text": ".."
+          "text": "Kindness and generosity"
         },
         {
           "key": "B",
-          "text": "University student"
+          "text": "Kind and generous"
+        },
+        {
+          "key": "C",
+          "text": "Kindness and generous"
+        },
+        {
+          "key": "D",
+          "text": "Kind and generosity"
+        },
+        {
+          "key": "E",
+          "text": "Kind and generously"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q9",
       "question_number": 9,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 9:** 9 th graed student",
+      "question_text": "**Мәтін: The Model Millionaire.** Choose the sentence with the correct word order.",
       "options": [
         {
           "key": "A",
-          "text": "professional photographer"
+          "text": "His daughter didn’t marry Hughie to allow Laura’s father"
         },
         {
           "key": "B",
-          "text": "medical student"
+          "text": "Laura’s father allow Hughie to didn’t marry his daughter"
         },
         {
           "key": "C",
-          "text": "career guidance counselor"
+          "text": "Hughie didn’t marry his daughter to allow Laura’"
+        },
+        {
+          "key": "D",
+          "text": "Hughie didn’t allow Laura’s father to marry his daughter"
+        },
+        {
+          "key": "E",
+          "text": "Laura’s father didn’t allow Hughie to marry his daughter"
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('medical student...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q10",
       "question_number": 10,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 10:** Mr .Barkley suggests a career of a",
+      "question_text": "**Мәтін: The Model Millionaire.** Choose the correct description of Hughie.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Cold-hearted, bad-tempered, big-hearted"
+        },
+        {
+          "key": "B",
+          "text": "Narrow-minded, self-centered, clear-headed"
+        },
+        {
+          "key": "C",
+          "text": "Good-looking, well-mannered, kind-hearted"
+        },
+        {
+          "key": "D",
+          "text": "Short-tempered, generous-hearted, strong-willed"
+        },
+        {
+          "key": "E",
+          "text": "Good-natured, warm-hearted, two faced"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q11",
+      "question_number": 1,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Dana says she is in grade 9, likes art and English, and enjoys photography. Dana is a …",
+      "options": [
+        {
+          "key": "A",
+          "text": "University student"
+        },
+        {
+          "key": "B",
+          "text": "9th grade student"
+        },
+        {
+          "key": "C",
+          "text": "professional photographer"
+        },
+        {
+          "key": "D",
+          "text": "medical student"
+        },
+        {
+          "key": "E",
+          "text": "career guidance counselor"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Мәтін бойынша: Dana 9-сыныпта оқиды."
+    },
+    {
+      "id": "q12",
+      "question_number": 2,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Mr. Barkley suggests a career of a …",
       "options": [
         {
           "key": "A",
@@ -148,36 +344,27 @@
         {
           "key": "B",
           "text": "fashion model"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q11",
-      "question_number": 11,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 11:** fashion photographer",
-      "options": [
+        },
         {
-          "key": "A",
+          "key": "C",
+          "text": "fashion photographer"
+        },
+        {
+          "key": "D",
           "text": "software developer"
         },
         {
-          "key": "B",
-          "text": "software enginer"
+          "key": "E",
+          "text": "software engineer"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Мәтінде Mr. Barkley Dana-ға сән фотографы болуды ұсынады."
     },
     {
-      "id": "q12",
-      "question_number": 12,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 12:** Mr .Barkley is a",
+      "id": "q13",
+      "question_number": 3,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Mr. Barkley is a …",
       "options": [
         {
           "key": "A",
@@ -201,14 +388,12 @@
         }
       ],
       "correct_answer": "B",
-      "answer_source": "document_bold",
-      "explanation": "Вариант B выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "explanation": "Мәтін бойынша: ол Dana-ға болашақ мамандығын таңдауға көмектеседі."
     },
     {
-      "id": "q13",
-      "question_number": 13,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 13:** Dana said their English teacher",
+      "id": "q14",
+      "question_number": 4,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Dana said their English teacher …",
       "options": [
         {
           "key": "A",
@@ -224,7 +409,7 @@
         },
         {
           "key": "D",
-          "text": "Didn't encourage them to speak up in class"
+          "text": "didn’t encourage them to speak up in class"
         },
         {
           "key": "E",
@@ -232,14 +417,12 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q14",
-      "question_number": 14,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 14:** The photographs of fashion photographers are used",
+      "id": "q15",
+      "question_number": 5,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** The photographs of fashion photographers are used …",
       "options": [
         {
           "key": "A",
@@ -263,14 +446,12 @@
         }
       ],
       "correct_answer": "D",
-      "answer_source": "document_bold",
-      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "explanation": "Мәтінде фотосуреттер жарнамада және басқа медиада қолданылатыны айтылған."
     },
     {
-      "id": "q15",
-      "question_number": 15,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 15:** Dana asked Mr.Barkley ...help her",
+      "id": "q16",
+      "question_number": 6,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Dana asked Mr. Barkley … help her.",
       "options": [
         {
           "key": "A",
@@ -293,89 +474,133 @@
           "text": "will he"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q16",
-      "question_number": 16,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 16:** The false statement",
-      "options": [
-        {
-          "key": "A",
-          "text": "Mr.Barkley offered to start with her favorite school subjects"
-        },
-        {
-          "key": "B",
-          "text": "Mr.Barkley said Dana could become a fashion photographer"
-        },
-        {
-          "key": "C",
-          "text": "Mr.Barkley invited Dana to come in a month"
-        },
-        {
-          "key": "D",
-          "text": "Dana wondered what fashion photographers did"
-        },
-        {
-          "key": "E",
-          "text": "Dana said she liked using her digital camera and other gadgets"
-        }
-      ],
-      "correct_answer": "C",
-      "answer_source": "document_bold",
-      "explanation": "Вариант C выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Жанама сұрақта өткен шақтағы үйлесімді форма — “if he could”."
     },
     {
       "id": "q17",
-      "question_number": 17,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 17:** The true  statement",
+      "question_number": 7,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Mr. Barkley offered Dana … again in a week.",
       "options": [
         {
           "key": "A",
-          "text": "Dana is 9 years old"
+          "text": "will come"
         },
         {
           "key": "B",
-          "text": "Mr.Barkley asked Dana if she could speak any other languages"
+          "text": "to come"
         },
         {
           "key": "C",
-          "text": "Mr.Barkley's responsibility is to find jobs for teenagers"
+          "text": "coming"
         },
         {
           "key": "D",
-          "text": "Dana said she likes to create new things and speak English"
+          "text": "come"
         },
         {
           "key": "E",
-          "text": "Mr.Barkley invited Dana to come in month"
+          "text": "to come"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "“Offer” етістігінен кейін to-infinitive қолданылады."
     },
     {
       "id": "q18",
-      "question_number": 18,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 18:** Margherita with a side of tech: this is the story of Dodo Pizza",
+      "question_number": 8,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Choose the false statement.",
       "options": [
         {
           "key": "A",
-          "text": "The creator, Fedor Ovchinnikov, had a vision to revolutionize the food industry by combining technology, the internet, and pizz"
+          "text": "Mr. Barkley offered to start with her favorite school subjects."
         },
         {
-          "key": "E",
-          "text": "These shoppers visit eight times a month and assess 118 different criteri"
+          "key": "B",
+          "text": "Mr. Barkley said Dana could become a fashion photographer."
+        },
+        {
+          "key": "C",
+          "text": "Mr. Barkley invited Dana to come in a month."
         },
         {
           "key": "D",
-          "text": ""
+          "text": "Dana wondered what fashion photographers did."
+        },
+        {
+          "key": "E",
+          "text": "Dana said she liked using her digital camera and other gadgets."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Мәтінде Mr. Barkley Dana-ны бір аптадан кейін келуге шақырады."
+    },
+    {
+      "id": "q19",
+      "question_number": 9,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Choose the true statement.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Dana is 9 years old."
+        },
+        {
+          "key": "B",
+          "text": "Mr. Barkley asked Dana if she could speak any other languages."
+        },
+        {
+          "key": "C",
+          "text": "Mr. Barkley's responsibility is to find jobs for teenagers."
+        },
+        {
+          "key": "D",
+          "text": "Dana said she likes to create new things and speak English."
+        },
+        {
+          "key": "E",
+          "text": "Mr. Barkley invited Dana to come in a month."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Dana айтқандай, ол әдемі әрі ерекше нәрсе жасағанды және ағылшын тілінде сөйлегенді ұнатады."
+    },
+    {
+      "id": "q20",
+      "question_number": 10,
+      "question_text": "**Мәтін: Dana and Mr. Barkley.** Dana promised she … the idea with her parents.",
+      "options": [
+        {
+          "key": "A",
+          "text": "discuss"
+        },
+        {
+          "key": "B",
+          "text": "would discuss"
+        },
+        {
+          "key": "C",
+          "text": "can discuss"
+        },
+        {
+          "key": "D",
+          "text": "discussed"
+        },
+        {
+          "key": "E",
+          "text": "will discuss"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q21",
+      "question_number": 1,
+      "question_text": "**Мәтін: Dodo Pizza.** Fedor Ovchinnikov is a …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Secret shopper of Dodo Pizza"
         },
         {
           "key": "B",
@@ -384,17 +609,23 @@
         {
           "key": "C",
           "text": "Marketing manager of Dodo Pizza"
+        },
+        {
+          "key": "D",
+          "text": "Creator of Dodo Pizza"
+        },
+        {
+          "key": "E",
+          "text": "The main investor of Dodo Pizza"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q2",
+      "id": "q22",
       "question_number": 2,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 2:** What is Fedor Ovchinnikov's vision for Dodo Pizza's future?",
+      "question_text": "**Мәтін: Dodo Pizza.** What is Fedor Ovchinnikov's vision for Dodo Pizza's future?",
       "options": [
         {
           "key": "A",
@@ -402,30 +633,28 @@
         },
         {
           "key": "B",
-          "text": "To make Dodo Pizza the largest pizza delivery company in the worl"
-        },
-        {
-          "key": "D",
-          "text": ""
+          "text": "To make Dodo Pizza the largest pizza delivery company in the world."
         },
         {
           "key": "C",
-          "text": "To develop a network of eco-friendly pizzerias worldwid"
+          "text": "To develop a network of eco-friendly pizzerias worldwide."
+        },
+        {
+          "key": "D",
+          "text": "To cook different dishes, not only pizza."
         },
         {
           "key": "E",
-          "text": ""
+          "text": "To change the way people think about food by using technology, the internet, and pizza."
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('To make Dodo Pizza the largest...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q3",
+      "id": "q23",
       "question_number": 3,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 3:** Fedor Ovchinnikov created a special digital system ... Dodo",
+      "question_text": "**Мәтін: Dodo Pizza.** Fedor Ovchinnikov created a special digital system … Dodo.",
       "options": [
         {
           "key": "A",
@@ -441,26 +670,24 @@
         },
         {
           "key": "D",
-          "text": "Called+"
+          "text": "Called"
         },
         {
           "key": "E",
           "text": "Will be calling"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q4",
+      "id": "q24",
       "question_number": 4,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 4:** Choose the statement that proves the following sentence: Quality control is crucial in the food industry, and Dodo Pizza takes is seriously.",
+      "question_text": "**Мәтін: Dodo Pizza.** Choose the statement that proves: “Quality control is crucial in the food industry, and Dodo Pizza takes it seriously.”",
       "options": [
         {
           "key": "A",
-          "text": "The company later raised over $2 million through donates from supporters."
+          "text": "The company later raised over $2 million through donations from supporters."
         },
         {
           "key": "B",
@@ -468,26 +695,24 @@
         },
         {
           "key": "C",
-          "text": "They regularly send secret shoppers to their pizzerias to evaluate the servic"
-        },
-        {
-          "key": "E",
-          "text": "+"
+          "text": "They regularly send secret shoppers to their pizzerias to evaluate the service."
         },
         {
           "key": "D",
-          "text": "There is a chance for pizzeria to be closed down if their ratings are low."
+          "text": "There is a chance for a pizzeria to be closed down if its ratings are low."
+        },
+        {
+          "key": "E",
+          "text": "Fedor Ovchinnikov had a vision to revolutionize the food industry by combining technology, the internet, and pizza."
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('Dodo Pizza started in northern...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q5",
+      "id": "q25",
       "question_number": 5,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 5:** Passion means …",
+      "question_text": "**Мәтін: Dodo Pizza.** Passion means …",
       "options": [
         {
           "key": "A",
@@ -495,11 +720,11 @@
         },
         {
           "key": "B",
-          "text": "having a story and intense enthusiasm or love for something+"
+          "text": "having a strong and intense enthusiasm or love for something"
         },
         {
           "key": "C",
-          "text": "Strongly disliking something"
+          "text": "strongly disliking something"
         },
         {
           "key": "D",
@@ -510,15 +735,13 @@
           "text": "a feeling of danger"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q6",
+      "id": "q26",
       "question_number": 6,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** According to the author, what is one of the secrets behind Dodo Pizza’s success?",
+      "question_text": "**Мәтін: Dodo Pizza.** According to the author, what is one of the secrets behind Dodo Pizza’s success?",
       "options": [
         {
           "key": "A",
@@ -526,7 +749,7 @@
         },
         {
           "key": "B",
-          "text": "Lack of quality control +"
+          "text": "Lack of quality control"
         },
         {
           "key": "C",
@@ -541,15 +764,13 @@
           "text": "Expensive ingredients"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('Unique pizza recipes...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілтте B нұсқасы белгіленген."
     },
     {
-      "id": "q7",
+      "id": "q27",
       "question_number": 7,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 7:** Fedor Ovchinnikov believes that technology … help provide restaurant-quality food and service at an affordable price",
+      "question_text": "**Мәтін: Dodo Pizza.** Fedor Ovchinnikov believes that technology … help provide restaurant-quality food and service at an affordable price.",
       "options": [
         {
           "key": "A",
@@ -557,42 +778,40 @@
         },
         {
           "key": "B",
-          "text": "has to +"
+          "text": "has to"
         },
         {
           "key": "C",
-          "text": "May"
+          "text": "may"
         },
         {
           "key": "D",
-          "text": "Can be"
+          "text": "can be"
         },
         {
           "key": "E",
-          "text": "Can"
+          "text": "can"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілтте B нұсқасы белгіленген."
     },
     {
-      "id": "q8",
+      "id": "q28",
       "question_number": 8,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 8:** What encourages the development of Dodo IS?",
+      "question_text": "**Мәтін: Dodo Pizza.** What encourages the development of Dodo IS?",
       "options": [
         {
           "key": "A",
-          "text": "Visio"
+          "text": "Vision"
         },
         {
           "key": "B",
-          "text": "Use of drones for pizza delivery +"
+          "text": "Use of drones for pizza delivery"
         },
         {
           "key": "C",
-          "text": "Donates"
+          "text": "Donations"
         },
         {
           "key": "D",
@@ -603,15 +822,13 @@
           "text": "Customer feedback"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілтте B нұсқасы белгіленген."
     },
     {
-      "id": "q9",
+      "id": "q29",
       "question_number": 9,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 9:** What is the purpose of the secret shopper program implemented by Dodo Pizza?",
+      "question_text": "**Мәтін: Dodo Pizza.** What is the purpose of the secret shopper program implemented by Dodo Pizza?",
       "options": [
         {
           "key": "A",
@@ -623,7 +840,7 @@
         },
         {
           "key": "C",
-          "text": "Collecting customer feedback +"
+          "text": "Collecting customer feedback"
         },
         {
           "key": "D",
@@ -634,15 +851,13 @@
           "text": "Promoting Dodo Pizza"
         }
       ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант E ('Promoting Dodo Pizza...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілтте C нұсқасы белгіленген."
     },
     {
-      "id": "q10",
+      "id": "q30",
       "question_number": 10,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 10:** Fedor … technology for transforming the fast-food industry.",
+      "question_text": "**Мәтін: Dodo Pizza.** Fedor … technology for transforming the fast-food industry.",
       "options": [
         {
           "key": "A",
@@ -654,26 +869,53 @@
         },
         {
           "key": "C",
-          "text": "Will be continue using +"
+          "text": "Will be continue using"
         },
         {
           "key": "D",
-          "text": "going to use"
+          "text": "Going to use"
         },
         {
           "key": "E",
           "text": "Will not use"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілтте C нұсқасы белгіленген."
     },
     {
-      "id": "q28",
-      "question_number": 28,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 28:** Who has been organizing Met Gala for 28 years?",
+      "id": "q31",
+      "question_number": 1,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** The text describes the Met Gala, an event associated with fashion, exhibitions, and fundraising. Met Gala is connected with …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Music"
+        },
+        {
+          "key": "B",
+          "text": "Fashion"
+        },
+        {
+          "key": "C",
+          "text": "Art"
+        },
+        {
+          "key": "D",
+          "text": "Film"
+        },
+        {
+          "key": "E",
+          "text": "Sports"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q32",
+      "question_number": 2,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** Who has been organizing Met Gala for 28 years?",
       "options": [
         {
           "key": "A",
@@ -689,53 +931,78 @@
         },
         {
           "key": "D",
-          "text": "Anna Wintour  +"
+          "text": "Anna Wintour"
         },
         {
           "key": "E",
           "text": "Kendall Jenner"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('Karl Lagerfeld...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q29",
-      "question_number": 29,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 29:** Choose the correct word to complete the sentence:",
+      "id": "q33",
+      "question_number": 3,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** Choose the correct word to complete the sentence: “The event has generated millions of … in donations.”",
       "options": [
         {
           "key": "A",
-          "text": "The event has generated millions of … in donations."
+          "text": "Dollars"
         },
         {
           "key": "B",
-          "text": "Dollars +"
-        },
-        {
-          "key": "C",
           "text": "Money"
         },
         {
-          "key": "D",
+          "key": "C",
           "text": "Dollar"
         },
         {
-          "key": "E",
+          "key": "D",
           "text": "Cash"
+        },
+        {
+          "key": "E",
+          "text": "Coins"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('The event has generated millio...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q30",
-      "question_number": 30,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 30:** Guests attending the Met Gala … use their telephones.",
+      "id": "q34",
+      "question_number": 4,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** Choose the statement that supports the sentence: “The event is usually filled with surprises and excitement, often featuring high-quality performances.”",
+      "options": [
+        {
+          "key": "A",
+          "text": "In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera."
+        },
+        {
+          "key": "B",
+          "text": "Before the dinner, guests had the opportunity to explore the exhibition, which showed more than 150 pieces related to Karl Lagerfeld’s career."
+        },
+        {
+          "key": "C",
+          "text": "This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone."
+        },
+        {
+          "key": "D",
+          "text": "The Met Gala raises money for the Metropolitan Museum of Art’s Costume Institute."
+        },
+        {
+          "key": "E",
+          "text": "Guests attending the Met Gala are required to follow a strict no-phone policy."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q35",
+      "question_number": 5,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** Guests attending the Met Gala … use their telephones.",
       "options": [
         {
           "key": "A",
@@ -755,18 +1022,45 @@
         },
         {
           "key": "E",
-          "text": "Must not +"
+          "text": "Must not"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q32",
-      "question_number": 32,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nEverything to Know About the 2023 Met Gala\n\nThe famous 2023 Met Gala happened in New York City on May 1. It marked the opening of the “Karl Lagerfeld: A line of Beauty” exhibition at the Costume Institute. Visitors had the opportunity to watch the gala through Vogue’s livestream, where they could catch all the action from the red carpet. The livestream was available on various digital platforms, including Vogue’s website, Instagram, Facebook, and Twitter. The people responsible for the evening included Penelope Cruz, Dua Lipa, and Anna Wintour. Anna Wintour, who has been organizing the Met Gala since 1995, is an important figure in the fashion industry. She is the editor-in-chief of Vogue magazine and is known for her influential role in shaping fashion trends and discovering new talent.\n\nThe Met Gala is a famous event that raises a lot of money for the Metropolitan of Art’s Costume Institute. It’s a way to raise money and it also makes the start of the annual fashion show. Throughout the years, the event has generated millions of dollars in donations.\n\nGuests attending the Met Gala are required to follow a strict no-phone policy, which means no social media postings during the event. However, exclusive-photos from inside the gala are usually shared afterwards, providing a look into the table settings, menu, and décor. In 2021, Kendall Jenner gave fans a behind-the-scenes look at the Met Gala through her personal camera.\n\nThe event is usually filled with surprises and excitement, often featuring high-quality performance. This year, the singer Lizzo gave an amazing and surprising performance that impressed everyone. Before the dinner, quests had the opportunity to explore the exhibition, which showed more than 150 pieces related to a famous designer    Karl Lagerfeld’s memorable career. The exhibition included Lagerfeld’s own drawings, which gave us a special look into how he created his designs.\n\nMet Gala is the connected with\n\nMusic\n\nFashion +\n\nArt\n\nFilm\n\nSports\n\n**Сұрақ 32:** The information about the Met Gala 2024 … one month before the event.",
+      "id": "q36",
+      "question_number": 6,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** What does the word “exhibition” mean in the last paragraph?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A private gathering of celebrities"
+        },
+        {
+          "key": "B",
+          "text": "A fashion show"
+        },
+        {
+          "key": "C",
+          "text": "A public presentation of items, objects, or artworks"
+        },
+        {
+          "key": "D",
+          "text": "A charity event"
+        },
+        {
+          "key": "E",
+          "text": "A music concert"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q37",
+      "question_number": 7,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** The information about the Met Gala 2024 … one month before the event.",
       "options": [
         {
           "key": "A",
@@ -782,30 +1076,173 @@
         },
         {
           "key": "D",
-          "text": "Will be announced +"
+          "text": "Will be announced"
         },
         {
           "key": "E",
           "text": "Announces"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q38",
+      "question_number": 8,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** According to the final paragraph of the text, what was the main idea of the Met Gala?",
+      "options": [
+        {
+          "key": "A",
+          "text": "To showcase the latest fashion trends of the year"
+        },
+        {
+          "key": "B",
+          "text": "To motivate young designers to build successful careers"
+        },
+        {
+          "key": "C",
+          "text": "To raise awareness about art and its importance"
+        },
+        {
+          "key": "D",
+          "text": "To celebrate the history of the Metropolitan Museum of Art"
+        },
+        {
+          "key": "E",
+          "text": "To promote eco-friendly fashion"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q39",
-      "question_number": 39,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 39:** Answers:",
+      "question_number": 9,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** According to the text, who broke the rule of the Met Gala?",
       "options": [
+        {
+          "key": "A",
+          "text": "Kendall Jenner"
+        },
+        {
+          "key": "B",
+          "text": "Penelope Cruz"
+        },
+        {
+          "key": "C",
+          "text": "Dua Lipa"
+        },
+        {
+          "key": "D",
+          "text": "Anna Wintour"
+        },
+        {
+          "key": "E",
+          "text": "Karl Lagerfeld"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q40",
+      "question_number": 10,
+      "question_text": "**Мәтін: Everything to Know About the 2023 Met Gala.** In the sentence “Guests attending the Met Gala are required to follow a strict no-phone policy,” the word “no-phone” acts as …",
+      "options": [
+        {
+          "key": "A",
+          "text": "A verb"
+        },
+        {
+          "key": "B",
+          "text": "A noun"
+        },
+        {
+          "key": "C",
+          "text": "An adverb"
+        },
+        {
+          "key": "D",
+          "text": "A preposition"
+        },
+        {
+          "key": "E",
+          "text": "An adjective"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q41",
+      "question_number": 1,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** White Fang is a wolf-dog who faces wilderness hardships, mistreatment by humans, and later learns trust and loyalty with Weedon Scott. “White Fang” is the tale about …",
+      "options": [
+        {
+          "key": "A",
+          "text": "a man looking for gold"
+        },
         {
           "key": "B",
           "text": "a wolf-dog and his journey"
         },
         {
+          "key": "C",
+          "text": "Nature of Canada"
+        },
+        {
+          "key": "D",
+          "text": "hard life of people in the 19th century"
+        },
+        {
+          "key": "E",
+          "text": "A zoo in Yukon"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q42",
+      "question_number": 2,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** What kind of challenges does White Fang face?",
+      "options": [
+        {
+          "key": "A",
+          "text": "His illness"
+        },
+        {
+          "key": "B",
+          "text": "Very hard work"
+        },
+        {
+          "key": "C",
+          "text": "Hot weather"
+        },
+        {
+          "key": "D",
+          "text": "Death of his owner"
+        },
+        {
           "key": "E",
           "text": "Cruelty of nature and people"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q43",
+      "question_number": 3,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** White Fang has a … life.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Challenge"
+        },
+        {
+          "key": "B",
+          "text": "Challenges"
         },
         {
           "key": "C",
@@ -813,41 +1250,223 @@
         },
         {
           "key": "D",
-          "text": "love and patience"
-        },
-        {
-          "key": "A",
-          "text": "large area of land with little to no human settlement"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('large area of land with little...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q40",
-      "question_number": 40,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 40:** Tsunami",
-      "options": [
-        {
-          "key": "A",
-          "text": "Tsunamis are a force of nature to be reckoned"
+          "text": "challenged"
         },
         {
           "key": "E",
-          "text": "It's a huge volume of moving water that forms massive waves when it reaches shallow areas. Single-wave tsunamis are rar"
+          "text": "challengeous"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q44",
+      "question_number": 4,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** Weedon shows White Fang …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Loves and patience"
+        },
+        {
+          "key": "B",
+          "text": "Love and patient"
+        },
+        {
+          "key": "C",
+          "text": "Loved and patient"
+        },
+        {
+          "key": "D",
+          "text": "love and patience"
+        },
+        {
+          "key": "E",
+          "text": "lovely and patient"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q45",
+      "question_number": 5,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** What are the negative factors in White Fang’s life?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Gold and cold"
+        },
+        {
+          "key": "B",
+          "text": "In people"
+        },
+        {
+          "key": "C",
+          "text": "Nature, humans, dogs"
+        },
+        {
+          "key": "D",
+          "text": "his age"
+        },
+        {
+          "key": "E",
+          "text": "his owner Weedon"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q46",
+      "question_number": 6,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** How does Weedon treat White Fang?",
+      "options": [
+        {
+          "key": "A",
+          "text": "He abuses the dog"
+        },
+        {
+          "key": "B",
+          "text": "He treats him with patience"
+        },
+        {
+          "key": "C",
+          "text": "He fights with the dog"
+        },
+        {
+          "key": "D",
+          "text": "He doesn’t feed the dog"
+        },
+        {
+          "key": "E",
+          "text": "He sells the dog"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q47",
+      "question_number": 7,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** How does the abuse from humans affect White Fang's character and instincts in the story?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It makes him develop … (option text is incomplete in the source)."
+        },
+        {
+          "key": "B",
+          "text": "It develops fear in the wolf-dog."
+        },
+        {
+          "key": "C",
+          "text": "It changes White Fang's character, making him careful and distrustful of humans."
+        },
+        {
+          "key": "D",
+          "text": "It has no significant impact on White Fang's character and instincts."
+        },
+        {
+          "key": "E",
+          "text": "It motivates White Fang to show violent behaviour towards humans."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q48",
+      "question_number": 8,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** Based on the context of the text, what does the word “wilderness” mean?",
+      "options": [
+        {
+          "key": "A",
+          "text": "large area of land with little to no human settlement"
+        },
+        {
+          "key": "B",
+          "text": "dangerous and chaotic environment"
+        },
+        {
+          "key": "C",
+          "text": "place where wild animals are kept in zoos"
+        },
+        {
+          "key": "D",
+          "text": "A region with rich vegetation and dense population"
+        },
+        {
+          "key": "E",
+          "text": "A desert without any life"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('tsunami is caused by an underw...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q1",
+      "id": "q49",
+      "question_number": 9,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** The story is called “Survival and Transformation” because …",
+      "options": [
+        {
+          "key": "A",
+          "text": "People treated all dogs negatively"
+        },
+        {
+          "key": "B",
+          "text": "The wolf-dog lived in the 19th century"
+        },
+        {
+          "key": "C",
+          "text": "The wolf-dog became aggressive"
+        },
+        {
+          "key": "D",
+          "text": "White Fang lived a hard life and finally learned to trust and love"
+        },
+        {
+          "key": "E",
+          "text": "White Fang couldn't love anyone"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q50",
+      "question_number": 10,
+      "question_text": "**Мәтін: Survival and Transformation: The Journey of White Fang.** The author thinks that “White Fang” is an engaging reading because …",
+      "options": [
+        {
+          "key": "A",
+          "text": "It describes the characters and the nature in an interesting way"
+        },
+        {
+          "key": "B",
+          "text": "It has various characters"
+        },
+        {
+          "key": "C",
+          "text": "It tells about hard life of animals"
+        },
+        {
+          "key": "D",
+          "text": "It is a historical novel"
+        },
+        {
+          "key": "E",
+          "text": "It can teach a lot of lessons"
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q51",
       "question_number": 1,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 1:** What is the main cause of a tsunami?",
+      "question_text": "**Мәтін: Tsunami.** Tsunamis are usually caused by an underwater disturbance, most often an undersea earthquake. What is the main cause of a tsunami?",
       "options": [
         {
           "key": "A",
@@ -870,15 +1489,13 @@
           "text": "Tsunamis are not caused by anything"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q2",
+      "id": "q52",
       "question_number": 2,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 2:** What caused the tsunami in Sumatra?",
+      "question_text": "**Мәтін: Tsunami.** On December 26, 2004, a 1,200-kilometer section of the Earth’s crust shifted off the coast of Sumatra. What caused the tsunami in Sumatra?",
       "options": [
         {
           "key": "A",
@@ -901,15 +1518,13 @@
           "text": "None of the above"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q3",
+      "id": "q53",
       "question_number": 3,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 3:** What happened on December 26, 2004?",
+      "question_text": "**Мәтін: Tsunami.** What happened on December 26, 2004?",
       "options": [
         {
           "key": "A",
@@ -921,7 +1536,7 @@
         },
         {
           "key": "C",
-          "text": ""
+          "text": "A smallest tornado ever recorded"
         },
         {
           "key": "D",
@@ -932,15 +1547,13 @@
           "text": "Massive landslide"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q4",
+      "id": "q54",
       "question_number": 4,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 4:** Sumatra is an island of which country?",
+      "question_text": "**Мәтін: Tsunami.** Sumatra is an island of which country?",
       "options": [
         {
           "key": "A",
@@ -963,15 +1576,13 @@
           "text": "Greece"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q5",
+      "id": "q55",
       "question_number": 5,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 5:** What happens when a tsunami hits land?",
+      "question_text": "**Мәтін: Tsunami.** What happens when a tsunami hits land?",
       "options": [
         {
           "key": "A",
@@ -994,15 +1605,13 @@
           "text": "The whole length of the wave sweeps backwards"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q6",
+      "id": "q56",
       "question_number": 6,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 6:** How high can a tsunami wave get?",
+      "question_text": "**Мәтін: Tsunami.** How high can a tsunami wave get?",
       "options": [
         {
           "key": "A",
@@ -1025,15 +1634,13 @@
           "text": "40 meters"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q7",
+      "id": "q57",
       "question_number": 7,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 7:** What can't create a tsunami?",
+      "question_text": "**Мәтін: Tsunami.** What can’t create a tsunami?",
       "options": [
         {
           "key": "A",
@@ -1057,14 +1664,12 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q8",
+      "id": "q58",
       "question_number": 8,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 8:** What are tsunamis composed of?",
+      "question_text": "**Мәтін: Tsunami.** What are tsunamis composed of?",
       "options": [
         {
           "key": "A",
@@ -1076,7 +1681,7 @@
         },
         {
           "key": "C",
-          "text": ""
+          "text": "A series of crests called a wave train"
         },
         {
           "key": "D",
@@ -1087,15 +1692,13 @@
           "text": "None of the above"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q9",
+      "id": "q59",
       "question_number": 9,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 9:** What is the main cause of a tsunami?",
+      "question_text": "**Мәтін: Tsunami.** What is the main cause of a tsunami?",
       "options": [
         {
           "key": "A",
@@ -1116,102 +1719,334 @@
         {
           "key": "E",
           "text": "Tsunamis are not caused by anything"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q10",
-      "question_number": 10,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 10:** What is the main cause of a tsunami?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Hurricane winds"
-        },
-        {
-          "key": "B",
-          "text": "Undersea earthquake"
-        },
-        {
-          "key": "C",
-          "text": "Solar flares"
-        },
-        {
-          "key": "D",
-          "text": "Iceberg melting"
-        },
-        {
-          "key": "E",
-          "text": "Tsunamis are not caused by anything"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q51",
-      "question_number": 51,
-      "question_text": "**8.Based on the context of the text, what does the word \"wilderness\" mean?**\n\nA large area of land with little to no human settlement\n\nB.dangerous and chaotic environment\n\nC. place where wildanimals are kept in Zoos.\n\nD. A region with rich vegetation and dense population.\n\nE.A desert without any lifes\n\n**Сұрақ 51:** Answers:",
-      "options": [
-        {
-          "key": "B",
-          "text": "Undersea earthquake"
-        },
-        {
-          "key": "D",
-          "text": "Shifting of the Earth's crust"
-        },
-        {
-          "key": "C",
-          "text": "The whole length of the wave sweeps forward"
-        },
-        {
-          "key": "A",
-          "text": "Forest fires"
         }
       ],
       "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ B определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q66",
-      "question_number": 66,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 66:** Turkey earthquake: Where did it hit and why was it so deadly?",
+      "id": "q60",
+      "question_number": 10,
+      "question_text": "**Мәтін: Tsunami.** What is the main cause of a tsunami?",
       "options": [
         {
-          "key": "E",
-          "text": "The earthquake had a magnitude of 7.8, which is considered a \"big\" earthquak"
-        },
-        {
           "key": "A",
-          "text": "fault line is a crack or a line in the Earth's surface where two tectonic plates meet."
+          "text": "Hurricane winds"
         },
         {
-          "key": "D",
-          "text": "Since the earthquake occurred early in the morning, many people were inside their homes sleeping, making it harder for them to evacuate or find safety. The buildings were not strong enough, and this led to many people getting hurt or even losing their lives."
+          "key": "B",
+          "text": "Undersea earthquake"
         },
         {
           "key": "C",
-          "text": "News. Turkey earthquake: Where did it hit and why was it so deadly? - BB"
+          "text": "Solar flares"
+        },
+        {
+          "key": "D",
+          "text": "Iceberg melting"
+        },
+        {
+          "key": "E",
+          "text": "Tsunamis are not caused by anything"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q61",
+      "question_number": 1,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** The text explains that TikTok’s stream of short, quick videos may make it harder for people to focus on longer content. What is the author's opinion about TikTok's impact on attention span?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The author doesn't care."
+        },
+        {
+          "key": "B",
+          "text": "TikTok increases attention span."
+        },
+        {
+          "key": "C",
+          "text": "TikTok decreases attention span."
+        },
+        {
+          "key": "D",
+          "text": "The author criticizes TikTok without any support."
+        },
+        {
+          "key": "E",
+          "text": "The author highlights the advantages of TikTok."
         }
       ],
       "correct_answer": "C",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант C ('News. Turkey earthquake: Where...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q62",
+      "question_number": 2,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** How does TikTok's algorithm impact users' experience?",
+      "options": [
+        {
+          "key": "A",
+          "text": "It makes users impatient with videos."
+        },
+        {
+          "key": "B",
+          "text": "It doesn't affect how users watch videos."
+        },
+        {
+          "key": "C",
+          "text": "It only shows long videos to users."
+        },
+        {
+          "key": "D",
+          "text": "It makes users less likely to use the app."
+        },
+        {
+          "key": "E",
+          "text": "It chooses the content based on users' interests."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q63",
+      "question_number": 3,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** What is the definition of “attention span”?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The number of time spent on TikTok daily."
+        },
+        {
+          "key": "B",
+          "text": "The amount of videos watched on TikTok."
+        },
+        {
+          "key": "C",
+          "text": "The duration of TikTok videos."
+        },
+        {
+          "key": "D",
+          "text": "The amount of likes on TikTok content."
+        },
+        {
+          "key": "E",
+          "text": "The ability to concentrate on something for a period of time."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q64",
+      "question_number": 4,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** What is the author's opinion about TikTok's impact on attention span?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The author doesn't care."
+        },
+        {
+          "key": "B",
+          "text": "TikTok increases attention span."
+        },
+        {
+          "key": "C",
+          "text": "TikTok decreases attention span."
+        },
+        {
+          "key": "D",
+          "text": "The author criticizes TikTok without any support."
+        },
+        {
+          "key": "E",
+          "text": "The author highlights the advantages of TikTok."
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q65",
+      "question_number": 5,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** What is one of the most popular content styles on TikTok?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Academic research papers"
+        },
+        {
+          "key": "B",
+          "text": "Travel vlogs"
+        },
+        {
+          "key": "C",
+          "text": "Long novels"
+        },
+        {
+          "key": "D",
+          "text": "Detailed documentaries"
+        },
+        {
+          "key": "E",
+          "text": "Encyclopedic textbooks"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q66",
+      "question_number": 6,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** Which of the following is the central idea of the text?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TikTok is the best app for video sharing."
+        },
+        {
+          "key": "B",
+          "text": "TikTok might impact attention spans negatively."
+        },
+        {
+          "key": "C",
+          "text": "TikTok users prefer long videos."
+        },
+        {
+          "key": "D",
+          "text": "TikTok's popularity is declining."
+        },
+        {
+          "key": "E",
+          "text": "TikTok's algorithm is ineffective."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q67",
-      "question_number": 67,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 67:** Choose the correct word to complete the sentence The earthquake, many buildings, had a magnitude of 7.8.",
+      "question_number": 7,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** Compared to traditional videos, TikTok's videos are …",
+      "options": [
+        {
+          "key": "A",
+          "text": "Longer and more detailed."
+        },
+        {
+          "key": "B",
+          "text": "The most interesting."
+        },
+        {
+          "key": "C",
+          "text": "Similar in length."
+        },
+        {
+          "key": "D",
+          "text": "Shorter and more attention-grabbing."
+        },
+        {
+          "key": "E",
+          "text": "Less entertaining and exciting."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q68",
+      "question_number": 8,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** What does the term “For You Page (FYP)” refer to in the context of TikTok?",
+      "options": [
+        {
+          "key": "A",
+          "text": "A page that displays content based on user preferences."
+        },
+        {
+          "key": "B",
+          "text": "A page for long videos on TikTok."
+        },
+        {
+          "key": "C",
+          "text": "A feature that promotes boring content."
+        },
+        {
+          "key": "D",
+          "text": "A page with random videos."
+        },
+        {
+          "key": "E",
+          "text": "A page for educational videos only."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q69",
+      "question_number": 9,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** Why could TikTok be making people more impatient with longer videos?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TikTok users must watch short videos."
+        },
+        {
+          "key": "B",
+          "text": "The information on TikTok should be helpful and informative."
+        },
+        {
+          "key": "C",
+          "text": "TikTok users must watch the videos till the end."
+        },
+        {
+          "key": "D",
+          "text": "People might get used to short videos."
+        },
+        {
+          "key": "E",
+          "text": "TikTok cannot keep users' attention for a long time."
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q70",
+      "question_number": 10,
+      "question_text": "**Мәтін: TikTok and the Death of the Attention Span.** Why could TikTok be making people more impatient with longer videos?",
+      "options": [
+        {
+          "key": "A",
+          "text": "TikTok users must watch short videos."
+        },
+        {
+          "key": "B",
+          "text": "The information on TikTok should be helpful and informative."
+        },
+        {
+          "key": "C",
+          "text": "TikTok users must watch the videos till the end."
+        },
+        {
+          "key": "D",
+          "text": "People might get used to short videos."
+        },
+        {
+          "key": "E",
+          "text": "TikTok cannot keep users' attention for a long time."
+        }
+      ],
+      "correct_answer": "A",
+      "explanation": "Ресми кілтте жауап мәтіні нұсқаларда жоқ; берілген кілтте A нұсқасы көрсетілген."
+    },
+    {
+      "id": "q71",
+      "question_number": 1,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** The 2023 earthquake in southeastern Turkey had a magnitude of 7.8 and caused widespread damage. Choose the correct word: “The earthquake, many buildings, had a magnitude of 7.8.”",
       "options": [
         {
           "key": "A",
@@ -1234,15 +2069,100 @@
           "text": "damage"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q71",
-      "question_number": 71,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 71:** The region was not_for such a major earthquake because they hadn't experienced one in over 200 year",
+      "id": "q72",
+      "question_number": 2,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** What was the magnitude of the earthquake in Turkey?",
+      "options": [
+        {
+          "key": "A",
+          "text": "8.7"
+        },
+        {
+          "key": "B",
+          "text": "9.1"
+        },
+        {
+          "key": "C",
+          "text": "9.5"
+        },
+        {
+          "key": "D",
+          "text": "7.8"
+        },
+        {
+          "key": "E",
+          "text": "7.9"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q73",
+      "question_number": 3,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Where did the earthquake happen in 2023?",
+      "options": [
+        {
+          "key": "A",
+          "text": "In Chile"
+        },
+        {
+          "key": "B",
+          "text": "In Turkey, near Syria"
+        },
+        {
+          "key": "C",
+          "text": "In Syria"
+        },
+        {
+          "key": "D",
+          "text": "In Turkey, far from Syria"
+        },
+        {
+          "key": "E",
+          "text": "In Syria, far from Turkey"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q74",
+      "question_number": 4,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Fault line means …",
+      "options": [
+        {
+          "key": "A",
+          "text": "A line on a map showing tectonic plate boundaries"
+        },
+        {
+          "key": "B",
+          "text": "A boundary between two countries"
+        },
+        {
+          "key": "C",
+          "text": "A line drawn by geologists to predict earthquakes"
+        },
+        {
+          "key": "D",
+          "text": "A line on the surface of the Earth caused by human activities"
+        },
+        {
+          "key": "E",
+          "text": "A crack in the surface of the Earth where two plates hit"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q75",
+      "question_number": 5,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Choose the correct compound adjective: “The region was not … for such a major earthquake because they hadn't experienced one in over 200 years.”",
       "options": [
         {
           "key": "A",
@@ -1265,15 +2185,42 @@
           "text": "ill-prepared"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q73",
-      "question_number": 73,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 73:** The earthquake led to significant of nearby buildings.",
+      "id": "q76",
+      "question_number": 6,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Choose the correct sentence.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Suffered people because the earthquake many happened in the morning."
+        },
+        {
+          "key": "B",
+          "text": "Many people suffered because the earthquake happened in the morning."
+        },
+        {
+          "key": "C",
+          "text": "The morning happened because many people suffered the earthquake."
+        },
+        {
+          "key": "D",
+          "text": "The earthquake morning suffered many people happened in."
+        },
+        {
+          "key": "E",
+          "text": "In the morning many people happened because the earthquake suffered."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q77",
+      "question_number": 7,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Choose the correct word: “The earthquake led to significant … of nearby buildings.”",
       "options": [
         {
           "key": "A",
@@ -1289,22 +2236,368 @@
         },
         {
           "key": "D",
-          "text": "D"
+          "text": "Destruction"
         },
         {
           "key": "E",
-          "text": "Destruction"
+          "text": "Destructive"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілтте A нұсқасы көрсетілген; сөйлемдегі грамматикалық дұрыс сөз — “destruction” (D)."
     },
     {
-      "id": "q96",
-      "question_number": 96,
-      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 96:** 10 .Choose the best option to fill in the blank (1).",
+      "id": "q78",
+      "question_number": 8,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Choose the correct order of the plan: 1. Examples of major earthquakes and their consequences; 2. Causes of the earthquake; 3. Earthquake magnitude scale; 4. Consequences of the earthquake; 5. Main facts about the earthquake.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5-3-2-1-4"
+        },
+        {
+          "key": "B",
+          "text": "5-3-2-4-1"
+        },
+        {
+          "key": "C",
+          "text": "5-2-4-3-1"
+        },
+        {
+          "key": "D",
+          "text": "5-4-2-3-1"
+        },
+        {
+          "key": "E",
+          "text": "5-2-3-4-1"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q79",
+      "question_number": 9,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** What was one of the consequences of the strong earthquake in Turkey?",
+      "options": [
+        {
+          "key": "A",
+          "text": "The Arabian plate was moving north."
+        },
+        {
+          "key": "B",
+          "text": "Many buildings were destroyed."
+        },
+        {
+          "key": "C",
+          "text": "The earthquake had a magnitude of 7.8."
+        },
+        {
+          "key": "D",
+          "text": "The region hadn't experienced such a major earthquake in over 200 years."
+        },
+        {
+          "key": "E",
+          "text": "The fault line was 200 km long."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q80",
+      "question_number": 10,
+      "question_text": "**Мәтін: Turkey earthquake: Where did it hit and why was it so deadly?** Why did so many people get hurt or die?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Because they didn't know what to do."
+        },
+        {
+          "key": "B",
+          "text": "Because they didn't have access to emergency services."
+        },
+        {
+          "key": "C",
+          "text": "Because the earthquake happened during the day when people were outside."
+        },
+        {
+          "key": "D",
+          "text": "Because the region had experienced many earthquakes before."
+        },
+        {
+          "key": "E",
+          "text": "Because the buildings were not strong enough."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q81",
+      "question_number": 1,
+      "question_text": "**Мәтін: Saving Energy.** The text says homeowners can reduce energy use through audits, efficient lighting and appliances, and better windows. According to the text, double-paned windows …",
+      "options": [
+        {
+          "key": "A",
+          "text": "are the most efficient solution for energy saving."
+        },
+        {
+          "key": "B",
+          "text": "can replace single-paned ones."
+        },
+        {
+          "key": "C",
+          "text": "should only be used in building an addition."
+        },
+        {
+          "key": "D",
+          "text": "will cut your heating expenses by 50%."
+        },
+        {
+          "key": "E",
+          "text": "will reduce the amount of draughts by half."
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q82",
+      "question_number": 2,
+      "question_text": "**Мәтін: Saving Energy.** Choose the best option to fill in blank (2).",
+      "options": [
+        {
+          "key": "A",
+          "text": "accommodations"
+        },
+        {
+          "key": "B",
+          "text": "appliances"
+        },
+        {
+          "key": "C",
+          "text": "foundations"
+        },
+        {
+          "key": "D",
+          "text": "places"
+        },
+        {
+          "key": "E",
+          "text": "traditions"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q83",
+      "question_number": 3,
+      "question_text": "**Мәтін: Saving Energy.** Which of the following cannot be inferred from the text?",
+      "options": [
+        {
+          "key": "A",
+          "text": "An energy company can send an energy auditor at your request."
+        },
+        {
+          "key": "B",
+          "text": "Double-paned windows can cut energy costs by half or even more."
+        },
+        {
+          "key": "C",
+          "text": "Hiring an energy auditor can show you how well-isolated and/or constructed your home is."
+        },
+        {
+          "key": "D",
+          "text": "Some appliances such as refrigerators and washing machines have a variety of modes."
+        },
+        {
+          "key": "E",
+          "text": "There are other ways to save energy not mentioned in the text."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q84",
+      "question_number": 4,
+      "question_text": "**Мәтін: Saving Energy.** Choose the best title for the text.",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ecological homes and environment"
+        },
+        {
+          "key": "B",
+          "text": "Old is old - get rid of it"
+        },
+        {
+          "key": "C",
+          "text": "Switching to efficient appliances"
+        },
+        {
+          "key": "D",
+          "text": "Top alternative energy sources for your home"
+        },
+        {
+          "key": "E",
+          "text": "Ways to save energy at home"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q85",
+      "question_number": 5,
+      "question_text": "**Мәтін: Saving Energy.** Which of the following best expresses the main idea of this text?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Hiring an energy auditor from a local energy company will save energy and money."
+        },
+        {
+          "key": "B",
+          "text": "Homeowners know some appliances have energy-saving settings, but they keep it a secret."
+        },
+        {
+          "key": "C",
+          "text": "Relationships between homeowners and renters must be friendly to save energy and money."
+        },
+        {
+          "key": "D",
+          "text": "Replacing windows and light bulbs is well worth the effort and cost."
+        },
+        {
+          "key": "E",
+          "text": "There are plenty of things a homeowner or renter can do to save energy and money."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q86",
+      "question_number": 6,
+      "question_text": "**Мәтін: Saving Energy.** Which organizational scheme can be identified in this text?",
+      "options": [
+        {
+          "key": "A",
+          "text": "cause and effect"
+        },
+        {
+          "key": "B",
+          "text": "chronological order"
+        },
+        {
+          "key": "C",
+          "text": "compare and contrast"
+        },
+        {
+          "key": "D",
+          "text": "hierarchical order"
+        },
+        {
+          "key": "E",
+          "text": "ordering by topic"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q87",
+      "question_number": 7,
+      "question_text": "**Мәтін: Saving Energy.** Choose the most accurate definition for the word “caulk” marked in paragraph 5.",
+      "options": [
+        {
+          "key": "A",
+          "text": "to finish something successfully, to achieve a goal"
+        },
+        {
+          "key": "B",
+          "text": "to provide something that is wanted or needed, often in large quantities and over a long period of time"
+        },
+        {
+          "key": "C",
+          "text": "to refuse to allow something, especially officially"
+        },
+        {
+          "key": "D",
+          "text": "to seal the gaps along the edge of something with an insulating substance"
+        },
+        {
+          "key": "E",
+          "text": "to stop something from happening or someone from doing something"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q88",
+      "question_number": 8,
+      "question_text": "**Мәтін: Saving Energy.** According to the text, which of the following would an energy auditor NOT do?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Check if the energy is used properly in each zone of a home."
+        },
+        {
+          "key": "B",
+          "text": "Locate a variety of flaws that may result in energy inefficiency."
+        },
+        {
+          "key": "C",
+          "text": "Offer solutions to fix uneven heat distribution."
+        },
+        {
+          "key": "D",
+          "text": "Offer solutions to lower your energy costs."
+        },
+        {
+          "key": "E",
+          "text": "Replace old windows with double-paned ones."
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q89",
+      "question_number": 9,
+      "question_text": "**Мәтін: Saving Energy.** Which paragraph mentions replacing electric lights?",
+      "options": [
+        {
+          "key": "A",
+          "text": "Paragraph 1"
+        },
+        {
+          "key": "B",
+          "text": "Paragraph 2"
+        },
+        {
+          "key": "C",
+          "text": "Paragraph 3"
+        },
+        {
+          "key": "D",
+          "text": "Paragraph 4"
+        },
+        {
+          "key": "E",
+          "text": "Paragraph 5"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q90",
+      "question_number": 10,
+      "question_text": "**Мәтін: Saving Energy.** Choose the best option to fill in blank (1).",
       "options": [
         {
           "key": "A",
@@ -1327,37 +2620,38 @@
           "text": "arguments"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
-      "id": "q98",
-      "question_number": 98,
-      "question_text": "**8.According to the text, which of the following would an energy auditor NOT do?**\n\nA) Check if the energy is used properly in each zone of a home.\n\nB) Locate a variety of flaws that may result in energy inefficiency.\n\nC) Offer solutions to fix uneven heat distribution.\n\nD) Offer solutions to lower your energy costs.\n\nE) Replace old windows with double-paned ones.\n\n**Сұрақ 98:** Aswers",
+      "id": "q91",
+      "question_number": 11,
+      "question_text": "**Мәтін: Saving Energy.** Choose the most accurate definition for the word “caulk” marked in paragraph 5.",
       "options": [
         {
-          "key": "B",
-          "text": "can replace single-paned ones."
+          "key": "A",
+          "text": "to finish something successfully, to achieve a goal"
         },
         {
-          "key": "E",
-          "text": "Ways to save energy at home"
+          "key": "B",
+          "text": "to provide something that is wanted or needed, often in large quantities and over a long period of time"
+        },
+        {
+          "key": "C",
+          "text": "to refuse to allow something, especially officially"
         },
         {
           "key": "D",
           "text": "to seal the gaps along the edge of something with an insulating substance"
         },
         {
-          "key": "C",
-          "text": "Paragraph 3"
+          "key": "E",
+          "text": "to stop something from happening or someone from doing something"
         }
       ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант E ('Replace old windows with doubl...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     }
-  ]
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }

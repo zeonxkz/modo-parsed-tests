@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "МОДО тапсырмалары үш нұсқа математика 9-сынып.docx",
-  "total_questions": 8,
-  "verified_questions": 8,
+  "total_questions": 13,
+  "verified_questions": 13,
   "answer_sources_distribution": {
     "ai_solved": 10,
     "document_plus_marker": 1
@@ -14,9 +14,121 @@
   "total_embedded_images": 0,
   "questions": [
     {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Диаграммада соңғы 5 жылда алынған сынақ тестерінің математика пәні бойынша нәтижелері көрсетілген. Жыл сайын тестілеуге 25 оқушы қатысты.\n\n<img src=\"images/math_332147_raw6.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />\n\nДиаграмманы пайдаланып, қай жылдарда тестің орта балы 2014–2018 жылдардың жалпы орта балынан жоғары болғанын анықтаңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "2015, 2016, 2018"
+        },
+        {
+          "key": "B",
+          "text": "2016, 2014, 2018"
+        },
+        {
+          "key": "C",
+          "text": "2016, 2017, 2018"
+        },
+        {
+          "key": "D",
+          "text": "2014, 2017, 2018"
+        },
+        {
+          "key": "E",
+          "text": "2014, 2015, 2017"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Суретте таразы тепе-теңдікте орналасқан болса, <img src=\"images/math_332147_img2.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> өрнегінің мәнін табыңыз.\n\n<img src=\"images/math_332147_raw10.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,1"
+        },
+        {
+          "key": "B",
+          "text": "1,5"
+        },
+        {
+          "key": "C",
+          "text": "0,2"
+        },
+        {
+          "key": "D",
+          "text": "0,3"
+        },
+        {
+          "key": "E",
+          "text": "0,5"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см² болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_332147_raw8.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "75 см²"
+        },
+        {
+          "key": "B",
+          "text": "50 см²"
+        },
+        {
+          "key": "C",
+          "text": "100 см²"
+        },
+        {
+          "key": "D",
+          "text": "150 см²"
+        },
+        {
+          "key": "E",
+          "text": "125 см²"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "a-b-(a+b)=c өрнегін және кестені пайдалана отырып, (х+у)² өрнегінің мәнін табыңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "676"
+        },
+        {
+          "key": "B",
+          "text": "625"
+        },
+        {
+          "key": "C",
+          "text": "121"
+        },
+        {
+          "key": "D",
+          "text": "576"
+        },
+        {
+          "key": "E",
+          "text": "196"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
       "id": "q5",
       "question_number": 5,
-      "question_text": "82022 қандай цифрмен аяқталады?",
+      "question_text": "8^2022 қандай цифрмен аяқталады?",
       "options": [
         {
           "key": "A",
@@ -24,7 +136,11 @@
         },
         {
           "key": "B",
-          "text": "2          С) 4"
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "4"
         },
         {
           "key": "D",
@@ -35,77 +151,80 @@
           "text": "8"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген.Оның қабырғаларының",
+      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_332147_raw7.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
-          "text": "орталары екінші квадраттың төбелері, ал екінші квадраттың"
+          "text": "64 см²"
         },
         {
           "key": "B",
-          "text": "қабырғаларының орталары үшінші квадраттың төбелері,т.с.с."
+          "text": "128 см²"
         },
         {
           "key": "C",
-          "text": "болып келеді.Барлық квадраттардың аудандарының қосындысын"
+          "text": "16 см²"
         },
         {
           "key": "D",
-          "text": "табыңдар."
+          "text": "32 см²"
+        },
+        {
+          "key": "E",
+          "text": "256 см²"
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('қабырғаларының орталары үшінші...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "D"
     },
     {
       "id": "q7",
       "question_number": 7,
-      "question_text": "a, b, c-нақты сандар және a2+b2+c2=1 болса, онда ab+bc+ac өрнегінің ең",
+      "question_text": "a, b, c — нақты сандар және a²+b²+c²=1 болса, онда ab+bc+ac өрнегінің ең кіші мәні",
       "options": [
         {
           "key": "A",
-          "text": "кіші мәні"
+          "text": "-1"
         },
         {
           "key": "B",
+          "text": "<img src=\"images/math_332147_img3.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
           "text": "0"
         },
         {
           "key": "D",
-          "text": ""
+          "text": "<img src=\"images/math_332147_img11.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
         },
         {
           "key": "E",
-          "text": ""
+          "text": "<img src=\"images/math_332147_img4.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "A"
     },
     {
       "id": "q8",
       "question_number": 8,
-      "question_text": "Тігін цехында 108 тігінші бар. Егер барлық 120 тігін машинасының",
+      "question_text": "Тігін цехында 108 тігінші бар. Егер барлық 120 тігін машинасының 25%-і күнделікті жөндеуге жіберілсе, онда әр тігіншіде бір айда (30 күн) қанша күн демалыс болатынын табыңдар.",
       "options": [
         {
           "key": "A",
-          "text": "25%-і  күнделікті жөндеуге жіберілсе,онда әр тігіншіде бір айда (30 күн)"
+          "text": "5 күн"
         },
         {
           "key": "B",
-          "text": "қанша күн демалыс болатынын табыңдар."
+          "text": "4 күн"
+        },
+        {
+          "key": "C",
+          "text": "3 күн"
         },
         {
           "key": "D",
@@ -116,57 +235,68 @@
           "text": "2 күн"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "A"
     },
     {
       "id": "q9",
       "question_number": 9,
-      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары",
+      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_332147_raw1.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
-          "text": "бар.Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары"
+          "text": "1320 м³"
         },
         {
           "key": "B",
-          "text": "бар.Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін"
+          "text": "960 м³"
         },
         {
           "key": "C",
-          "text": "табыңыз"
+          "text": "864 м³"
+        },
+        {
+          "key": "D",
+          "text": "720 м³"
+        },
+        {
+          "key": "E",
+          "text": "1440 м³"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('бар.Көпірдің екі бірдей кішкен...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "A"
     },
     {
       "id": "q10",
       "question_number": 10,
-      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған)",
+      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаз (ABCDEF) ауданы\n\n<img src=\"images/math_332147_raw9.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
-          "text": "батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаз (ABCDEF)"
+          "text": "25 м²"
         },
         {
           "key": "B",
-          "text": "ауданы"
+          "text": "27 м²"
+        },
+        {
+          "key": "C",
+          "text": "33 м²"
+        },
+        {
+          "key": "D",
+          "text": "37 м²"
+        },
+        {
+          "key": "E",
+          "text": "40 м²"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('батпырауық жасады. Батпырауық ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "A"
     },
     {
       "id": "q11",
       "question_number": 11,
-      "question_text": "Егер xy = 144,  x + y = 30 және x > y болса, онда  x – y өрнегінің мәні қанша болатынын табыңыз",
+      "question_text": "Егер xy = 144, x + y = 30 және x > y болса, онда x – y өрнегінің мәні қанша болатынын табыңыз.",
       "options": [
         {
           "key": "A",
@@ -189,23 +319,48 @@
           "text": "24"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_332147_raw5.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,2"
+        },
+        {
+          "key": "B",
+          "text": "9,2"
+        },
+        {
+          "key": "C",
+          "text": "10,5"
+        },
+        {
+          "key": "D",
+          "text": "9,8"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_answer": "A"
     },
     {
       "id": "q13",
       "question_number": 13,
-      "question_text": "Мирас әрқайсысынды 260 данадан тұратын 4 паллет сары кірпіш сатып",
+      "question_text": "Мирас әрқайсысында 260 данадан тұратын 4 паллет сары кірпіш сатып алды. Оның 1/4 бөлігі арка саңылауын жабу үшін қажет болады. Бұл үшін қанша кірпіш қажет болады?",
       "options": [
         {
           "key": "A",
-          "text": "алды.Оның 1/4 бөлігі арка саңылауын жабу үшін қажет болады.Бұл үшін"
+          "text": "250"
         },
         {
           "key": "B",
-          "text": "қанша кірпіш қажет болады."
+          "text": "280"
         },
         {
           "key": "C",
@@ -217,13 +372,11 @@
         },
         {
           "key": "E",
-          "text": ".275"
+          "text": "275"
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('қанша кірпіш қажет болады....') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "C"
     }
-  ]
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }

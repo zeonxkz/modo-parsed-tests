@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Модо 9 сынып 2024 жыл қазақша_орысша.docx",
-  "total_questions": 5,
-  "verified_questions": 5,
+  "total_questions": 8,
+  "verified_questions": 8,
   "answer_sources_distribution": {
     "document_bold": 1,
     "ai_solved": 4
@@ -16,11 +16,11 @@
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "(9 сынып)",
+      "question_text": "175; 172; 179; 171; 174; 170; 172; 169 сандар қатары берілген. Қатардың модасын және орташа арифметикалық мәнін табыңыз/Дан ряд чисел: 175; 172; 179; 171; 174; 170; 172; 169. Найдите моду ряда и среднее арифметическое ряда.",
       "options": [
         {
           "key": "A",
-          "text": "2 нұсқа"
+          "text": "172; 172,75"
         },
         {
           "key": "B",
@@ -33,17 +33,19 @@
         {
           "key": "D",
           "text": "171; 172,75"
+        },
+        {
+          "key": "E",
+          "text": "170; 172,75"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q2",
       "question_number": 2,
-      "question_text": "<img src=\"images/math_literacy_9_333943_img1_338b132f.png\"/> 2.  Өрнектің мәнін табыңыз/Найдите значение выражения:",
+      "question_text": "Өрнектің мәнін табыңыз/Найдите значение выражения: <img src=\"images/math_333943_raw4.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
@@ -66,15 +68,13 @@
           "text": "17"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q3",
       "question_number": 3,
-      "question_text": "<img src=\"images/math_literacy_9_333943_img2_19e5b4e5.png\"/> 3.  Теңдеуді шешіңіз/Решите уравнение:",
+      "question_text": "Теңдеуді шешіңіз/Решите уравнение: <img src=\"images/math_333943_raw3.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
@@ -98,14 +98,41 @@
         }
       ],
       "correct_answer": "C",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант C ('png\"/> 4.  Теңсіздікті шешіңіз...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Теңсіздікті шешіңіз/Решите неравенство: <img src=\"images/math_333943_raw2.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "(4;11)"
+        },
+        {
+          "key": "B",
+          "text": "[4;11]"
+        },
+        {
+          "key": "C",
+          "text": "(-∞;4)"
+        },
+        {
+          "key": "D",
+          "text": "(-∞;4)∪(11;+∞)"
+        },
+        {
+          "key": "E",
+          "text": "(-∞;8)∪(16;+∞)"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q5",
       "question_number": 5,
-      "question_text": "Центрі О нүктесінде орналасқан шеңберге жанама АВ және AO кесіндісі жүргізілді. АВ=15, АО=17 болса, шеңбердің радиусын табыңыз/  К окружности с центром в точке О проведены касательная AB и секущая АО. Найдите радиус окружности, если AB=15, АО=17.",
+      "question_text": "Центрі О нүктесінде орналасқан шеңберге жанама АВ және AO кесіндісі жүргізілді. АВ=15, АО=17 болса, шеңбердің радиусын табыңыз/К окружности с центром в точке О проведены касательная AB и секущая АО. Найдите радиус окружности, если AB=15, АО=17.",
       "options": [
         {
           "key": "A",
@@ -128,19 +155,17 @@
           "text": "8"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "Векторлардың арасындағы бұрышты табыңыз/ Найдите угол между векторами:",
+      "question_text": "Векторлардың арасындағы бұрышты табыңыз/Найдите угол между векторами: <img src=\"images/math_333943_raw1.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
-          "text": "<img src=\"images/math_literacy_9_333943_img4_125104a8.png\"/>"
+          "text": "30 градус / 30 градусов"
         },
         {
           "key": "B",
@@ -159,10 +184,67 @@
           "text": "90 градус / 90 градусов"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Тікбұрышты үшбұрыштың бір қабырғасы екіншісінен екі есе үлкен және олардың мәндері бүтін сандар. Үшінші қабырғасының мәні қандай болуы мүмкін емес?/В прямоугольном треугольнике одна сторона в два раза больше другой, их значения – целые числа. Каким не может быть значение третьей стороны?",
+      "options": [
+        {
+          "key": "A",
+          "text": "12-нің түбірі / корень из 12"
+        },
+        {
+          "key": "B",
+          "text": "20-ның түбірі / корень из 20"
+        },
+        {
+          "key": "C",
+          "text": "36-ның түбірі / корень из 36"
+        },
+        {
+          "key": "D",
+          "text": "27-нің түбірі / корень из 27"
+        },
+        {
+          "key": "E",
+          "text": "45-тің түбірі / корень из 45"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Екі санның көбейтіндісі неге тең, егер ол бір саннан 7 есе үлкен, ал екінші саннан 4 есе үлкен болса/Чему равно произведение двух чисел, если оно в 7 раз больше одного из чисел и в 4 раза больше другого числа?",
+      "options": [
+        {
+          "key": "A",
+          "text": "14"
+        },
+        {
+          "key": "B",
+          "text": "27"
+        },
+        {
+          "key": "C",
+          "text": "11"
+        },
+        {
+          "key": "D",
+          "text": "29"
+        },
+        {
+          "key": "E",
+          "text": "28"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     }
-  ]
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }

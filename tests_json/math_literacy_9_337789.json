@@ -5,11 +5,293 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Мат сауаттылық МОДО тапсырмалары (9 сынып).docx",
-  "total_questions": 0,
-  "verified_questions": 0,
+  "total_questions": 10,
+  "verified_questions": 10,
   "answer_sources_distribution": {
     "ai_solved": 11
   },
   "total_embedded_images": 0,
-  "questions": []
+  "questions": [
+    {
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Асылмұрат ойыншықтарын 6-дан, 7-ден немесе 9-дан топтастыратын болса, бір ойыншығы артылып қалады. Асылмұратта ең кемінде қанша ойыншық болуы мүмкін?",
+      "options": [
+        {
+          "key": "A",
+          "text": "379"
+        },
+        {
+          "key": "B",
+          "text": "378"
+        },
+        {
+          "key": "C",
+          "text": "128"
+        },
+        {
+          "key": "D",
+          "text": "127"
+        },
+        {
+          "key": "E",
+          "text": "64"
+        }
+      ],
+      "correct_answer": "D"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Дөңгелектің радиусын 15%-ға арттырса, оның ауданы неше пайызға артады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "15%"
+        },
+        {
+          "key": "B",
+          "text": "30%"
+        },
+        {
+          "key": "C",
+          "text": "32,25%"
+        },
+        {
+          "key": "D",
+          "text": "22,5%"
+        },
+        {
+          "key": "E",
+          "text": "22,25%"
+        }
+      ],
+      "correct_answer": "C"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Өрнектің мәнін табыңыз: <img src=\"images/math_337789_img6.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_337789_img22.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_337789_img10.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_337789_img1.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_337789_img14.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_337789_img27.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "9-А сыныбында <img src=\"images/math_337789_raw17.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> ер бала және <img src=\"images/math_337789_raw2.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> қыз бала бар. Әрқайсысы мектепке бес оқулықты сөмкелеріне салып әкелді. Мына өрнектердің қайсысы осы оқушылардың алып келген оқулықтарының жалпы санын көрсетеді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_337789_img15.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_337789_img28.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_337789_img23.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_337789_img7.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_337789_img18.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "«ГРАФИК» сөзінің әріптерінен төрт әріптен тұратын неше «сөз» құрастыруға болатынын табыңыз (құралған сөздердің мағынасы маңызды емес)",
+      "options": [
+        {
+          "key": "A",
+          "text": "120"
+        },
+        {
+          "key": "B",
+          "text": "160"
+        },
+        {
+          "key": "C",
+          "text": "180"
+        },
+        {
+          "key": "D",
+          "text": "240"
+        },
+        {
+          "key": "E",
+          "text": "360"
+        }
+      ],
+      "correct_answer": "E"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "ABCD тіктөртбұрышы берілген. Сызба бойынша DBE үшбұрышының ауданын табыңыз.\n\n<img src=\"images/math_337789_raw29.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "8 cм2"
+        },
+        {
+          "key": "B",
+          "text": "9 cм2"
+        },
+        {
+          "key": "C",
+          "text": "9,5 cм2"
+        },
+        {
+          "key": "D",
+          "text": "10 cм2"
+        },
+        {
+          "key": "E",
+          "text": "10,5 cм2"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "<img src=\"images/math_337789_img3.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />, <img src=\"images/math_337789_img16.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> теңдеулері берілген. Дұрыс тұжырымдаманы табыңдар.\n\nА бағаны | В бағаны\n\n<img src=\"images/math_337789_raw30.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> | <img src=\"images/math_337789_raw11.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_337789_img4.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_337789_img19.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_337789_img31.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_337789_img24.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_337789_img5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Биіктіктері 1 және 1,5 метр екі қазықтың арасы 1 м. Шеткі қазықтан ағашқа дейінгі қашықтық 9 м. Ағаштың биіктігін табыңыз.\n\n<img src=\"images/math_337789_raw20.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "4,5 м"
+        },
+        {
+          "key": "B",
+          "text": "5,5 м"
+        },
+        {
+          "key": "C",
+          "text": "6 м"
+        },
+        {
+          "key": "D",
+          "text": "6,5 м"
+        },
+        {
+          "key": "E",
+          "text": "7 м"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "Графигі кескінделген квадраттық функцияның формуласын анықтаңыз\n\n<img src=\"images/math_337789_raw12.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_337789_img8.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_337789_img25.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_337789_img13.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_337789_img21.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_337789_img9.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "A"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "D нүктесінен бірдей қашықтықта орналасқан нүктелерді анықтаңыз:\n\n<img src=\"images/math_337789_raw26.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "A, B, G"
+        },
+        {
+          "key": "B",
+          "text": "A, B, C"
+        },
+        {
+          "key": "C",
+          "text": "A, C, G"
+        },
+        {
+          "key": "D",
+          "text": "B, C, G"
+        },
+        {
+          "key": "E",
+          "text": "A, B, F"
+        }
+      ],
+      "correct_answer": "A"
+    }
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }

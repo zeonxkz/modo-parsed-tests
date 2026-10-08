@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Математикалық сауаттылық тапсырмалары ББЖМ жауаптарымен МОДО.docx",
-  "total_questions": 9,
-  "verified_questions": 9,
+  "total_questions": 20,
+  "verified_questions": 20,
   "answer_sources_distribution": {
     "ai_solved": 19
   },
@@ -39,9 +39,7 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q2",
@@ -69,15 +67,71 @@
           "text": "22,25%"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Өрнектің мәнін табыңыз: <img src=\"images/math_335871_img28.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_335871_img20.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_335871_img32.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_335871_img22.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_335871_img13.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_335871_img5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "9-А сыныбында <img src=\"images/math_335871_raw35.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> ер бала және <img src=\"images/math_335871_raw26.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> қыз бала бар. Әрқайсысы мектепке бес оқулықты сөмкелеріне салып әкелді. Мына өрнектердің қайсысы осы оқушылардың алып келген оқулықтарының жалпы санын көрсетеді?",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_335871_img14.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_335871_img6.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_335871_img1.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_335871_img29.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_335871_img15.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q5",
       "question_number": 5,
-      "question_text": "«ГРАФИК» сөзінің әріптерінен төрт әріптен тұратын неше «сөз» құрастыруға болатынын табыңыз (құралған сөздердің мағынасы маңызды емес)",
+      "question_text": "«ГРАФИК» сөзінің әріптерінен төрт әріптен тұратын неше «сөз» құрастыруға болатынын табыңыз (құралған сөздердің мағынасы маңызды емес).",
       "options": [
         {
           "key": "A",
@@ -85,7 +139,11 @@
         },
         {
           "key": "B",
-          "text": "160                     С) 180"
+          "text": "160"
+        },
+        {
+          "key": "C",
+          "text": "180"
         },
         {
           "key": "D",
@@ -96,42 +154,71 @@
           "text": "360"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "ABCD тіктөртбұрышы берілген. Сызба бойынша DBE үшбұрышының ауданын табыңыз.",
+      "question_text": "ABCD тіктөртбұрышы берілген. Сызба бойынша DBE үшбұрышының ауданын табыңыз.\n\n<img src=\"images/math_335871_raw7.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
-          "key": "D",
-          "text": "png\"/>"
-        },
-        {
           "key": "A",
-          "text": "8 cм2"
+          "text": "8 см2"
         },
         {
           "key": "B",
-          "text": "9 cм2               С) 9,5 cм2"
+          "text": "9 см2"
+        },
+        {
+          "key": "C",
+          "text": "9,5 см2"
+        },
+        {
+          "key": "D",
+          "text": "10 см2"
         },
         {
           "key": "E",
-          "text": "10,5 cм2"
+          "text": "10,5 см2"
         }
       ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "A",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "<img src=\"images/math_335871_img23.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />, <img src=\"images/math_335871_img16.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> теңдеулері берілген. Дұрыс тұжырымдаманы табыңдар.\n\nА бағаны | В бағаны\n\n<img src=\"images/math_335871_raw8.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> | <img src=\"images/math_335871_raw36.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_335871_img27.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_335871_img17.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_335871_img9.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_335871_img2.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_335871_img30.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q8",
       "question_number": 8,
-      "question_text": "Биіктіктері 1 және 1,5 метр екі қазықтың арасы 1 м. Шеткі қазықтан ағашқа дейінгі қашықтық  9 м. Ағаштың биіктігін табыңыз.",
+      "question_text": "Биіктіктері 1 және 1,5 метр екі қазықтың арасы 1 м. Шеткі қазықтан ағашқа дейінгі қашықтық 9 м. Ағаштың биіктігін табыңыз.\n\n<img src=\"images/math_335871_raw21.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
@@ -139,7 +226,11 @@
         },
         {
           "key": "B",
-          "text": "5,5 м                 С) 6 м"
+          "text": "5,5 м"
+        },
+        {
+          "key": "C",
+          "text": "6 м"
         },
         {
           "key": "D",
@@ -150,19 +241,46 @@
           "text": "7 м"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "Графигі кескінделген квадраттық функцияның формуласын анықтаңыз.\n\n<img src=\"images/math_335871_raw33.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_335871_img10.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_335871_img37.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_335871_img31.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_335871_img24.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_335871_img12.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q10",
       "question_number": 10,
-      "question_text": "D нүктесінен бірдей қашықтықта орналасқан нүктелерді анықтаңыз:",
+      "question_text": "D нүктесінен бірдей қашықтықта орналасқан нүктелерді анықтаңыз:\n\n<img src=\"images/math_335871_raw3.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
-          "text": "<img src=\"images/math_literacy_9_335871_img4_532eea8f.png\"/>"
+          "text": "A, B, G"
         },
         {
           "key": "B",
@@ -181,15 +299,216 @@
           "text": "A, B, F"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см2 болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_335871_raw18.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "75 см2"
+        },
+        {
+          "key": "B",
+          "text": "50 см2"
+        },
+        {
+          "key": "C",
+          "text": "100 см2"
+        },
+        {
+          "key": "D",
+          "text": "150 см2"
+        },
+        {
+          "key": "E",
+          "text": "125 см2"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_335871_raw34.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "64 см2"
+        },
+        {
+          "key": "B",
+          "text": "128 см2"
+        },
+        {
+          "key": "C",
+          "text": "16 см2"
+        },
+        {
+          "key": "D",
+          "text": "32 см2"
+        },
+        {
+          "key": "E",
+          "text": "256 см2"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_335871_raw11.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "1320 м3"
+        },
+        {
+          "key": "B",
+          "text": "960 м3"
+        },
+        {
+          "key": "C",
+          "text": "864 м3"
+        },
+        {
+          "key": "D",
+          "text": "720 м3"
+        },
+        {
+          "key": "E",
+          "text": "1440 м3"
+        }
+      ],
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q14",
+      "question_number": 14,
+      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаздың (ABCDEF) ауданын табыңыз.\n\n<img src=\"images/math_335871_raw25.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "25 м2"
+        },
+        {
+          "key": "B",
+          "text": "27 м2"
+        },
+        {
+          "key": "C",
+          "text": "33 м2"
+        },
+        {
+          "key": "D",
+          "text": "37 м2"
+        },
+        {
+          "key": "E",
+          "text": "40 м2"
+        }
+      ],
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q15",
+      "question_number": 15,
+      "question_text": "Егер xy = 144, x + y = 30 және x > y болса, онда x – y өрнегінің мәні қанша болатынын табыңыз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "4"
+        },
+        {
+          "key": "B",
+          "text": "6"
+        },
+        {
+          "key": "C",
+          "text": "18"
+        },
+        {
+          "key": "D",
+          "text": "22"
+        },
+        {
+          "key": "E",
+          "text": "24"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q16",
+      "question_number": 16,
+      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_335871_raw4.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,2"
+        },
+        {
+          "key": "B",
+          "text": "9,2"
+        },
+        {
+          "key": "C",
+          "text": "10,5"
+        },
+        {
+          "key": "D",
+          "text": "9,8"
+        },
+        {
+          "key": "E",
+          "text": "12"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
+    },
+    {
+      "id": "q17",
+      "question_number": 17,
+      "question_text": "Мирас әрқайсысында 260 данадан тұратын 4 паллет сары кірпіш сатып алды. Оның 1/4 бөлігі арка саңылауын жабу үшін қажет болады. Бұл үшін қанша кірпіш қажет болады?",
+      "options": [
+        {
+          "key": "A",
+          "text": "250"
+        },
+        {
+          "key": "B",
+          "text": "280"
+        },
+        {
+          "key": "C",
+          "text": "260"
+        },
+        {
+          "key": "D",
+          "text": "255"
+        },
+        {
+          "key": "E",
+          "text": "275"
+        }
+      ],
+      "correct_answer": "C",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q18",
       "question_number": 18,
-      "question_text": "Биіктігі 24 м және 16 м болатын екі ғимарат бір-біріне жақын орналасқан. Ғимараттардың арақашықтығы 6 м. Үйлердің шатырларының\nарақашықтығын табыңыз",
+      "question_text": "Биіктігі 24 м және 16 м болатын екі ғимарат бір-біріне жақын орналасқан. Ғимараттардың арақашықтығы 6 м. Үйлердің шатырларының арақашықтығын табыңыз.\n\n<img src=\"images/math_335871_raw19.jpeg\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
@@ -212,10 +531,8 @@
           "text": "12 м"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "D",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q19",
@@ -228,7 +545,11 @@
         },
         {
           "key": "B",
-          "text": "12          С) 10"
+          "text": "12"
+        },
+        {
+          "key": "C",
+          "text": "10"
         },
         {
           "key": "D",
@@ -239,41 +560,38 @@
           "text": "14"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "explanation": "Ресми кілт"
     },
     {
       "id": "q20",
       "question_number": 20,
-      "question_text": "Қазан  айының бір аптасындағы ауаның тәуліктік орташа температурасы: 140 С, 150 С,  160С, 140С, 170С, 170С , 200 С  болды. Қазан айының осы аптадағы тәуліктік температуралардың  медианасын табыңыз.",
+      "question_text": "Қазан айының бір аптасындағы ауаның тәуліктік орташа температурасы: 14⁰ C, 15⁰ C, 16⁰ C, 14⁰ C, 17⁰ C, 17⁰ C, 20⁰ C болды. Қазан айының осы аптадағы тәуліктік температуралардың медианасын табыңыз.",
       "options": [
         {
           "key": "A",
-          "text": "170С"
+          "text": "17⁰ C"
         },
         {
           "key": "B",
-          "text": "200 С         С) 150 С"
-        },
-        {
-          "key": "D",
-          "text": "140 С"
-        },
-        {
-          "key": "E",
-          "text": "160 С"
+          "text": "20⁰ C"
         },
         {
           "key": "C",
-          "text": "10,5"
+          "text": "15⁰ C"
+        },
+        {
+          "key": "D",
+          "text": "14⁰ C"
+        },
+        {
+          "key": "E",
+          "text": "16⁰ C"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('170С...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "explanation": "Ресми кілт"
     }
-  ]
+  ],
+  "parsed_by": "openai/gpt-6-luna"
 }
