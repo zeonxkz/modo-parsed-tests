@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "9 сынып МОДО тапсырмалары.docx",
-  "total_questions": 46,
-  "verified_questions": 46,
+  "total_questions": 45,
+  "verified_questions": 45,
   "answer_sources_distribution": {
     "ai_solved": 41,
     "document_highlight": 5
@@ -130,37 +130,6 @@
         {
           "key": "E",
           "text": "«Старшын Момыш»"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "**5.Мәтін мазмұнына сәйкес мақал-мәтел ***\n\nАтадан бала,Мойыннан жаға озбайды.\n\nАта - балаға сыншы.\n\nӘкесі құрдастың - баласы құрдас.\n\nЖеті атасын білген Жеті елдің қамын жер.\n\nТегінде бар тегі озар\n\n**Сұрақ 6:** Әжесінің үміт күткен баласы *",
-      "options": [
-        {
-          "key": "A",
-          "text": "Момыш"
-        },
-        {
-          "key": "B",
-          "text": "Ереш"
-        },
-        {
-          "key": "C",
-          "text": "Әкім"
-        },
-        {
-          "key": "D",
-          "text": "Имаш"
-        },
-        {
-          "key": "E",
-          "text": "Бауыржан"
         }
       ],
       "correct_answer": "A",

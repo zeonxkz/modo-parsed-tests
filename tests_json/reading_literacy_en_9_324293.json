@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "en",
   "source_file": "9 сынып МОДО, ағылшын тілінен 5текст+жауаптарымен.docx",
-  "total_questions": 48,
-  "verified_questions": 48,
+  "total_questions": 47,
+  "verified_questions": 47,
   "answer_sources_distribution": {
     "ai_solved": 46,
     "document_bold": 3
@@ -1071,37 +1071,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 4:** Fault line means...",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "C",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "document_bold",
-      "explanation": "Вариант E выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q42",
       "question_number": 42,
       "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 42:** The region was not_for such a major earthquake because they hadn't experienced one in over 200 year",
@@ -1201,23 +1170,23 @@
       "options": [
         {
           "key": "A",
-          "text": "5-3-2-1-4"
+          "text": "3-2-1-4"
         },
         {
           "key": "B",
-          "text": "5-3-2-4-1"
+          "text": "3-2-4-1"
         },
         {
           "key": "C",
-          "text": "5-2-4-3-1"
+          "text": "2-4-3-1"
         },
         {
           "key": "D",
-          "text": "5-4-2-3-1"
+          "text": "4-2-3-1"
         },
         {
           "key": "E",
-          "text": "5-2-3-4-1"
+          "text": "2-3-4-1"
         }
       ],
       "correct_answer": "A",

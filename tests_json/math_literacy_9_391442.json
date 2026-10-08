@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Модо тапсырмалар.docx",
-  "total_questions": 90,
-  "verified_questions": 90,
+  "total_questions": 89,
+  "verified_questions": 89,
   "answer_sources_distribution": {
     "ai_solved": 102,
     "document_bold": 4
@@ -42,37 +42,6 @@
       "correct_answer": "A",
       "answer_source": "document_bold",
       "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q5",
-      "question_number": 5,
-      "question_text": "Кіріспе",
-      "options": [
-        {
-          "key": "A",
-          "text": "Қазіргі заманда елдің бәсекеге қабілеттілігі оның азаматтарының"
-        },
-        {
-          "key": "B",
-          "text": "парасаттылығымен анықталады, сондықтан білім беру жүйесі болашақтың"
-        },
-        {
-          "key": "C",
-          "text": "талабына сәйкес дамуы тиіс. Білім алушылардың білім жетістіктерінің"
-        },
-        {
-          "key": "D",
-          "text": "мониторингін жүргізу жаңа өзгерістерді қажет етеді."
-        },
-        {
-          "key": "E",
-          "text": "Білім алушылардың білім жетістіктерінің мониторингі Қазақстан"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -1251,7 +1220,7 @@
       "options": [
         {
           "key": "A",
-          "text": "7.5а"
+          "text": "5а"
         },
         {
           "key": "B",
@@ -1259,7 +1228,7 @@
         },
         {
           "key": "C",
-          "text": "5.75а"
+          "text": "75а"
         },
         {
           "key": "D",
@@ -2439,11 +2408,11 @@
         },
         {
           "key": "D",
-          "text": "4."
+          "text": ""
         },
         {
           "key": "E",
-          "text": "5."
+          "text": ""
         }
       ],
       "correct_answer": "A",

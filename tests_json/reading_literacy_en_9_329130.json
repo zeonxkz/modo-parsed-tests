@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "en",
   "source_file": "ББЖМ, МОДО, 9-сынып Ағылшын тілі бойынша Дайындық материалдары, 10нұсқ.docx",
-  "total_questions": 55,
-  "verified_questions": 55,
+  "total_questions": 53,
+  "verified_questions": 53,
   "answer_sources_distribution": {
     "ai_solved": 56
   },
@@ -681,25 +681,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q26",
-      "question_number": 26,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHow floods form\n\nThere are few places on Earth where flooding is not a concern. Any area where rain falls is vulnerable to floods, though rain is not the only cause.\n\nA flood occurs when water inundates land that's normally dry, which can happen in a multitude of ways.\n\nExcessive rain, a ruptured dam or levee, rapid melting of snow or ice, or even an unfortunately placed beaver dam can overwhelm a river, spreading over the adjacent land, called a floodplain. Coastal flooding occurs when a large storm or tsunami causes the sea to surge inland.\n\nMost floods take hours or even days to develop, giving residents time to prepare or evacuate. Others generate quickly and with little warning. So-called flash floods can be extremely dangerous, instantly turning a babbling brook or even a dry wash into rushing rapids that sweep everything in their path downstream.\n\nClimate change is increasing the risk of floods worldwide, particularly in coastal and low-lying areas, because of its role in extreme weather events and rising seas. The increase in temperatures that accompanies global warming can contribute to hurricanes that move more slowly and drop more rain, funneling moisture into atmospheric rivers like the ones that led to heavy rains and flooding in California in early 2019.\n\nMeanwhile, melting glaciers and other factors are contributing to a rise in sea levels that has created long-term, chronic flooding risks for places ranging from Venice, Italy to the Marshall Islands. More than 670 U.S. communities will face repeated flooding by the end of this century, according to a 2017 analysis; it's happening in more than 90 coastal communities already.\n\n**Сұрақ 26:** What statement is true about floods?",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "There are no places on Earth where flooding is not a concern."
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('There are no places on Earth w...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q27",
       "question_number": 27,
       "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 27:** Which paragraph relates with a problem of long-term chronic flooding risks?",
@@ -1002,29 +983,6 @@
       "correct_answer": "B",
       "answer_source": "ai_solved",
       "explanation": "Вариант B ('Sports are supported in Kazakh...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q38",
-      "question_number": 38,
-      "question_text": "**Which sentence contradicts the text?**\n\nSport divides people into different classes.\n\nIn Kazakhstan, many people like to play sports.\n\nKazakh boxers are known all over the world.\n\nKazakh boxers were awarded with the Val Barker trophy.\n\n**Сұрақ 38:** What expression is true about the total number of medals of Kazakhstan in boxing for the last three Olympiads?",
-      "options": [
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "Cuba and Russia had more medals overall."
-        },
-        {
-          "key": "A",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант D ('Kazakhstani boxers have won si...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
     },
     {

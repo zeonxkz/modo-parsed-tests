@@ -6,7 +6,7 @@
   "language": "kk",
   "source_file": "модо тапсырмалары.pdf",
   "total_questions": 245,
-  "verified_questions": 246,
+  "verified_questions": 245,
   "answer_sources_distribution": {
     "ai_solved": 248
   },
@@ -1263,7 +1263,7 @@
         },
         {
           "key": "B",
-          "text": "6-7 жаста"
+          "text": "7 жаста"
         },
         {
           "key": "C",
@@ -1325,11 +1325,11 @@
         },
         {
           "key": "B",
-          "text": "И.Лунин"
+          "text": "Лунин"
         },
         {
           "key": "C",
-          "text": "Р.Дарвин"
+          "text": "Дарвин"
         },
         {
           "key": "D",
@@ -1337,7 +1337,7 @@
         },
         {
           "key": "E",
-          "text": "М.Мұқамедқақи"
+          "text": "Мұқамедқақи"
         }
       ],
       "correct_answer": "A",
@@ -5134,7 +5134,7 @@
         },
         {
           "key": "D",
-          "text": "4-5"
+          "text": "5"
         },
         {
           "key": "E",
@@ -5835,15 +5835,15 @@
       "options": [
         {
           "key": "A",
-          "text": "П.Павлов"
+          "text": "Павлов"
         },
         {
           "key": "B",
-          "text": "И.Мечников"
+          "text": "Мечников"
         },
         {
           "key": "C",
-          "text": "Р.Дарвин"
+          "text": "Дарвин"
         },
         {
           "key": "D",

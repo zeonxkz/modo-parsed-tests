@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
-  "total_questions": 9,
-  "verified_questions": 9,
+  "total_questions": 8,
+  "verified_questions": 8,
   "answer_sources_distribution": {
     "ai_solved": 9,
     "document_bold": 1
@@ -104,33 +104,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Берілген зарядтар үшін электр өрісінің күш сызықтарының бағытын анықтаңыз.",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "document_bold",
-      "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
       "verification_status": "verified"
     },
     {

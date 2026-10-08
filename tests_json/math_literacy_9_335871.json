@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Математикалық сауаттылық тапсырмалары ББЖМ жауаптарымен МОДО.docx",
-  "total_questions": 13,
-  "verified_questions": 18,
+  "total_questions": 9,
+  "verified_questions": 9,
   "answer_sources_distribution": {
     "ai_solved": 19
   },
@@ -75,64 +75,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "Өрнектің мәнін табыңыз:",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "C",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "9-А сыныбында   ер бала және қыз бала бар. Әрқайсысы мектепке бес оқулықты сөмкелеріне салып әкелді. Мына өрнектердің қайсысы осы оқушылардың алып келген оқулықтарының жалпы санын көрсетеді?",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q5",
       "question_number": 5,
       "question_text": "«ГРАФИК» сөзінің әріптерінен төрт әріптен тұратын неше «сөз» құрастыруға болатынын табыңыз (құралған сөздердің мағынасы маңызды емес)",
@@ -187,33 +129,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q7",
-      "question_number": 7,
-      "question_text": ",  теңдеулері берілген. Дұрыс тұжырымдаманы табыңдар.",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q8",
       "question_number": 8,
       "question_text": "Биіктіктері 1 және 1,5 метр екі қазықтың арасы 1 м. Шеткі қазықтан ағашқа дейінгі қашықтық  9 м. Ағаштың биіктігін табыңыз.",
@@ -233,37 +148,6 @@
         {
           "key": "E",
           "text": "7 м"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q9",
-      "question_number": 9,
-      "question_text": "Графигі кескінделген квадраттық функцияның формуласын анықтаңыз",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/math_literacy_9_335871_img3_47bb19d5.png\"/>"
-        },
-        {
-          "key": "B",
-          "text": ""
-        },
-        {
-          "key": "C",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
         }
       ],
       "correct_answer": "A",

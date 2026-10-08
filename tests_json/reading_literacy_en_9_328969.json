@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "en",
   "source_file": "Ағылшын пәнінен модо тапсырмалары.pdf",
-  "total_questions": 176,
-  "verified_questions": 177,
+  "total_questions": 152,
+  "verified_questions": 152,
   "answer_sources_distribution": {
     "ai_solved": 339,
     "document_plus_marker": 7
@@ -1923,25 +1923,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q9",
-      "question_number": 9,
-      "question_text": "**According to the text the fastest boats... the race?B)**\n\nend                                                               9\n\n1863\n\n8 The first F.A.Cup competition was organized? E)\n\nin1881\n\nIglesias\n\n**Сұрақ 9:** The single hero was included ---4th-(fourth)",
-      "options": [
-        {
-          "key": "A",
-          "text": "album"
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q4",
       "question_number": 4,
       "question_text": "**2. The text is about..**\n\nA about all cultures in the world\n\n**Сұрақ 4:** The point the writer is making is….",
@@ -2954,44 +2935,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**I. The text is about …**\n\n**Сұрақ 2:** Sir Christopher Wren.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "**II. Complete the sentence according to the text.**\n\nIn one of the towers of St. Paul’s Cathedral one can see …\n\n**Сұрақ 3:** the tombs of Nelson and Wellington.",
-      "options": [
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q1",
       "question_number": 1,
       "question_text": "**V.  Arrange the sentences according to the text.**\n\n**Сұрақ 1:** church 2) cathedral 3) monastery 4) residence",
@@ -3096,63 +3039,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**I. The text is about ...**\n\n**Сұрақ 4:** dramas.",
-      "options": [
-        {
-          "key": "A",
-          "text": "III. Find the wrong statement."
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**I. The text is about ...**\n\n**Сұрақ 2:** The King and the Queen of England liked his plays.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "C",
-          "text": "IV. Answer the question."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**I. The text is about ...**\n\n**Сұрақ 4:** He wrote a lot of brilliant plays.",
-      "options": [
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q1",
       "question_number": 1,
       "question_text": "**I. The text is about ...**\n\n**Сұрақ 1:** envy 2) respect 3) read 4) remember",
@@ -3181,48 +3067,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**II. Complete the sentence according to the text.**\n\nThe flower-girl wanted to...\n\n**Сұрақ 4:** He was a poor man.",
-      "options": [
-        {
-          "key": "A",
-          "text": "How can you explain why the girl started visiting the professor's house?"
-        },
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('V. How can you explain why the...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**II. Complete the sentence according to the text.**\n\nThe flower-girl wanted to...\n\n**Сұрақ 4:** She wanted to spend time with a nice mail.",
-      "options": [
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "She never missed a chance of practicing the sounds."
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -3280,25 +3124,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**I. Choose the title to the text.**\n\n**Сұрақ 4:** Boat Races",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q1",
       "question_number": 1,
       "question_text": "**IV. Complete the sentence according to the text.**\n\nOn a day of Boat Race the banks of the Thames are full of people because...\n\n**Сұрақ 1:** crew 2) oarsmen 3) cox 4) blazer",
@@ -3332,52 +3157,6 @@
     {
       "id": "q3",
       "question_number": 3,
-      "question_text": "**I. The text is about ...**\n\n**Сұрақ 3:** Dr. Watson was Conan Doyle's book character.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "III. Find the wrong statement."
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**I. The text is about ...**\n\n**Сұрақ 4:** The courage of Miss Evans.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
       "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 3:** In the Ocean",
       "options": [
         {
@@ -3399,44 +3178,6 @@
         {
           "key": "E",
           "text": "Lane is going to"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q390",
-      "question_number": 390,
-      "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 390:** I. Why does Jane come home late?",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 4:** a foreigner",
-      "options": [
-        {
-          "key": "A",
-          "text": "IV. What’s wrong with Mr. Dobson in the mother’s opinion?"
-        },
-        {
-          "key": "E",
-          "text": ""
         }
       ],
       "correct_answer": "A",
@@ -3476,25 +3217,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 2:** Columbus was a cloth maker.",
-      "options": [
-        {
-          "key": "A",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q6",
       "question_number": 6,
       "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 6:** How did the Pilgrims reach America?",
@@ -3522,25 +3244,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 1:** Why slurs Jane come home late?",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q4",
       "question_number": 4,
       "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 4:** “He is not going to have so much money for long.”",
@@ -3562,52 +3265,6 @@
     {
       "id": "q4",
       "question_number": 4,
-      "question_text": "**VI. Choose the title to the text.**\n\n**Сұрақ 4:** to repair",
-      "options": [
-        {
-          "key": "A",
-          "text": "TEST   XIII"
-        },
-        {
-          "key": "E",
-          "text": "In order"
-        },
-        {
-          "key": "C",
-          "text": "to help blind people use a computer Dr. Tom Vincent has made a system that reads aloud what has"
-        },
-        {
-          "key": "D",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**II. Complete the statements  according to the text.**\n\n**Сұрақ 2:** they can't see and correct mistakes on the screen.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": "User Guid"
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
       "question_text": "**II. Complete the statements  according to the text.**\n\n**Сұрақ 4:** If a word is not in the memory the computer spells it.",
       "options": [
         {
@@ -3622,94 +3279,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**II. Complete the statements  according to the text.**\n\n**Сұрақ 4:** couldn't",
-      "options": [
-        {
-          "key": "A",
-          "text": "TEST    XIV"
-        },
-        {
-          "key": "B",
-          "text": "The phonograph was invented quite by accident. In 1876 Thomas Edison moved to Menlo Park,"
-        },
-        {
-          "key": "C",
-          "text": "New Jersey, where he established an industrial research laboratory. There Edison worked on a carbon"
-        },
-        {
-          "key": "D",
-          "text": "telephone transmitter to improve the existing Bell system."
-        },
-        {
-          "key": "E",
-          "text": "In that laboratory a year later Edison invented the phonograph while trying to improve a telegraph"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**II. Complete the statements  according to the text.**\n\n**Сұрақ 2:** used a carbon transmitter.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "A",
-          "text": "year later Edison invented the phonograph while trying to improve a telegraph repeater."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**II. Complete the statements  according to the text.**\n\n**Сұрақ 4:** He recited “Many Had a Little Lamb”.",
-      "options": [
-        {
-          "key": "D",
-          "text": ""
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "**I. Complete the statements according to the text.**\n\n**Сұрақ 1:** his new film was a success.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": ".."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -3756,25 +3325,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**I. Complete the statements according to the text.**\n\n**Сұрақ 4:** the same day when lie saw him.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "After our first talk I knew little about Mr. Cavor. But I understood that he was ... serious man."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -3887,25 +3437,6 @@
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "**I. Complete the statements according to the text.**\n\n**Сұрақ 1:** four 2) five 3) six 4) tell",
-      "options": [
-        {
-          "key": "A",
-          "text": "II. Find the wrong statement."
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
       "question_text": "**I. Complete the statements according to the text.**\n\n**Сұрақ 1:** many 2) little 3) much 4) few",
       "options": [
         {
@@ -3960,7 +3491,7 @@
       "options": [
         {
           "key": "D",
-          "text": "3) he hadn't been marrie"
+          "text": "he hadn't been marrie"
         },
         {
           "key": "E",
@@ -3970,25 +3501,6 @@
       "correct_answer": "D",
       "answer_source": "ai_solved",
       "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "**I. Complete the statements according to the text.**\n\n**Сұрақ 3:** it has contacts with the leading research centres in other countries.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "II. Find the right statement."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {

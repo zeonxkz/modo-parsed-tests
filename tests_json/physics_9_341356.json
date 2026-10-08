@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
-  "total_questions": 34,
-  "verified_questions": 34,
+  "total_questions": 23,
+  "verified_questions": 23,
   "answer_sources_distribution": {
     "ai_solved": 29,
     "document_highlight": 5,
@@ -72,32 +72,13 @@
       "verification_status": "verified"
     },
     {
-      "id": "q5",
-      "question_number": 5,
-      "question_text": "зС. Тығын",
-      "options": [
-        {
-          "key": "D",
-          "text": "Алюминий"
-        },
-        {
-          "key": "E",
-          "text": "ағаш"
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q3",
       "question_number": 3,
       "question_text": "Ас қорыту кезінде адам ағзасы алатын энергияның 28%-і бұлшық ет энергиясына айналады. 12-15 жасар баланың тәулік ішіндегі тағамынан алатын энергиясы 12.3 МДж болуы тиіс. Массасы 50 кг баланың тәулік бойы алған энергиясын пайдаланып, көтеріле алатын биіктігі",
       "options": [
         {
           "key": "A",
-          "text": "2.5 км"
+          "text": "5 км"
         },
         {
           "key": "B",
@@ -110,36 +91,17 @@
       "verification_status": "verified"
     },
     {
-      "id": "q7",
-      "question_number": 7,
-      "question_text": "С.  6.8 км",
-      "options": [
-        {
-          "key": "D",
-          "text": "5 км"
-        },
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q4",
       "question_number": 4,
       "question_text": "Ас қорыту кезінде адам ағзасы алатын энергияның 28%-і бұлшық ет энергиясына айналады. 12-15 жасар баланың тәулік ішіндегі тағамынан алатын энергиясы 12.3 МДж болуы тиіс. Егер бала дұрыс тамақтанатын болса, онда оның қозғалысқа жұмсаған энергиясы",
       "options": [
         {
           "key": "A",
-          "text": "4.2 МДж"
+          "text": "2 МДж"
         },
         {
           "key": "B",
-          "text": "6.2 МДж"
+          "text": "2 МДж"
         }
       ],
       "correct_answer": "A",
@@ -154,7 +116,7 @@
       "options": [
         {
           "key": "D",
-          "text": "2.8 МДж"
+          "text": "8 МДж"
         },
         {
           "key": "E",
@@ -239,11 +201,11 @@
         },
         {
           "key": "B",
-          "text": "2.2 кг"
+          "text": "2 кг"
         },
         {
           "key": "D",
-          "text": "2.6 кг"
+          "text": "6 кг"
         },
         {
           "key": "E",
@@ -399,33 +361,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q19",
-      "question_number": 19,
-      "question_text": "ЕЕЕЕЕЕЕЕЕ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Егер суреттегі иін тірек тепе теңдікте болса және m=20 кг болса күш мәні ( g= 10 Н\\кг)"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341356_img4_c862ad01.png\"/>"
-        },
-        {
-          "key": "D",
-          "text": "500 Н"
-        },
-        {
-          "key": "E",
-          "text": "600 Н"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q20",
       "question_number": 20,
       "question_text": "ЖЖЖЖЖЖ\nЖол инженерлері Нұр-Сұлтан мен Бурабайтас жолын км\\сағ жылдамдықпен жүрген көліктің дөңгелегіне әсер ететін центрге тартқыш үдеуден м\\с тан аспайтындай етіп  жасаған екен. Тас жолдың ең үлкен бұрылыс радиусының мәні (центрге тартқыш үдеуінің формуласы а=v2\\ R )",
@@ -472,91 +407,6 @@
         {
           "key": "E",
           "text": ""
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q22",
-      "question_number": 22,
-      "question_text": "КККККККК",
-      "options": [
-        {
-          "key": "A",
-          "text": "Көлемі 500 см3    ауадағы салмағы   4.5 Н денені керосинге салғанда   (ƿ = 800 кг\\м3 ,  g=10 м\\с2)"
-        },
-        {
-          "key": "B",
-          "text": "батпайды, себебі  FA<  FаС. батпайды, себебі  FA =  Fa"
-        },
-        {
-          "key": "D",
-          "text": "батады, себебі  FA<  Fa"
-        },
-        {
-          "key": "E",
-          "text": "батады, себебі  FA>  Fa"
-        },
-        {
-          "key": "C",
-          "text": "png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q23",
-      "question_number": 23,
-      "question_text": "ҚҚҚҚҚҚҚҚҚ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Қорғасын мен қалайыны үй жағдайында балқытуға болады, ал темірді олай балқыта  алмаймыз, себебі"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341356_img8_2e618e16.png\"/>"
-        },
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "D",
-          "text": "қалайының балқу темтературасы жоғары"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q24",
-      "question_number": 24,
-      "question_text": "МММММММ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Массасы 2 кг білеушеге бір мезгілде 20Н тарту күші және  10Н кедергі күшіәсер етеді. Қозғалыстың түрі мен үдеудің мәні"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341356_img10_329fb477.png\"/>"
-        },
-        {
-          "key": "D",
-          "text": "теңүдемелі  10 м\\с2  үдеумен"
-        },
-        {
-          "key": "E",
-          "text": "теңкемімелі 5 м\\с2  үдеумен"
         }
       ],
       "correct_answer": "A",
@@ -638,37 +488,6 @@
         {
           "key": "E",
           "text": "100 000 Па"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q28",
-      "question_number": 28,
-      "question_text": "СССССССС",
-      "options": [
-        {
-          "key": "A",
-          "text": "Самат сахнада екі шамды бір мезгілде жағу үшін қосуы тиіс кілттер"
-        },
-        {
-          "key": "B",
-          "text": "1 және 3С. тек 1"
-        },
-        {
-          "key": "D",
-          "text": "1, 2 және 3"
-        },
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "C",
-          "text": "png\"/>"
         }
       ],
       "correct_answer": "A",
@@ -762,83 +581,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q32",
-      "question_number": 32,
-      "question_text": "ҮҮҮҮҮҮҮҮҮ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Үдеудің анықтамасын сәйкес бағыты"
-        },
-        {
-          "key": "B",
-          "text": "тек а ┴ ҒС.  тек а ┴  υ"
-        },
-        {
-          "key": "D",
-          "text": "тек а ↑↑ υ"
-        },
-        {
-          "key": "E",
-          "text": "тек а ↑↓ υ"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q33",
-      "question_number": 33,
-      "question_text": "ШШШШШШШ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Шыны пластинкадан ынып ауаға өткен жарық сәулесі дұрыс көрсетілген сурет"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341356_img35_2d4dd5a0.png\"/>"
-        },
-        {
-          "key": "D",
-          "text": "Е"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q34",
-      "question_number": 34,
-      "question_text": "ФФФФФФФФ",
-      "options": [
-        {
-          "key": "A",
-          "text": "Фокус арқылы F1  жинағыш линзаның бас оптикалық омсіне параллель"
-        },
-        {
-          "key": "B",
-          "text": "екі фокус арқылы түзу бойымен"
-        },
-        {
-          "key": "D",
-          "text": "фокус арқылы түзу бойымен"
-        },
-        {
-          "key": "E",
-          "text": "бас оптикалық оське параллель"
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант D выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q35",
       "question_number": 35,
       "question_text": "ЭЭЭЭЭЭЭЭЭЭ\nЭлектромагниттік толқындар шкаласында бірінші тұрған толқындар радиотолқындар. Олардың энергия тасымалдау қасиетін радиобайланысты кеңінен қолдану себебі",
@@ -858,33 +600,6 @@
         {
           "key": "E",
           "text": "ақпарат тасымалдауға"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q36",
-      "question_number": 36,
-      "question_text": "САНДАР",
-      "options": [
-        {
-          "key": "A",
-          "text": "60 Вт, 240 В белгісі бар төрт шам номинал режимде жұмыс жасау үшін тиімді болатын сұлба"
-        },
-        {
-          "key": "B",
-          "text": "BС. A"
-        },
-        {
-          "key": "D",
-          "text": "B,C"
-        },
-        {
-          "key": "E",
-          "text": "C"
         }
       ],
       "correct_answer": "A",
