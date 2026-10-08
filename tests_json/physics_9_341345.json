@@ -5,28 +5,13 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
-  "total_questions": 10,
+  "total_questions": 8,
   "verified_questions": 8,
   "answer_sources_distribution": {
     "ai_solved": 10
   },
   "total_embedded_images": 0,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Физикалық шама"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q1",
       "question_number": 1,
@@ -152,21 +137,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Адамның тыныс алуы"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q5",
       "question_number": 5,
       "question_text": "Ересек адамның тыныс алу периоды",
@@ -181,7 +151,7 @@
         },
         {
           "key": "C",
-          "text": "С) 6 с"
+          "text": "6 с"
         },
         {
           "key": "D",
@@ -212,7 +182,7 @@
         },
         {
           "key": "C",
-          "text": "С) 0,33 Гц"
+          "text": "0,33 Гц"
         },
         {
           "key": "D",
@@ -243,7 +213,7 @@
         },
         {
           "key": "C",
-          "text": "С) 1,3 с"
+          "text": "1,3 с"
         },
         {
           "key": "D",
@@ -274,7 +244,7 @@
         },
         {
           "key": "C",
-          "text": "С) 430"
+          "text": "430"
         },
         {
           "key": "D",

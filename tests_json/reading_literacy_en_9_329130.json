@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "en",
   "source_file": "ББЖМ, МОДО, 9-сынып Ағылшын тілі бойынша Дайындық материалдары, 10нұсқ.docx",
-  "total_questions": 56,
+  "total_questions": 55,
   "verified_questions": 55,
   "answer_sources_distribution": {
     "ai_solved": 56
@@ -594,21 +594,6 @@
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q22",
-      "question_number": 22,
-      "question_text": "**Which sentence contradicts the text?**\n\nAmerican popular music up to the present days\n\nPeople can hear the sound of the blues in unexpected places\n\nThe song broke through the limited sales of the blues market\n\nKing got his great success recording \"Three A.M. Blues\"\n\n**Сұрақ 22:** What expression is true about America's music culture?",
-      "options": [
-        {
-          "key": "B",
-          "text": "played for everybody"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('had a great success in 1979...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q23",

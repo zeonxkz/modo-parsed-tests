@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "en",
   "source_file": "9 сынып МОДО, ағылшын тілінен 5текст+жауаптарымен.docx",
-  "total_questions": 49,
+  "total_questions": 48,
   "verified_questions": 48,
   "answer_sources_distribution": {
     "ai_solved": 46,
@@ -930,21 +930,6 @@
       "answer_source": "ai_solved",
       "explanation": "Вариант A ('TikTok users must watch short ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 2:** E - It chooses the content based on users' interests.",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q7",

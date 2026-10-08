@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 3 нұсқа.docx",
-  "total_questions": 17,
+  "total_questions": 10,
   "verified_questions": 16,
   "answer_sources_distribution": {
     "document_highlight": 7,
@@ -109,21 +109,6 @@
     {
       "id": "q5",
       "question_number": 5,
-      "question_text": "Шам\nШам мен экранның арақашықтығы 6м. Шам мен экран арасындағы линза экранда төңкерілген кескін беретіндей етіп орналасқан. Алынған кескін шамнан 4 есе үлкен.",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/physics_9_341348_img3_c3a4d8e3.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q5",
-      "question_number": 5,
       "question_text": "Линза түрі:",
       "options": [
         {
@@ -136,7 +121,7 @@
         },
         {
           "key": "C",
-          "text": "С) дөңес-ойыс"
+          "text": "дөңес-ойыс"
         },
         {
           "key": "D",
@@ -167,7 +152,7 @@
         },
         {
           "key": "C",
-          "text": "С) 3"
+          "text": "3"
         },
         {
           "key": "D",
@@ -198,7 +183,7 @@
         },
         {
           "key": "C",
-          "text": "С) 2,4"
+          "text": "2,4"
         },
         {
           "key": "D",
@@ -229,7 +214,7 @@
         },
         {
           "key": "C",
-          "text": "С) 3,6"
+          "text": "3,6"
         },
         {
           "key": "D",
@@ -257,99 +242,6 @@
         {
           "key": "C",
           "text": "png\"/> <img src=\"images/physics_9_341348_img5_4605f6bf.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q12",
-      "question_number": 12,
-      "question_text": "Құралдың өлшеу дәлдігі мен бөлік құны өзара қалай байланысқан?",
-      "options": [
-        {
-          "key": "A",
-          "text": "бөлік құны неғұрлым аз болған сайын өлшеу дәлдігі соғұрлым жоғары"
-        },
-        {
-          "key": "B",
-          "text": "бөлік құны неғұрлым үлкен болған сайын өлшеу дәлдігі соғұрлым жоғары"
-        },
-        {
-          "key": "C",
-          "text": "бөлік құны неғұрлым аз болған сайын өлшеу дәлдігі соғұрлым төмен"
-        },
-        {
-          "key": "D",
-          "text": "бөлік құны неғұрлым үлкен болған сайын өлшеу дәлдігі соғұрлым төмен"
-        },
-        {
-          "key": "E",
-          "text": "бөлік құны неғұрлым үлкен болған сайын өлшеу дәлдігі соғұрлым аз"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('бөлік құны неғұрлым аз болған ...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q13",
-      "question_number": 13,
-      "question_text": "Суреттегі сызғыштың бөлік құны қанша?",
-      "options": [
-        {
-          "key": "A",
-          "text": "1 см"
-        },
-        {
-          "key": "B",
-          "text": "1 мм"
-        },
-        {
-          "key": "C",
-          "text": "0,5 мм"
-        },
-        {
-          "key": "D",
-          "text": "0,5 см"
-        },
-        {
-          "key": "E",
-          "text": "0,1 мм"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q14",
-      "question_number": 14,
-      "question_text": "Суретті талдап, дұрыс жауапты таңда. Сызғышпен қарындаш ұзындығы өлшенді (суретке қара). Нәтиже қалай жазылуы керек?",
-      "options": [
-        {
-          "key": "A",
-          "text": "(10,5±0,1) см"
-        },
-        {
-          "key": "B",
-          "text": "(10,50±0,05) см"
-        },
-        {
-          "key": "C",
-          "text": "(10,5±0,5) см"
-        },
-        {
-          "key": "D",
-          "text": "10,5 см"
-        },
-        {
-          "key": "E",
-          "text": "10,50 см"
         }
       ],
       "correct_answer": "A",
@@ -391,7 +283,7 @@
         },
         {
           "key": "C",
-          "text": "С) дөңес-ойыс"
+          "text": "дөңес-ойыс"
         },
         {
           "key": "D",
@@ -400,99 +292,6 @@
         {
           "key": "E",
           "text": "қос дөңес"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "Линзаның сызықтық ұлғаюы",
-      "options": [
-        {
-          "key": "A",
-          "text": "2"
-        },
-        {
-          "key": "B",
-          "text": "4"
-        },
-        {
-          "key": "C",
-          "text": "С) 3"
-        },
-        {
-          "key": "D",
-          "text": "5"
-        },
-        {
-          "key": "E",
-          "text": "6"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "Шамнан линзаның оптикалық центріне дейінгі қашықтық:",
-      "options": [
-        {
-          "key": "A",
-          "text": "4,8"
-        },
-        {
-          "key": "B",
-          "text": "3,6"
-        },
-        {
-          "key": "C",
-          "text": "С) 2,4"
-        },
-        {
-          "key": "D",
-          "text": "2,8"
-        },
-        {
-          "key": "E",
-          "text": "1,2"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "Линзаның оптикалық центрінен кескінге дейінгі қашықтық:",
-      "options": [
-        {
-          "key": "A",
-          "text": "1,2"
-        },
-        {
-          "key": "B",
-          "text": "3,84"
-        },
-        {
-          "key": "C",
-          "text": "С) 3,6"
-        },
-        {
-          "key": "D",
-          "text": "4,8"
-        },
-        {
-          "key": "E",
-          "text": "2,8"
         }
       ],
       "correct_answer": "A",

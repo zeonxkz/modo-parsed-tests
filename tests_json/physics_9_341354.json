@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа.docx",
-  "total_questions": 10,
+  "total_questions": 9,
   "verified_questions": 9,
   "answer_sources_distribution": {
     "ai_solved": 10
@@ -46,7 +46,7 @@
         },
         {
           "key": "C",
-          "text": "С)0,1м"
+          "text": "0,1м"
         },
         {
           "key": "D",
@@ -77,7 +77,7 @@
         },
         {
           "key": "C",
-          "text": "С)4 кг"
+          "text": "4 кг"
         },
         {
           "key": "D",
@@ -108,7 +108,7 @@
         },
         {
           "key": "C",
-          "text": "С)12 Дж"
+          "text": "12 Дж"
         },
         {
           "key": "D",
@@ -139,7 +139,7 @@
         },
         {
           "key": "C",
-          "text": "С)50"
+          "text": "50"
         },
         {
           "key": "D",
@@ -156,21 +156,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 ТАПСЫРМА",
-      "options": [
-        {
-          "key": "A",
-          "text": "Электромагниттер"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q5",
       "question_number": 5,
       "question_text": "Саят магнитті катушка жасады. Оны тексерген соң мынадай шешімге келді:",
@@ -185,7 +170,7 @@
         },
         {
           "key": "D",
-          "text": "С)      Электр тогының бағытын катушка арқылы өзгерткенде магнит"
+          "text": "Электр тогының бағытын катушка арқылы өзгерткенде магнит"
         },
         {
           "key": "E",

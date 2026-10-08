@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "kk",
   "source_file": "модо тапсырмалары.docx",
-  "total_questions": 98,
+  "total_questions": 86,
   "verified_questions": 86,
   "answer_sources_distribution": {
     "document_key": 15,
@@ -204,7 +204,7 @@
         },
         {
           "key": "C",
-          "text": "С) 8:20"
+          "text": "8:20"
         },
         {
           "key": "D",
@@ -293,7 +293,7 @@
         },
         {
           "key": "C",
-          "text": "С) 1"
+          "text": "1"
         },
         {
           "key": "D",
@@ -635,36 +635,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q23",
-      "question_number": 23,
-      "question_text": "**The main idea of the text is:**\n\nFocus on being productive instead of busy\n\nLife is too short to limit yourself\n\nFailure is success in progress+\n\nWhere there is love there is life\n\nМатематическая грамотность\n\nИнструкция: Вам предлагаются тестовые задания с выбором одного правильного ответа.\n\nЧтобы добраться от Алматы до Тургеньского ущелья, туристы проехали 30 км по трассе со скоростью 90 км/ч, 35 км по шоссе со скоростью 70 км/ч и 15 мин по бездорожью. После 20 –минутного отдыха добрались до ущелья\n\n**Сұрақ 23:** Вопрос 1. Что относится к альтернативным отраслям энергетики? Вопрос 2. Назовите эти территории?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Вопрос 3. Почему важно развивать эти отрасли?"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q24",
-      "question_number": 24,
-      "question_text": "**The main idea of the text is:**\n\nFocus on being productive instead of busy\n\nLife is too short to limit yourself\n\nFailure is success in progress+\n\nWhere there is love there is life\n\nМатематическая грамотность\n\nИнструкция: Вам предлагаются тестовые задания с выбором одного правильного ответа.\n\nЧтобы добраться от Алматы до Тургеньского ущелья, туристы проехали 30 км по трассе со скоростью 90 км/ч, 35 км по шоссе со скоростью 70 км/ч и 15 мин по бездорожью. После 20 –минутного отдыха добрались до ущелья\n\n**Сұрақ 24:** Вопрос 4. Какие требования предъявляются к обслуживающему персоналу для развития и обслуживания этих отраслей?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Озера"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q25",
       "question_number": 25,
       "question_text": "**The main idea of the text is:**\n\nFocus on being productive instead of busy\n\nLife is too short to limit yourself\n\nFailure is success in progress+\n\nWhere there is love there is life\n\nМатематическая грамотность\n\nИнструкция: Вам предлагаются тестовые задания с выбором одного правильного ответа.\n\nЧтобы добраться от Алматы до Тургеньского ущелья, туристы проехали 30 км по трассе со скоростью 90 км/ч, 35 км по шоссе со скоростью 70 км/ч и 15 мин по бездорожью. После 20 –минутного отдыха добрались до ущелья\n\n**Сұрақ 25:** Вопрос 1.Какова площадь озера Байкал и озера Балхаш?",
@@ -760,7 +730,7 @@
         },
         {
           "key": "C",
-          "text": "С) 8"
+          "text": "8"
         },
         {
           "key": "D",
@@ -791,7 +761,7 @@
         },
         {
           "key": "D",
-          "text": "С) 10"
+          "text": "10"
         },
         {
           "key": "E",
@@ -818,7 +788,7 @@
         },
         {
           "key": "D",
-          "text": "С) С"
+          "text": "С"
         },
         {
           "key": "E",
@@ -880,7 +850,7 @@
         },
         {
           "key": "D",
-          "text": "С) График"
+          "text": "График"
         },
         {
           "key": "E",
@@ -907,7 +877,7 @@
         },
         {
           "key": "C",
-          "text": "С) 98"
+          "text": "98"
         },
         {
           "key": "D",
@@ -1040,21 +1010,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q39",
-      "question_number": 39,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 39:** Инструкция: Вам необходимо выполнить тестовые задания на основе контекстов",
-      "options": [
-        {
-          "key": "A",
-          "text": "Человеческая мысль: химия мысли!"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q40",
       "question_number": 40,
       "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 40:** Вопросы",
@@ -1140,21 +1095,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q43",
-      "question_number": 43,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 43:** Биология",
-      "options": [
-        {
-          "key": "A",
-          "text": "Инструкция: Вам необходимо выполнить тестовые задания на основе контекстов"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q44",
       "question_number": 44,
       "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 44:** Клетка\n<img src=\"images/math_literacy_9_321397_img22_7226aa65.png\"/> Клетка - элементарная единица строения и жизнедеятельности всех живых организмов, обладающая собственным обменом веществ, способная к самостоятельному существованию, самовоспроизведению и развитию.",
@@ -1223,23 +1163,23 @@
       "options": [
         {
           "key": "A",
-          "text": "А-5, В-4, С-3, D-1, Е-2"
+          "text": "5, В-4, С-3, D-1, Е-2"
         },
         {
           "key": "B",
-          "text": "А-3, В-3, С-2, D-4, Е-5"
+          "text": "3, В-3, С-2, D-4, Е-5"
         },
         {
           "key": "C",
-          "text": "А-1, В-2, С-4, D-5, Е-1"
+          "text": "1, В-2, С-4, D-5, Е-1"
         },
         {
           "key": "D",
-          "text": "А-2, В-5, С-1, D-З, Е-4"
+          "text": "2, В-5, С-1, D-З, Е-4"
         },
         {
           "key": "E",
-          "text": "А-4, В-3, С-5, D-2, Е-1"
+          "text": "4, В-3, С-5, D-2, Е-1"
         }
       ],
       "correct_answer": "A",
@@ -1324,7 +1264,7 @@
         },
         {
           "key": "D",
-          "text": "С.\tГравий и песок оседают на дно."
+          "text": "Гравий и песок оседают на дно."
         }
       ],
       "correct_answer": "A",
@@ -1347,7 +1287,7 @@
         },
         {
           "key": "C",
-          "text": "С.\tНа следующих поколениях скажутся все последствия антропогенного загрязнения воды Да/Нет."
+          "text": "На следующих поколениях скажутся все последствия антропогенного загрязнения воды Да/Нет."
         }
       ],
       "correct_answer": "C",
@@ -1379,21 +1319,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q52",
-      "question_number": 52,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 52:** Какой это материк? Какие три океана можно пересечь? Почему север и юг мгновенно меняются местами? Почему в этих местах сложно отличить море от суши?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Вопрос 2."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q53",
       "question_number": 53,
       "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nAt the customs house\n\nA Frenchwoman decided to go to Great Britain for a holiday. She booked a seat for a plane as she wanted to get there as soon as possible. At the booking – office she found out that it would take her only two hours to get to London. She was very happy. She hurried home and began packing her things as she was afraid to leave something important behind. After she had packed everything, she found, that she had two big suit-cases. She ordered a taxi in advance to come to the airport on time.\n\nOn the day of her flight, she checked her things again, when she suddenly remembered about her nice little dog. She could not leave the dog at home as there was no one who would look after it. So, she decided to take the dog to GB.\n\nThe flight was very pleasant. The Frenchwoman thought that nobody noticed her dog. But just before the plane landed one of the passengers who was sitting near the woman told her that the English did not let foreigners bring dogs to their country. The woman did not know what to do. When the plane landed, she put the dog under her coat and went to the Customs House. The dog was so little that she hoped the Customs officer wouldn’t notice it. At the Custom’s House she filled in all the necessary forms and came up to the Customs officer, who looked at her big suit-cases and asked if she had anything to declare.\n\n“Oh, no,” she answered, “all the things are for my own use.”\n\n“But do you know that you can’t bring dogs to this country?” asked the officer. “But I have no dog,” answered the lady.\n\n‘Then I understand the tail which is hanging down below your coat is your own,” said the Customs Officer. (300 words)\n\nThe Booking –office is…\n\nthe place where you can buy books\n\nthe office where you can read magazines and books\n\na library\n\nthe place where you can buy tickets+\n\na reading hall\n\nTo leave something behind means…\n\nto come back\n\nto return\n\nto forget +\n\nto go away\n\nto throw away\n\nThe woman decided to go to GB by plane because…\n\nshe enjoyed travelling by plane\n\nshe wanted to get there as soon as possible+\n\nshe hated travelling by train\n\nshe didn’t book tickets on train\n\nshe missed her train\n\nFalse statement:\n\nThe little dog was taken by her because she was attached to it+\n\nThe woman realized that she had taken two big suit-cases\n\nThe Frenchwoman thought that nobody noticed her little dog\n\nHaving filled in all the necessary papers she came up to the Customs Officer\n\nThe dog was so little that she hoped the Customs officer wouldn’t notice it\n\nTrue statement:\n\nThe destination chosen by the Frenchwoman was London\n\nThe passenger who was sitting near her told her pleasant news\n\nShe decided to take the cat to Great Britain\n\nShe didn’t know how much time it would take to get to GB\n\nHer luggage was heavy and she decided to order a taxi in advance+\n\n**Сұрақ 53:** Кроме деления суши на материки, в ходе культурно-исторического развития сложилось еще выделение частей света: Европа, Азия, Америка, Африка, Антарктида, Гренландия, Австралия. Какое из перечисленных частей света лишнее?",
@@ -1412,11 +1337,11 @@
         },
         {
           "key": "D",
-          "text": "б)Гренландское море - Норвежское море - Великобритания - Средиземное море - Африка - Атлантический океан;"
+          "text": "Гренландское море - Норвежское море - Великобритания - Средиземное море - Африка - Атлантический океан;"
         },
         {
           "key": "E",
-          "text": "в)Атлантический океан - Африка - О-в Мадагаскар - Индийский океан – Австралия - Тихий океан - Южная Америка;"
+          "text": "Атлантический океан - Африка - О-в Мадагаскар - Индийский океан – Австралия - Тихий океан - Южная Америка;"
         }
       ],
       "correct_answer": "A",
@@ -1470,7 +1395,7 @@
         },
         {
           "key": "C",
-          "text": "С) 3524 способами"
+          "text": "3524 способами"
         },
         {
           "key": "D",
@@ -1501,7 +1426,7 @@
         },
         {
           "key": "C",
-          "text": "С)  3,57м"
+          "text": " 3,57м"
         },
         {
           "key": "D",
@@ -1532,7 +1457,7 @@
         },
         {
           "key": "D",
-          "text": "С) 4210"
+          "text": "4210"
         },
         {
           "key": "E",
@@ -1559,7 +1484,7 @@
         },
         {
           "key": "C",
-          "text": "С) 180 кг"
+          "text": "180 кг"
         },
         {
           "key": "D",
@@ -1621,7 +1546,7 @@
         },
         {
           "key": "C",
-          "text": "С) 4"
+          "text": "4"
         },
         {
           "key": "D",
@@ -1683,7 +1608,7 @@
         },
         {
           "key": "C",
-          "text": "С) 15"
+          "text": "15"
         },
         {
           "key": "D",
@@ -1791,21 +1716,6 @@
       "answer_source": "document_bold",
       "explanation": "Вариант D выделен полужирным шрифтом в исходном документе.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q67",
-      "question_number": 67,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nTravelling\n\nI’ve spent the last year wandering around the globe and exploring this wondrous thing called life. I’ve learned that the timing will never be perfect because rarely are we blessed with the perfect time to do something. When I was planning on leaving to travel for a year, it was never the “right time” when everything was going to be put on hold for my travels. I needed more money, or I would lose my job. I realized that I was never going to be “ready” to drastically change my life, as I was always going to have some new commitment or excuse. So I left at the “wrong time” in life and it turned out to be the best thing that happened to me. But once I got sick of missing out on things I wanted to do and see, I started to just do them anyway.\n\nI’ve also learned friendships are everything. I heard this one a lot before, but never really believed it that much. It was only when I had no friends that I realized their importance. Another lesson I have learned is that life doesn’t have to be “normal”. Go to school, get a job, or buy a big house. When anyone strays from this path they are considered to be not “normal”. I began to meet interesting characters from all over the world and saw firsthand how they had gone “against the grain” and succeeded. I saw and experienced how happy people are doing something completely different than normal jobs, because they get to wake up every day and do what they want to do in the place they want to be.\n\nSo, while travelling you get a whole new perspective on what really matters and you feel this sense of adventure and excitement that reminds you just how many possibilities you have in life. It will teach you more about yourself and the world around you than you could ever imagine.\n\n1 According to the author travelling helps you …\n\nlearn new skills +\n\nsee the world.\n\nunderstand yourself.\n\nenjoy the life\n\nread about things\n\nFriendships are everything….\n\nI’ve also spoke\n\nI’ve also learned +\n\nI’ve heard\n\na lifetime learned\n\nlive teaches\n\nNew commitment means…\n\nobligation +\n\nmeeting\n\nmust-see\n\nassembly\n\nto leave\n\nTravelling helps you….\n\naccess to new life .\n\nnotice the world\n\nlearn the world + d). like your life\n\nchance to travel\n\nI began to meet interesting…..\n\nand saw firsthand how they had gone\n\npeople from all over the world +\n\ntourists from all over the world\n\nwonderful person all over the land\n\nFalse statement\n\nThe people around you contribute a great deal to your overall happiness.\n\nThey have taught me not to be afraid of travelling.+\n\nIt was only when I had no friends that I realized their importance.\n\nAnother lesson I have learned is that life doesn’t have to be “normal”.\n\nGo to school, get a job, or buy a big house.\n\nTrue statement\n\nWhen I wasn’t planning on leaving to travel for a year.\n\nIt was the “right time” when everything was going to be put on hold for my travels.\n\nI needed more friends, or I would lose my job.\n\nSo I left at the “wrong time” in life and it turned out to be. +\n\nBut I know only what negative about travelling has taught me.\n\nWandering around the globe means….\n\nTo set up\n\nTo travel around +\n\nTo mind\n\nTo arrive\n\nTo go hiking\n\nI began to meet interesting characters….\n\nover the world and saw firsthand how they had gone “against the grain” and succeeded.\n\nsaw and experienced how happy people are doing something completely\n\ndifferent than normal jobs, because they get to wake up every day.\n\nall over the world and saw firsthand how they had gone “against the grain”.+\n\n**Сұрақ 67:** Биология",
-      "options": [
-        {
-          "key": "A",
-          "text": "Инструкция: Вам необходимо выполнить тестовые задания на основе контекстов"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q68",
@@ -2189,7 +2099,7 @@
         },
         {
           "key": "C",
-          "text": "С) 1,7 кг"
+          "text": "1,7 кг"
         },
         {
           "key": "D",
@@ -2220,7 +2130,7 @@
         },
         {
           "key": "C",
-          "text": "С) 2000 Па"
+          "text": "2000 Па"
         },
         {
           "key": "D",
@@ -2349,21 +2259,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q87",
-      "question_number": 87,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 87:** Биология",
-      "options": [
-        {
-          "key": "A",
-          "text": "Инструкция: Вам необходимо выполнить тестовые задания на основе контекстов"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q88",
       "question_number": 88,
       "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 88:** Клеточный цикл",
@@ -2441,21 +2336,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q91",
-      "question_number": 91,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 91:** Вопрос 1:\nВнимательно изучите контуры тектонических озер мира и определите среди них озеро Балхаш. Найдите в тексте доказательства, подтверждающие ваш выбор.",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/math_literacy_9_321397_img47_f27b3e72.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q92",
       "question_number": 92,
       "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 92:** Вопрос 2: Определите, какая из его частей пресная, а какая – соленая. Обоснуйте свой ответ.\nНу, какой же отдых на Балхаше без рыбалки. В озере водится более 20 видов рыб, из них 6 местных, обитающих с древних времен (илийскаямаринка, балхашскаямаринка, балхашский окунь, пятнистый губач, одноцветный губач, балхашский гольян). Рыбачить удобно на рыболовных базах, где вам предоставят все, включая проживание.",
@@ -2496,21 +2376,6 @@
       "answer_source": "document_bold",
       "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q94",
-      "question_number": 94,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 94:** Существуют разные классификации миграций, в том числе:",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/math_literacy_9_321397_img48_b3fa9347.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q95",
@@ -2570,21 +2435,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q98",
-      "question_number": 98,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 98:** Ключи к заданиям: Грамотность чтения",
-      "options": [
-        {
-          "key": "A",
-          "text": "Ответы Математика:"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
       "id": "q99",
       "question_number": 99,
       "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 99:** Ответы физика:",
@@ -2614,36 +2464,6 @@
       "answer_source": "document_bold",
       "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q13",
-      "question_number": 13,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 13:** Е | 13 -Е | 13 -В | 13.С",
-      "options": [
-        {
-          "key": "A",
-          "text": "І вариант | ІІ вариант | ІІІ вариант | ІV вариант"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_key",
-      "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№13 -> B).",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 4:** В | 4-Д | 4-С | 4-А",
-      "options": [
-        {
-          "key": "A",
-          "text": "І вариант | ІІ вариант | ІІІ вариант | ІV вариант"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_key",
-      "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№4 -> B).",
-      "verification_status": "needs_review"
     }
   ]
 }

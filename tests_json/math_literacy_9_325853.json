@@ -5,28 +5,13 @@
   "grade": 9,
   "language": "kk",
   "source_file": "МОДО.docx",
-  "total_questions": 12,
+  "total_questions": 11,
   "verified_questions": 11,
   "answer_sources_distribution": {
     "ai_solved": 12
   },
   "total_embedded_images": 1,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "Математикалық сауаттылық",
-      "options": [
-        {
-          "key": "A",
-          "text": "Нұсқа-5"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q1",
       "question_number": 1,
@@ -131,7 +116,7 @@
         },
         {
           "key": "C",
-          "text": "С. 25 минуттан кейін"
+          "text": "25 минуттан кейін"
         },
         {
           "key": "D",
@@ -162,7 +147,7 @@
         },
         {
           "key": "C",
-          "text": "С) 6"
+          "text": "6"
         },
         {
           "key": "D",
@@ -193,7 +178,7 @@
         },
         {
           "key": "C",
-          "text": "С) 27 тг."
+          "text": "27 тг."
         },
         {
           "key": "D",
@@ -255,7 +240,7 @@
         },
         {
           "key": "D",
-          "text": "С) 285 см2."
+          "text": "285 см2."
         },
         {
           "key": "E",
@@ -282,7 +267,7 @@
         },
         {
           "key": "D",
-          "text": "С) Сәбіз"
+          "text": "Сәбіз"
         },
         {
           "key": "E",

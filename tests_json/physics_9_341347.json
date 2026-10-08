@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
-  "total_questions": 10,
+  "total_questions": 9,
   "verified_questions": 9,
   "answer_sources_distribution": {
     "ai_solved": 9,
@@ -13,21 +13,6 @@
   },
   "total_embedded_images": 0,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/physics_9_341347_img1_48509862.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q3",
       "question_number": 3,
@@ -43,7 +28,7 @@
         },
         {
           "key": "C",
-          "text": "С) 0,8 Н"
+          "text": "0,8 Н"
         },
         {
           "key": "D",
@@ -74,7 +59,7 @@
         },
         {
           "key": "C",
-          "text": "С) 6 мкКл"
+          "text": "6 мкКл"
         },
         {
           "key": "D",
@@ -105,7 +90,7 @@
         },
         {
           "key": "C",
-          "text": "С) 4,2 см"
+          "text": "4,2 см"
         },
         {
           "key": "D",

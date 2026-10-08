@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "kk",
   "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 7 нұсқа.docx",
-  "total_questions": 16,
+  "total_questions": 8,
   "verified_questions": 14,
   "answer_sources_distribution": {
     "ai_solved": 8,
@@ -14,21 +14,6 @@
   },
   "total_embedded_images": 0,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/physics_9_341351_img1_91c7e099.png\"/> Күш"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q3",
       "question_number": 3,
@@ -75,7 +60,7 @@
         },
         {
           "key": "C",
-          "text": "С. Әрекет етуші күшке әртүрлі күш әрекет етеді"
+          "text": "Әрекет етуші күшке әртүрлі күш әрекет етеді"
         },
         {
           "key": "D",
@@ -106,7 +91,7 @@
         },
         {
           "key": "C",
-          "text": "С. F=mν"
+          "text": "F=mν"
         },
         {
           "key": "D",
@@ -168,7 +153,7 @@
         },
         {
           "key": "C",
-          "text": "С) 1,68 см2"
+          "text": "1,68 см2"
         },
         {
           "key": "D",
@@ -199,7 +184,7 @@
         },
         {
           "key": "C",
-          "text": "С) 1440 Дж"
+          "text": "1440 Дж"
         },
         {
           "key": "D",
@@ -230,7 +215,7 @@
         },
         {
           "key": "C",
-          "text": "С) 3,75 Ом"
+          "text": "3,75 Ом"
         },
         {
           "key": "D",
@@ -244,114 +229,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "<img src=\"images/physics_9_341351_img3_91c7e099.png\"/> Күш"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q13",
-      "question_number": 13,
-      "question_text": "1Жүгі бар арбаны аққу аспанға, шортан суға, шаян алға тартады. Арба орнынан қозғала ма? Тең әсерлі күш неге тең?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Қозғалмайды, ҒR=0"
-        },
-        {
-          "key": "B",
-          "text": "Қозғалады, ҒR=F1+F2+F3"
-        },
-        {
-          "key": "C",
-          "text": "Қозғалмайды, ҒR=F1+F2-F3"
-        },
-        {
-          "key": "D",
-          "text": "Қозғалады, ҒR=0"
-        },
-        {
-          "key": "E",
-          "text": "ҒR=F1+F2"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант A выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "Нютонның үшінші заңын тұжырымдаңыз",
-      "options": [
-        {
-          "key": "A",
-          "text": "Әрекет етуші күшке әрқашан тең әсерлі күш әрекет етеді"
-        },
-        {
-          "key": "B",
-          "text": "Әрекет етуші күшке ешқандай күш әсер етпейді"
-        },
-        {
-          "key": "C",
-          "text": "С. Әрекет етуші күшке әртүрлі күш әрекет етеді"
-        },
-        {
-          "key": "D",
-          "text": "Әрекет етуші күшке ауырлық күші әсер етеді"
-        },
-        {
-          "key": "E",
-          "text": "Әрекет етуші күшке тарту күші әсер етеді"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант A выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "Ньютонның екінші заңының өрнегі:",
-      "options": [
-        {
-          "key": "A",
-          "text": "F=mgh"
-        },
-        {
-          "key": "B",
-          "text": "F=ma"
-        },
-        {
-          "key": "C",
-          "text": "С. F=mν"
-        },
-        {
-          "key": "D",
-          "text": "F=mv2/2"
-        },
-        {
-          "key": "E",
-          "text": "F=-kx"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант B выделен цветом/маркером в исходном документе.",
       "verification_status": "verified"
     },
     {
@@ -383,99 +260,6 @@
       "correct_answer": "A",
       "answer_source": "document_bold",
       "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q18",
-      "question_number": 18,
-      "question_text": "Екінші реостаттың сымының ұзындығы 4 м, ал меншікті кедергісі 4,2*10-7 Ом*м  болатын никелин сымының ауданы қандай?",
-      "options": [
-        {
-          "key": "A",
-          "text": "16,8 см2"
-        },
-        {
-          "key": "B",
-          "text": "0,168 мм2"
-        },
-        {
-          "key": "C",
-          "text": "С) 1,68 см2"
-        },
-        {
-          "key": "D",
-          "text": "1,68 мм2"
-        },
-        {
-          "key": "E",
-          "text": "16,8 мм2"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант B выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q19",
-      "question_number": 19,
-      "question_text": "Егер осы тізбек 1 сағат бойы қосылса, қандай жылу мөлшерін алуға болады?",
-      "options": [
-        {
-          "key": "A",
-          "text": "520 Дж"
-        },
-        {
-          "key": "B",
-          "text": "52 кДж"
-        },
-        {
-          "key": "C",
-          "text": "С) 1440 Дж"
-        },
-        {
-          "key": "D",
-          "text": "1,44 Дж"
-        },
-        {
-          "key": "E",
-          "text": "5,2 кДж"
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант E выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q20",
-      "question_number": 20,
-      "question_text": "Тізбектегі жалпы кедергі шамасы қандай?",
-      "options": [
-        {
-          "key": "A",
-          "text": "4 Ом"
-        },
-        {
-          "key": "B",
-          "text": "60 Ом"
-        },
-        {
-          "key": "C",
-          "text": "С) 3,75 Ом"
-        },
-        {
-          "key": "D",
-          "text": "16 Ом"
-        },
-        {
-          "key": "E",
-          "text": "8 Ом"
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант D выделен цветом/маркером в исходном документе.",
       "verification_status": "verified"
     }
   ]

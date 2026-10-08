@@ -5,43 +5,13 @@
   "grade": 4,
   "language": "en",
   "source_file": "Модо папка.docx",
-  "total_questions": 16,
+  "total_questions": 10,
   "verified_questions": 10,
   "answer_sources_distribution": {
     "ai_solved": 16
   },
   "total_embedded_images": 0,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "Қараоба жалпы  орта білім беру  мектебі",
-      "options": [
-        {
-          "key": "A",
-          "text": "2023 – 2024 оқу жылындағы ББЖМ-ға дайындық жұмыстары"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "бойынша мұғалімнің жеке папкасы",
-      "options": [
-        {
-          "key": "A",
-          "text": "Ағылшын тілі пәні мұғалімі: Қамалиден Бекболат Бекмұратұлы"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q3",
       "question_number": 3,
@@ -60,36 +30,6 @@
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q9",
-      "question_number": 9,
-      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 9:** сынып курсы үшін әлеуметтік-техникалық, оқу-еңбек және әлеуметтік-мәдениеттік салалары қамтылған оқу бағдарламасына төмендегі оқу тақырыптары енгізілген:\nЛексикалық минимумның орфографиясы. Мысалы exemplifying-especially, particularly, for example, such as, reason: because, due to, since, as. Предлогтар: from, to, at, in, by, into, on, off, out, out of.\nСонымен қатар грамматикалық құрылымдарды меңгеру жалғастырылады: Present Continuous Passive, Past Continuous Passive Tense, Past Future Perfect Continuous Active, First, Second Conditional; Participle One, Direct and indirect speech; Past Perfect Continuous Active, Past/Future Perfect Continuous Active; Present Continuous Passive, Past Continuous Passive, Gerund",
-      "options": [
-        {
-          "key": "A",
-          "text": "9 «А» сынып оқушыларының тізімі"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 4:** Телжан Динара",
-      "options": [
-        {
-          "key": "A",
-          "text": "Қараоба ЖОББ мектебінің"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q9",
@@ -117,21 +57,6 @@
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q10",
-      "question_number": 10,
-      "question_text": "**мәтінге сүйене отырып оның негізгі мазмұнын айта алуы;**\n\nмаған ұнайды/ұнамайды деген сияқты сөздерді қолдана отырып оқығанына өз пікірін айта алуы;\n\nсұрақ-жауап түрінде сөйлеу;\n\nтанысу, өзін таныстыру және жауап бере алуы;\n\nестіген ақпарат хабарды өз тәжірибесімен салыстыру, ой елегінен өткізу, оларды бағалай білуі;\n\nжаңа сөздердің мағынасын пайымдай білу.\n\nОқу бағдарламасының мазмұны мен құрылымы\n\n**Сұрақ 10:** 9 сынып",
-      "options": [
-        {
-          "key": "A",
-          "text": "ББЖМ –ға дайындық  тақырыптық жоспары"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q21",
@@ -318,21 +243,6 @@
       "answer_source": "ai_solved",
       "explanation": "Вариант C ('Deep snow alone never causes f...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q19",
-      "question_number": 19,
-      "question_text": "**B) to recommend reading the text**\n\nC) to focus on natural disasters\n\nD) to make the reader feel sad\n\nE) to entertain the reader\n\n9 «а» сынып оқушыларымен ББЖМ дайындалу бойынша өткізілген  №1 тест қорытындылары туралы мәліметтер   ағылшын тілі пәні бойынша\n\nСынып: 9 «а»                                         Оқушылар саны: 4\n\nМұғалім: Қамалиден Б.Б.\n\nМақсаты:  Ағылшын тілі пәнінен тест нәтижелерін талдау\n\nТест 1 нәтижесін талдау білім алушылардың келесі білім деңгейін көрсетті:\n\n**Сұрақ 19:** Орта (С): 40-84% -  2 оқушы. Ол Бирлик Ақжарқын, Телжан Динара",
-      "options": [
-        {
-          "key": "A",
-          "text": "Төмен  (Н): 0-39% - 1 оқушы Жұмабек Ернұр"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q3",

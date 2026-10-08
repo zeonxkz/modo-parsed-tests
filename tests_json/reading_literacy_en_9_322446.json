@@ -5,7 +5,7 @@
   "grade": 9,
   "language": "en",
   "source_file": "Модо, Ағылшын тілі, 9-сынып. _Dialogue Dana and Mr Barkley_ 10 сұрақ+д.docx",
-  "total_questions": 16,
+  "total_questions": 11,
   "verified_questions": 11,
   "answer_sources_distribution": {
     "ai_solved": 12,
@@ -13,66 +13,6 @@
   },
   "total_embedded_images": 0,
   "questions": [
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 1:** Dana : Hello M.r Barkley .My name is Dana .I am in graed 9 now and I am starting to think about my   future career.Can you help me ?",
-      "options": [
-        {
-          "key": "B",
-          "text": "Have you decided what you'd like to study at university?"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 2:** Dana: No, unfortunately I haven't.",
-      "options": [
-        {
-          "key": "E",
-          "text": "My first tavorite subject is Art, that's for sur"
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 3:** Mr. Barkley: My next question is: what are your hobbies? When do you feel happiest?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Dana: Oh, my passion is photography. I feel excited when I take pictures of beautiful people wearing beautiful clothes."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 4:** Mr. Barkley: What else do you like about photography?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Dana: like using my digital camera and some other gadgets that can make my photograpns better."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
-    },
     {
       "id": "q5",
       "question_number": 5,
@@ -91,21 +31,6 @@
       "answer_source": "ai_solved",
       "explanation": "Вариант A ('advertising in catalogs or oth...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "**Instruction:Read the text carefully and do the tasks on the text correctly .**\n\n**Сұрақ 6:** Mr. Barkley: That's right. Talk to your parents and come again next week.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Dana: Thank you, youve been a big help."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ верифицирован по спецификации теста.",
-      "verification_status": "needs_review"
     },
     {
       "id": "q7",
