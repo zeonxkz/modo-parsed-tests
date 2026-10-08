@@ -1,22 +1,13 @@
 {
-  "test_id": "physics_9_341348",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 3 нұсқа",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 3 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 3 нұсқа.docx",
-  "total_questions": 10,
-  "verified_questions": 10,
-  "answer_sources_distribution": {
-    "document_highlight": 7,
-    "ai_solved": 10
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "Құралдың өлшеу дәлдігі мен бөлік құны өзара қалай байланысқан?",
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Өлшеу дәлдігі. Арман құралдың екі ең жақын сандық белгіні алып, бұл белгілердің арасында қанша кіші бөліктердің бар екенін және үлкен белгіден кішісін азайту нәтижелерін бөліктер санына бөлді. Құралдың өлшеу дәлдігі мен бөлік құны өзара қалай байланысқан?",
       "options": [
         {
           "key": "A",
@@ -40,40 +31,65 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант A выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
-      "id": "q3",
-      "question_number": 3,
+      "id": "q2",
+      "question_number": 2,
       "question_text": "Суреттегі сызғыштың бөлік құны қанша?",
       "options": [
         {
           "key": "A",
-          "text": "1 см"
+          "text": "1 см"
         },
         {
           "key": "B",
-          "text": "1 мм"
+          "text": "1 мм"
         },
         {
           "key": "C",
-          "text": "0,5 мм"
+          "text": "0,5 мм"
         },
         {
           "key": "D",
-          "text": "0,5 см"
+          "text": "0,5 см"
         },
         {
           "key": "E",
           "text": "0,1 мм"
         }
       ],
-      "correct_answer": "B",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант B выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "2,5 ⋅ 103 км метрмен белгіле және нәтижесін стандартты түрде жаз.",
+      "options": [
+        {
+          "key": "A",
+          "text": "2,5 ⋅ 104 м"
+        },
+        {
+          "key": "B",
+          "text": "2500000мм"
+        },
+        {
+          "key": "C",
+          "text": "2,5 ⋅ 105 м"
+        },
+        {
+          "key": "D",
+          "text": "2,5 ⋅ 106 м"
+        },
+        {
+          "key": "E",
+          "text": "2,5⋅ 10-6 м"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "document_key"
     },
     {
       "id": "q4",
@@ -94,22 +110,20 @@
         },
         {
           "key": "D",
-          "text": "10,5 см"
+          "text": "10,5 см"
         },
         {
           "key": "E",
-          "text": "10,50 см"
+          "text": "10,50 см"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант A выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q5",
       "question_number": 5,
-      "question_text": "Линза түрі:",
+      "question_text": "Шам мен экранның арақашықтығы 6м. Шам мен экран арасындағы линза экранда төңкерілген кескін беретіндей етіп орналасқан. Алынған кескін шамнан 4 есе үлкен. Линза түрі:",
       "options": [
         {
           "key": "A",
@@ -133,14 +147,12 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант A выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "Линзаның сызықтық ұлғаюы",
+      "question_text": "Шам мен экранның арақашықтығы 6м. Шам мен экран арасындағы линза экранда төңкерілген кескін беретіндей етіп орналасқан. Алынған кескін шамнан 4 есе үлкен. Линзаның сызықтық ұлғаюы",
       "options": [
         {
           "key": "A",
@@ -164,14 +176,12 @@
         }
       ],
       "correct_answer": "B",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант B выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q7",
       "question_number": 7,
-      "question_text": "Шамнан линзаның оптикалық центріне дейінгі қашықтық:",
+      "question_text": "Шам мен экранның арақашықтығы 6м. Шам мен экран арасындағы линза экранда төңкерілген кескін беретіндей етіп орналасқан. Алынған кескін шамнан 4 есе үлкен. Шамнан линзаның оптикалық центріне дейінгі қашықтық:",
       "options": [
         {
           "key": "A",
@@ -195,14 +205,12 @@
         }
       ],
       "correct_answer": "E",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант E выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q8",
       "question_number": 8,
-      "question_text": "Линзаның оптикалық центрінен кескінге дейінгі қашықтық:",
+      "question_text": "Шам мен экранның арақашықтығы 6м. Шам мен экран арасындағы линза экранда төңкерілген кескін беретіндей етіп орналасқан. Алынған кескін шамнан 4 есе үлкен. Линзаның оптикалық центрінен кескінге дейінгі қашықтық:",
       "options": [
         {
           "key": "A",
@@ -226,78 +234,7 @@
         }
       ],
       "correct_answer": "D",
-      "answer_source": "document_highlight",
-      "explanation": "Вариант D выделен цветом/маркером в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Өлшеу дәлдігі"
-        },
-        {
-          "key": "C",
-          "text": "png\"/> <img src=\"images/physics_9_341348_img5_4605f6bf.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Шам"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341348_img6_c3a4d8e3.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "Линза түрі:",
-      "options": [
-        {
-          "key": "A",
-          "text": "жинағыш"
-        },
-        {
-          "key": "B",
-          "text": "шашыратқыш"
-        },
-        {
-          "key": "C",
-          "text": "дөңес-ойыс"
-        },
-        {
-          "key": "D",
-          "text": "жазық-ойыс"
-        },
-        {
-          "key": "E",
-          "text": "қос дөңес"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     }
   ]
 }

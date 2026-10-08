@@ -1,23 +1,13 @@
 {
-  "test_id": "physics_9_341351",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 7 нұсқа",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 7 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 7 нұсқа.docx",
-  "total_questions": 8,
-  "verified_questions": 8,
-  "answer_sources_distribution": {
-    "ai_solved": 8,
-    "document_bold": 2,
-    "document_highlight": 6
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "1Жүгі бар арбаны аққу аспанға, шортан суға, шаян алға тартады. Арба орнынан қозғала ма? Тең әсерлі күш неге тең?",
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Күш\nНьютон заңдары Бұл заңда барлық материалдық обьектілерге ортақ қасиет – тыныштық күйін немесе бірқалыпты түзу сызықты қозғалысын сақтау туралы айтылады. Яғни, кез келген дене өзінің тыныштық күйін немесе бірқалыпты және түзу сызықты қозғалысын басқа денелер әсер еткенге дейін сақтайды. Егер қозғалысты санақ жүйесімен байланыстыратын болсақ, онда қозғалушы дене әсер етуші күштен бөлек және санақ жүйесімен байланысты бірқалыпты және түзу сызықты қозғалыста болады.\nЖүгі бар арбаны аққу аспанға, шортан суға, шаян алға тартады. Арба орнынан қозғала ма? Тең әсерлі күш неге тең?",
       "options": [
         {
           "key": "A",
@@ -41,9 +31,7 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q2",
@@ -72,9 +60,36 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Әсер етуші күш екі есе артса дененің алатын үдеуі қалай өзгереді",
+      "options": [
+        {
+          "key": "A",
+          "text": "Екі есе кемиді"
+        },
+        {
+          "key": "B",
+          "text": "Төрт есе артады"
+        },
+        {
+          "key": "C",
+          "text": "Екі есе артады"
+        },
+        {
+          "key": "D",
+          "text": "Төрт есе кемиді"
+        },
+        {
+          "key": "E",
+          "text": "Өзгермейді"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "document_key"
     },
     {
       "id": "q4",
@@ -102,27 +117,25 @@
           "text": "F=-kx"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "answer_source": "document_key"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Суретте электр тізбегі жинақталған.\nТізбектегі электр тогының қуатын есептеңіз.",
       "options": [
         {
           "key": "A",
-          "text": "Суретте электр тізбегі жинақталған."
+          "text": "144 Вт"
         },
         {
           "key": "B",
-          "text": "<img src=\"images/physics_9_341351_img2_31517eff.png\"/>"
+          "text": "14,4 Вт"
         },
         {
           "key": "C",
-          "text": "Тізбектегі электр тогының қуатын есептеңіз."
+          "text": "1,44 Вт"
         },
         {
           "key": "D",
@@ -133,15 +146,13 @@
           "text": "1,44 кВт"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "answer_source": "document_key"
     },
     {
-      "id": "q8",
-      "question_number": 8,
-      "question_text": "Екінші реостаттың сымының ұзындығы 4 м, ал меншікті кедергісі 4,2*10-7 Ом*м  болатын никелин сымының ауданы қандай?",
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Екінші реостаттың сымының ұзындығы 4 м, ал меншікті кедергісі 4,2*10-7 Ом*м болатын никелин сымының ауданы қандай?",
       "options": [
         {
           "key": "A",
@@ -164,14 +175,12 @@
           "text": "16,8 мм2"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "answer_source": "document_key"
     },
     {
-      "id": "q9",
-      "question_number": 9,
+      "id": "q7",
+      "question_number": 7,
       "question_text": "Егер осы тізбек 1 сағат бойы қосылса, қандай жылу мөлшерін алуға болады?",
       "options": [
         {
@@ -195,14 +204,12 @@
           "text": "5,2 кДж"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "B",
+      "answer_source": "document_key"
     },
     {
-      "id": "q10",
-      "question_number": 10,
+      "id": "q8",
+      "question_number": 8,
       "question_text": "Тізбектегі жалпы кедергі шамасы қандай?",
       "options": [
         {
@@ -226,41 +233,8 @@
           "text": "8 Ом"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Суретте электр тізбегі жинақталған."
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341351_img4_31517eff.png\"/>"
-        },
-        {
-          "key": "C",
-          "text": "Тізбектегі электр тогының қуатын есептеңіз."
-        },
-        {
-          "key": "D",
-          "text": "14кВт"
-        },
-        {
-          "key": "E",
-          "text": "1,44 кВт"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     }
   ]
 }

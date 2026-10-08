@@ -16,7 +16,7 @@
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "Диаграммада соңғы 5 жылда алынған сынақ тестерінің математика пәні бойынша нәтижелері көрсетілген. Жыл сайын тестілеуге 25 оқушы қатысты.\n\n<img src=\"images/math_332147_raw6.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />\n\nДиаграмманы пайдаланып, қай жылдарда тестің орта балы 2014–2018 жылдардың жалпы орта балынан жоғары болғанын анықтаңыз.",
+      "question_text": "Диаграммада соңғы 5 жылда алынған сынақ тестерінің математика пәні бойынша нәтижелері көрсетілген. Жыл сайын тестілеуге 25 оқушы қатысты.\n\n\n\nДиаграмманы пайдаланып, қай жылдарда тестің орта балы 2014–2018 жылдардың жалпы орта балынан жоғары болғанын анықтаңыз.\n\n<img src=\"images/math_332147/image1.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -39,12 +39,15 @@
           "text": "2014, 2015, 2017"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image1.png"
+      ]
     },
     {
       "id": "q2",
       "question_number": 2,
-      "question_text": "Суретте таразы тепе-теңдікте орналасқан болса, <img src=\"images/math_332147_img2.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> өрнегінің мәнін табыңыз.\n\n<img src=\"images/math_332147_raw10.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Суретте таразы тепе-теңдікте орналасқан болса,  өрнегінің мәнін табыңыз.\n\n<img src=\"images/math_332147/image3.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -67,12 +70,15 @@
           "text": "0,5"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image3.png"
+      ]
     },
     {
       "id": "q3",
       "question_number": 3,
-      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см² болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_332147_raw8.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см² болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_332147/image4.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -95,12 +101,15 @@
           "text": "125 см²"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image4.png"
+      ]
     },
     {
       "id": "q4",
       "question_number": 4,
-      "question_text": "a-b-(a+b)=c өрнегін және кестені пайдалана отырып, (х+у)² өрнегінің мәнін табыңыз.",
+      "question_text": "a-b-(a+b)=c өрнегін және кестені пайдалана отырып, (х+у)² өрнегінің мәнін табыңыз.\n\n<table style=\"border-collapse: collapse; margin: 12px 0; text-align: center; font-size: 1.05rem; background: rgba(255,255,255,0.03); border: 1px solid rgba(255,255,255,0.2);\">\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; font-weight: bold; background: rgba(255,255,255,0.08);\">a</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">16</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; font-weight: bold; color: #f59e0b;\">x</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">6</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; font-weight: bold; background: rgba(255,255,255,0.08);\">b</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">3</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">24</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; font-weight: bold; color: #f59e0b;\">y</td>\n    </tr>\n    <tr>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px; font-weight: bold; background: rgba(255,255,255,0.08);\">c</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">29</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">137</td>\n      <td style=\"border: 1px solid rgba(255,255,255,0.2); padding: 6px 14px;\">84</td>\n    </tr>\n  </tbody>\n</table>",
       "options": [
         {
           "key": "A",
@@ -156,7 +165,7 @@
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_332147_raw7.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_332147/image5.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -179,7 +188,10 @@
           "text": "256 см²"
         }
       ],
-      "correct_answer": "D"
+      "correct_answer": "D",
+      "images": [
+        "images/math_332147/image5.png"
+      ]
     },
     {
       "id": "q7",
@@ -240,7 +252,7 @@
     {
       "id": "q9",
       "question_number": 9,
-      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_332147_raw1.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_332147/image9.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -263,12 +275,15 @@
           "text": "1440 м³"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image9.png"
+      ]
     },
     {
       "id": "q10",
       "question_number": 10,
-      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаз (ABCDEF) ауданы\n\n<img src=\"images/math_332147_raw9.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаз (ABCDEF) ауданы\n\n<img src=\"images/math_332147/image10.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -291,7 +306,10 @@
           "text": "40 м²"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image10.png"
+      ]
     },
     {
       "id": "q11",
@@ -324,7 +342,7 @@
     {
       "id": "q12",
       "question_number": 12,
-      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_332147_raw5.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_332147/image11.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -347,7 +365,10 @@
           "text": "12"
         }
       ],
-      "correct_answer": "A"
+      "correct_answer": "A",
+      "images": [
+        "images/math_332147/image11.png"
+      ]
     },
     {
       "id": "q13",

@@ -1,40 +1,13 @@
 {
-  "test_id": "physics_9_341354",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 11 нұсқа.docx",
-  "total_questions": 9,
-  "verified_questions": 9,
-  "answer_sources_distribution": {
-    "ai_solved": 10
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "1 ТАПСЫРМА",
-      "options": [
-        {
-          "key": "A",
-          "text": "Иін"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341354_img1_7032d744.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "1Су көтергіш иіндіктің қысқа иініне 600 Н күш,ал ұзын иініне 20 Н күш әсер етеді.Тепе-теңдіктегі кіші иіннің ұзындығы 6см болса , иінінің ұзындығы қанша?",
+      "question_text": "Су көтергіш иіндіктің қысқа иініне 600 Н күш,ал ұзын иініне 20 Н күш әсер етеді.Тепе-теңдіктегі кіші иіннің ұзындығы 6см болса , иінінің ұзындығы қанша?",
       "options": [
         {
           "key": "A",
@@ -57,10 +30,8 @@
           "text": "0.1см"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q2",
@@ -88,10 +59,8 @@
           "text": "10 кг"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q3",
@@ -119,10 +88,8 @@
           "text": "120 Дж"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q4",
@@ -150,10 +117,8 @@
           "text": "40"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q5",
@@ -162,25 +127,27 @@
       "options": [
         {
           "key": "A",
-          "text": "Ток күші бар катушканың магниттік қасиеттері оның айналу"
+          "text": "Ток күші бар катушканың магниттік қасиеттері оның айналу санына байланысты."
         },
         {
           "key": "B",
-          "text": "санына байланысты."
+          "text": "Қуат көзі катушкаға қосылған кезде магниттік қасиеттерге ие болады."
+        },
+        {
+          "key": "C",
+          "text": "Электр тогының бағытын катушка арқылы өзгерткенде магнит полюстерінің орны өзгеріссіз қалады."
         },
         {
           "key": "D",
-          "text": "Электр тогының бағытын катушка арқылы өзгерткенде магнит"
+          "text": "Катушка арқылы өтетін электр тогы төмендегенде оның магниттік әсері артады."
         },
         {
           "key": "E",
-          "text": "полюстерінің орны өзгеріссіз қалады."
+          "text": "Катушка арқылы өтетін электр тогы артқанда оның магниттік әсері артады."
         }
       ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант D ('С)      Электр тогының бағытын...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q6",
@@ -208,10 +175,8 @@
           "text": "Электромагниттер"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q7",
@@ -239,10 +204,8 @@
           "text": "Магнит өрісіне"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q8",
@@ -270,10 +233,8 @@
           "text": "Генератор"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     }
   ]
 }

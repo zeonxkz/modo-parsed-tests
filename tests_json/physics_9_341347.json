@@ -1,22 +1,13 @@
 {
-  "test_id": "physics_9_341347",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 2 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы.docx",
-  "total_questions": 8,
-  "verified_questions": 8,
-  "answer_sources_distribution": {
-    "ai_solved": 9,
-    "document_bold": 1
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "Екі нүктелік зарядтың арасындағы әсерлесу  күші неге тең?",
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Суретте екі нүктелік заряд берілген. Бірінші   зарядтың шамасы оң, екінші заряд шамасы теріс. Олардың арақашықтығы 3 см.\nЕкі нүктелік зарядтың арасындағы әсерлесу  күші неге тең?",
       "options": [
         {
           "key": "A",
@@ -39,14 +30,12 @@
           "text": "8000 Н"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
-      "id": "q4",
-      "question_number": 4,
+      "id": "q2",
+      "question_number": 2,
       "question_text": "Егер бұл зарядтарды түйістірсе қандай заряд шамасын алуға болады?",
       "options": [
         {
@@ -70,14 +59,12 @@
           "text": "-6 мкКл"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
-      "id": "q5",
-      "question_number": 5,
+      "id": "q3",
+      "question_number": 3,
       "question_text": "Егер әсерлесу күшін екі есе азайтса, нүктелік зарядтар қандай арақашықтықта болар еді?",
       "options": [
         {
@@ -101,34 +88,42 @@
           "text": "18 мм"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Берілген зарядтар үшін электр өрісінің күш сызықтарының бағытын анықтаңыз.",
       "options": [
         {
           "key": "A",
-          "text": "Ай"
+          "text": ""
         },
         {
           "key": "B",
-          "text": "<img src=\"images/physics_9_341347_img2_414e3ef7.png\"/>"
+          "text": ""
+        },
+        {
+          "key": "C",
+          "text": ""
+        },
+        {
+          "key": "D",
+          "text": ""
+        },
+        {
+          "key": "E",
+          "text": ""
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q5",
       "question_number": 5,
-      "question_text": "Ай өз өсі төңірегінде 27,3 тәулікте толық бір айналып шығады.Бұл қанша сағат қанша минутты құрайды?",
+      "question_text": "Ай\nАй диаметрі 3476 км (Жер диаметрінен 4 еседей аз), яғни радиусы 1738 км. Айдың бірдей екі фазасы аралығындағы уақыт 29,53 тәулік (синодтық ай), ал оның жұлдыздарға қатысты Жерді бір айналып шығатын уақыты 27,3 тәулік болады.\nАй өз өсі төңірегінде 27,3 тәулікте толық бір айналып шығады.Бұл қанша сағат қанша минутты құрайды?",
       "options": [
         {
           "key": "A",
@@ -151,41 +146,37 @@
           "text": "6,652 сағ, 3,9312мин"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q6",
       "question_number": 6,
-      "question_text": "Айдың диаметрі 13 м тең делік. Айдың ауданы қанша?",
+      "question_text": "Айдың диаметрі 13 м тең делік. Айдың ауданы қанша?",
       "options": [
         {
           "key": "A",
-          "text": "S ≈ 143м2"
+          "text": "S ≈ 143м2"
         },
         {
           "key": "B",
-          "text": "S ≈ 33м2"
+          "text": "S ≈ 33м2"
         },
         {
           "key": "C",
-          "text": "S ≈ 3,3м2"
+          "text": "S ≈ 3,3м2"
         },
         {
           "key": "D",
-          "text": "S ≈ 133м2"
+          "text": "S ≈ 133м2"
         },
         {
           "key": "E",
-          "text": "S ≈ 4,3м2"
+          "text": "S ≈ 4,3м2"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q7",
@@ -213,10 +204,8 @@
           "text": "="
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     },
     {
       "id": "q8",
@@ -244,10 +233,8 @@
           "text": "718 сағ"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "not_provided"
     }
   ]
 }

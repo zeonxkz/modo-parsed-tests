@@ -102,7 +102,7 @@
     {
       "id": "q4",
       "question_number": 4,
-      "question_text": "9-А сыныбында <img src=\"images/math_335871_raw35.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> ер бала және <img src=\"images/math_335871_raw26.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> қыз бала бар. Әрқайсысы мектепке бес оқулықты сөмкелеріне салып әкелді. Мына өрнектердің қайсысы осы оқушылардың алып келген оқулықтарының жалпы санын көрсетеді?",
+      "question_text": "9-А сыныбында <img src=\"images/math_332147/image5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> ер бала және <img src=\"images/math_332147/image5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> қыз бала бар. Әрқайсысы мектепке бес оқулықты сөмкелеріне салып әкелді. Мына өрнектердің қайсысы осы оқушылардың алып келген оқулықтарының жалпы санын көрсетеді?",
       "options": [
         {
           "key": "A",
@@ -189,7 +189,7 @@
     {
       "id": "q7",
       "question_number": 7,
-      "question_text": "<img src=\"images/math_335871_img23.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />, <img src=\"images/math_335871_img16.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> теңдеулері берілген. Дұрыс тұжырымдаманы табыңдар.\n\nА бағаны | В бағаны\n\n<img src=\"images/math_335871_raw8.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> | <img src=\"images/math_335871_raw36.wmf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "<img src=\"images/math_335871_img23.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />, <img src=\"images/math_335871_img16.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> теңдеулері берілген. Дұрыс тұжырымдаманы табыңдар.\n\nА бағаны | В бағаны\n\n<img src=\"images/math_332147/image5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" /> | <img src=\"images/math_332147/image5.png\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
       "options": [
         {
           "key": "A",
@@ -305,7 +305,7 @@
     {
       "id": "q11",
       "question_number": 11,
-      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см2 болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_335871_raw18.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Тігінші шаршы пішінді матадан төмендегі суреттегідей боялған фигураны қиып алады. Қиып алынған матаның ауданы 25 см2 болса (мұнда π≈3), берілген матаның ауданын табыңыз.\n\n<img src=\"images/math_332147/image4.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -329,12 +329,15 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Ресми кілт"
+      "explanation": "Ресми кілт",
+      "images": [
+        "images/math_332147/image4.png"
+      ]
     },
     {
       "id": "q12",
       "question_number": 12,
-      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_335871_raw34.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Қабырғасы 4 см-ге тең квадрат берілген. Оның қабырғаларының орталары екінші квадраттың төбелері, ал екінші квадраттың қабырғаларының орталары үшінші квадраттың төбелері, т.с.с. болып келеді. Барлық квадраттардың аудандарының қосындысын табыңдар.\n\n<img src=\"images/math_332147/image5.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -358,12 +361,15 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "Ресми кілт"
+      "explanation": "Ресми кілт",
+      "images": [
+        "images/math_332147/image5.png"
+      ]
     },
     {
       "id": "q13",
       "question_number": 13,
-      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_335871_raw11.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Көпірдің екі бірдей кішкене су ағары және ортасында бір үлкен су ағары бар. Судың тереңдігі 4 м болған кездегі көпірдің астындағы судың көлемін табыңыз.\n\n<img src=\"images/math_332147/image9.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -387,12 +393,15 @@
         }
       ],
       "correct_answer": "B",
-      "explanation": "Ресми кілт"
+      "explanation": "Ресми кілт",
+      "images": [
+        "images/math_332147/image9.png"
+      ]
     },
     {
       "id": "q14",
       "question_number": 14,
-      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаздың (ABCDEF) ауданын табыңыз.\n\n<img src=\"images/math_335871_raw25.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Руслан қатты қағаздан суретте көрсетілгендей (екі шаршыдан құралған) батпырауық жасады. Батпырауық жасауға жұмсалған қатты қағаздың (ABCDEF) ауданын табыңыз.\n\n<img src=\"images/math_332147/image10.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -416,7 +425,10 @@
         }
       ],
       "correct_answer": "D",
-      "explanation": "Ресми кілт"
+      "explanation": "Ресми кілт",
+      "images": [
+        "images/math_332147/image10.png"
+      ]
     },
     {
       "id": "q15",
@@ -450,7 +462,7 @@
     {
       "id": "q16",
       "question_number": 16,
-      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_335871_raw4.emf\" style=\"max-height:90px; vertical-align:middle; display:inline-block; margin:2px 4px;\" />",
+      "question_text": "Үшбұрыштың ауданын табыңыз.\n\n<img src=\"images/math_332147/image11.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
       "options": [
         {
           "key": "A",
@@ -474,7 +486,10 @@
         }
       ],
       "correct_answer": "C",
-      "explanation": "Ресми кілт"
+      "explanation": "Ресми кілт",
+      "images": [
+        "images/math_332147/image11.png"
+      ]
     },
     {
       "id": "q17",

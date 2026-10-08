@@ -1,45 +1,13 @@
 {
-  "test_id": "physics_9_341350",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 4 нұсқа.docx",
-  "total_questions": 6,
-  "verified_questions": 6,
-  "answer_sources_distribution": {
-    "document_bold": 2,
-    "ai_solved": 4
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
       "id": "q1",
       "question_number": 1,
-      "question_text": "1 тапсырма",
-      "options": [
-        {
-          "key": "A",
-          "text": "Конденсатор"
-        },
-        {
-          "key": "B",
-          "text": "Өндірісте мынадай конденсаторлар пайдаланылады."
-        },
-        {
-          "key": "C",
-          "text": "<img src=\"images/physics_9_341350_img1_9ad86b13.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "Сыйымдылығы С=2 мкФ конденсатор батареясын 100 В-қа дейін зарядтау үшін қанша заряд керек?",
+      "question_text": "Сыйымдылығы С=2 мкФ конденсатор батареясын 100 В-қа дейін зарядтау үшін қанша заряд керек?",
       "options": [
         {
           "key": "A",
@@ -63,9 +31,7 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q2",
@@ -94,9 +60,36 @@
         }
       ],
       "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Сыйымдылықтары 6 және 9 пФ болатын шардың потенциалы сәйкесінше 200 В және 800В. Екі шардың қосынды заряды қандай?",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,2 нКл"
+        },
+        {
+          "key": "B",
+          "text": "7,2 нКл"
+        },
+        {
+          "key": "C",
+          "text": "8,4 нКл"
+        },
+        {
+          "key": "D",
+          "text": "6 нКл"
+        },
+        {
+          "key": "E",
+          "text": "6,4 нКл"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "document_key"
     },
     {
       "id": "q4",
@@ -124,72 +117,124 @@
           "text": "өзгермейді"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "answer_source": "document_key"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "2 тапсырма",
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "Кіші денелерді өлщеу\nСуретте бұранда қадамы мен Кіші денелердің өлшемін анықтау үшін қатарлау әдісі қолданылған. Өте көп ұсақ денені сызғышқа бір қатарға тізіп қояды да, осы қатардағы бөлшектерді санайды.\nСуретке қарап, бұранда қадамын анықта. Сызғыштың бөлік құны 1 мм-ге тең деп есепте.",
       "options": [
         {
           "key": "A",
-          "text": "Кіші денелерді өлщеу"
+          "text": "0,1 мм"
         },
         {
           "key": "B",
-          "text": "<img src=\"images/physics_9_341350_img2_0cb21872.png\"/> <img src=\"images/physics_9_341350_img3_46c68da8.png\"/>"
+          "text": "0,8 мм"
         },
         {
           "key": "C",
-          "text": "Суретке қарап, бұранда қадамын анықта. Сызғыштың бөлік құны 1 мм-ге тең деп есепте."
+          "text": "0,9 мм"
         },
         {
           "key": "D",
-          "text": "0,1 мм"
+          "text": "1,2 мм"
         },
         {
           "key": "E",
-          "text": "0,8 мм"
+          "text": "1,3 мм"
+        }
+      ],
+      "correct_answer": "",
+      "answer_source": "document_key"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Суреттегі эксперимент мәліметтері бойынша бір моншақтың өлшемін көрсет.",
+      "options": [
+        {
+          "key": "A",
+          "text": "1,65 мм"
+        },
+        {
+          "key": "B",
+          "text": "1,63 мм"
+        },
+        {
+          "key": "C",
+          "text": "0,95 мм"
+        },
+        {
+          "key": "D",
+          "text": "0,96 мм"
+        },
+        {
+          "key": "E",
+          "text": "1,64 мм"
+        }
+      ],
+      "correct_answer": "",
+      "answer_source": "document_key"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Тиындардың жиынтығы 30 дана тиыннан тұрады, жиынтықтың ұзындығы 32 см. Бір тиынның қалыңдығы қанша?",
+      "options": [
+        {
+          "key": "A",
+          "text": "10,6 мм; 1,06 см; 0,0106 м"
+        },
+        {
+          "key": "B",
+          "text": "10,6 мм; 1,06 см; 0,106 м"
+        },
+        {
+          "key": "C",
+          "text": "1,06 мм; 0,106 см; 0,000106 м"
+        },
+        {
+          "key": "D",
+          "text": "10,6 мм; 1,06 см; 0,00106 м"
+        },
+        {
+          "key": "E",
+          "text": "10 мм; 1,06 см; 0,00106 м"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "document_key"
     },
     {
       "id": "q8",
       "question_number": 8,
-      "question_text": "Тиындардың жиынтығы 30 дана тиыннан тұрады, жиынтықтың ұзындығы 32 см. Бір тиынның қалыңдығы қанша?",
+      "question_text": "Марс массасын (640 000 000 000 000 000 000 000 кг) стандартты түрде жаз.",
       "options": [
         {
           "key": "A",
-          "text": "10,6 мм; 1,06 см; 0,0106 м"
+          "text": "60,4·1023 кг"
         },
         {
           "key": "B",
-          "text": "10,6 мм; 1,06 см; 0,106 м"
+          "text": "6,40·1023 кг"
         },
         {
           "key": "C",
-          "text": "1,06 мм; 0,106 см; 0,000106 м"
+          "text": "64,0·1024 кг"
         },
         {
           "key": "D",
-          "text": "10,6 мм; 1,06 см; 0,00106 м"
+          "text": "6,04·1023 кг"
         },
         {
           "key": "E",
-          "text": "10 мм; 1,06 см; 0,00106 м"
+          "text": "6,4·1023 кг"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "E",
+      "answer_source": "document_key"
     }
   ]
 }

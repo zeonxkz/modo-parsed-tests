@@ -1,16 +1,8 @@
 {
-  "test_id": "physics_9_341353",
-  "title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 10 нұсқа",
+  "test_title": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 10 нұсқа",
   "subject": "physics",
   "grade": 9,
   "language": "kk",
-  "source_file": "Физика пәнінен МОДО тапсырмалары 2023-2024 оқу жылы 10 нұсқа.docx",
-  "total_questions": 9,
-  "verified_questions": 9,
-  "answer_sources_distribution": {
-    "ai_solved": 9
-  },
-  "total_embedded_images": 0,
   "questions": [
     {
       "id": "q1",
@@ -38,10 +30,8 @@
           "text": "күшті түрлендіріп, жұ ыстан ұтыс алу"
         }
       ],
-      "correct_answer": "C",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант C ('арқанның созылуын азайту;...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q2",
@@ -69,10 +59,8 @@
           "text": "бұранда"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q3",
@@ -100,10 +88,8 @@
           "text": "экватордан полюске еткенде ауырлық күші өзгермейді"
         }
       ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант E ('экватордан полюске еткенде ауы...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q4",
@@ -131,29 +117,8 @@
           "text": "жұмысты түрлендіру;"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Гидростатикалық қысым",
-      "options": [
-        {
-          "key": "A",
-          "text": "Ыдысқа суретте көрсетілгендей әр түрлі биіктікке дейін сұйықтар құйылған. (, , )"
-        },
-        {
-          "key": "B",
-          "text": "<img src=\"images/physics_9_341353_img2_6cef7277.png\"/>"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q5",
@@ -181,10 +146,8 @@
           "text": "2кПА"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q6",
@@ -212,10 +175,8 @@
           "text": "2 кПа"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q7",
@@ -243,10 +204,8 @@
           "text": "6,3 кПа"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     },
     {
       "id": "q8",
@@ -274,10 +233,8 @@
           "text": ")"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
+      "correct_answer": "",
+      "answer_source": "document_key"
     }
   ]
 }
