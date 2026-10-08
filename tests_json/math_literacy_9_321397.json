@@ -1,88 +1,393 @@
 {
-  "test_id": "math_literacy_9_321397",
-  "title": "модо тапсырмалары",
+  "metadata": {
+    "document_id": "321397",
+    "subject": "math_literacy",
+    "grade": 9,
+    "language": "ru",
+    "variant": 1,
+    "source_file": "модо тапсырмалары.docx"
+  },
+  "test_title": "МОДО Математическая грамотность — Вариант 1 (Сборник 2022)",
   "subject": "math_literacy",
   "grade": 9,
-  "language": "kk",
-  "source_file": "модо тапсырмалары.docx",
-  "total_questions": 3,
-  "verified_questions": 86,
-  "answer_sources_distribution": {
-    "document_key": 15,
-    "ai_solved": 75,
-    "document_bold": 7,
-    "document_plus_marker": 1
-  },
-  "total_embedded_images": 1,
+  "language": "ru",
   "questions": [
     {
-      "id": "q96",
-      "question_number": 96,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 96:** Вопрос 1. Согласны ли вы с утверждениями (да/нет) о том, что:",
+      "id": "q1",
+      "question_number": 1,
+      "question_text": "Чтобы добраться от Алматы до Тургеньского ущелья, туристы проехали 30 км по трассе со скоростью 90 км/ч, 35 км по шоссе со скоростью 70 км/ч и еще 15 минут шли по бездорожью. Отдохнув 20 минут, они дошли до ущелья «Аюлы» пешком со скоростью 4 км/ч за 1 час. В какое время туристам нужно выехать из Алматы, чтобы оказаться в ущелье «Аюлы» в 10:00?",
       "options": [
         {
           "key": "A",
-          "text": "Мигрантом человек будет называться только после того, как он пересечет административные или государственные границы страны для постоянного проживания."
-        },
-        {
-          "key": "Б",
-          "text": "Современный Казахстан выступает за возвращение на родину зарубежных соотечественников"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q97",
-      "question_number": 97,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 97:** Вопрос 2. Ответьте на вопросы, используя научную терминологию.",
-      "options": [
-        {
-          "key": "A",
-          "text": "Житель города Астана переехал с семьей в Хьюстон. Как назовут его соседи о дому в США? В нашей стране?"
-        },
-        {
-          "key": "Б",
-          "text": "Карагандинец работает на месторождении Акжал в течение 1 месяца и с перерывом в 2 недели. Какой вид миграции совершает данный гражданин?"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q99",
-      "question_number": 99,
-      "question_text": "**Reading: Read the text carefully and do the tasks on the text correctly.**\n\nThe Joy and Enthusiasm of Reading\n\nI believe in the absolute and unlimited liberty of reading. I believe in wandering through the huge stacks of books and picking out the first thing that strikes me. I believe in choosing the hardest book imaginable. I believe in reading what others have to say about this difficult book, and then making up my own mind, agreeing or disagreeing with what I have read and understood.\n\nWhat Mr. Buxton did not tell me was what the play meant. He left the conclusions to me. The situation was much the same with my history teacher in 11th grade, Mr. Flanders, who encouraged me to have my own relationship with historical events and my own attitude to them. He often quoted famous historians in the process. All the works I read were open texts. It was an exciting experience. Besides, I got familiar with wonderful works of literary criticism.\n\nNo doubt they arrived at these beliefs through their own adventures in the stacks. Perhaps their adventures were not so exciting or romantic. And these are important questions for philosophers of every character. But yet I know only what joy and enthusiasm about reading have taught me, in bookstores new and used. They have taught me not to be afraid of something new, unusual or non*traditional, not to deny it but embrace it and try to understand even if you cannot agree with it. Not to stay within the boundaries but always seek for something new and enjoy every second of this creative process and be happy every time you get some result, no matter how positive or negative. You could spend a lifetime thinking about a sentence, and making it your own. In just this way, I believe in the freedom to see literature, history, truth, unfolding ahead of me like a book whose spine has just now been cracked.\n\n1 You could spend …\n\ntime where you can buy books\n\na lifetime where you can read and books\n\na Library thinking about a sentence\n\na lifetime thinking about a sentence +\n\na Reading Hall thinking about a sentence\n\n2\tHuge stacks of books means…\n\nmuch books\n\nany books\n\ntoo many books +\n\nlittle books\n\nto take books\n\nThe unlimited liberty of reading for the narrator mean…\n\naccess to different types of books.\n\nfreedom in choosing and interpreting books +\n\npossibility to challenge other opinions on the book.\n\nopportunity to select what to read according to the mood.\n\nchance to select what to read according to the mood\n\nI got familiar with …\n\nwonderful work of literate criticism\n\nwonderful works of literary criticism +\n\nwonderful arts of literary criticism\n\nwondering works of literary critics\n\nwonderful stacks of literary writers\n\nFalse statement\n\nThey have taught me to be afraid of something new, unusual or traditional +\n\nThey have taught me not to be afraid of something new, unusual or non traditional.\n\nThey have taught me not to deny it but embrace it\n\nTry to understand even if you cannot agree with it.\n\nNot to stay within the boundaries but always seek for something new. 6 True statement\n\nBut I know only what negative about reading have taught me.\n\nThey have taught me to be afraid of something new, usual or traditional\n\nTo deny it but embrace it and try to understand even if you cannot agree.\n\nTo stay within the boundaries but always seek for something new.\n\nYou could spend a lifetime thinking about a sentence. +\n\nMaking up my own mind means….\n\nTo make up\n\nTo decide +\n\nTo mind\n\nTo change\n\nTo conduct\n\nNot to stay within the boundaries but always….\n\n**Сұрақ 99:** Ответы физика:",
-      "options": [
-        {
-          "key": "A",
-          "text": "Ответы химия:"
+          "text": "8:35"
         },
         {
           "key": "B",
-          "text": "Планета, небесное тело | Ускорение свободного тела , м/с2 | Планета, небесное тело | Ускорение свободного тела\n, м/с2"
+          "text": "8:40"
         },
         {
           "key": "C",
-          "text": "Меркурий | 3,7 | Юпитер | 24,9"
+          "text": "8:20"
         },
         {
           "key": "D",
-          "text": "Венера | 8,9 | Сатурн | 10,6"
+          "text": "8:15"
         },
         {
           "key": "E",
-          "text": "Земля | 9,8 | Уран | 8,7"
+          "text": "8:25"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q2",
+      "question_number": 2,
+      "question_text": "Айқын зашел в гости к своим друзьям Мирасу, Алишеру и Рахмади, а затем вернулся к себе домой. Если он прошел по самому короткому пути, определите его маршрут.\n\n<img src=\"images/math_326882/image2.jpeg\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "Айқын → Алишер → Мирас → Рахмади → Айқын"
+        },
+        {
+          "key": "B",
+          "text": "Айқын → Рахмади → Мирас → Алишер → Айқын"
+        },
+        {
+          "key": "C",
+          "text": "Айқын → Мирас → Алишер → Рахмади → Айқын"
+        },
+        {
+          "key": "D",
+          "text": "Айқын → Алишер → Рахмади → Мирас → Айқын"
+        },
+        {
+          "key": "E",
+          "text": "Айқын → Мирас → Рахмади → Алишер → Айқын"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q3",
+      "question_number": 3,
+      "question_text": "Числа внутри круга получены в результате определенных арифметических действий. Найдите число вместо вопросительного знака.\n\n<img src=\"images/math_326882/image3.jpeg\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "89"
+        },
+        {
+          "key": "B",
+          "text": "122"
+        },
+        {
+          "key": "C",
+          "text": "86"
+        },
+        {
+          "key": "D",
+          "text": "82"
+        },
+        {
+          "key": "E",
+          "text": "125"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q4",
+      "question_number": 4,
+      "question_text": "Арман организует день рождения и решил выяснить предпочтения гостей для выбора настольных игр. Гости могут выбрать одну или обе игры: «TEZ TAP» и «Казахское ханство». Опрос показал, что из 18 гостей 8 выбрали «TEZ TAP», а 11 – «Казахское ханство». Двое гостей не сделали выбор. Сколько гостей выбрали обе игры одновременно?",
+      "options": [
+        {
+          "key": "A",
+          "text": "3"
+        },
+        {
+          "key": "B",
+          "text": "2"
+        },
+        {
+          "key": "C",
+          "text": "4"
+        },
+        {
+          "key": "D",
+          "text": "5"
+        },
+        {
+          "key": "E",
+          "text": "1"
         }
       ],
       "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q5",
+      "question_number": 5,
+      "question_text": "В швейном цеху работает 108 швей. Если 25% из всех 120 швейных машин ежедневно отправляются на ремонт, сколько выходных дней будет у каждой швеи за один месяц (30 дней)?\n\n<img src=\"images/math_326882/image4.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "5 дней"
+        },
+        {
+          "key": "B",
+          "text": "4 дня"
+        },
+        {
+          "key": "C",
+          "text": "3 дня"
+        },
+        {
+          "key": "D",
+          "text": "7 дней"
+        },
+        {
+          "key": "E",
+          "text": "2 дня"
+        }
+      ],
+      "correct_answer": "A",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q6",
+      "question_number": 6,
+      "question_text": "Фирма предоставила текущие расходы за месяц в виде круговой диаграммы. Общая сумма расходов составила 920 800 тг. Найдите расходы фирмы на рекламу и страхование.\n\n<img src=\"images/math_326882/image5.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "211 784 тг"
+        },
+        {
+          "key": "B",
+          "text": "119 704 тг"
+        },
+        {
+          "key": "C",
+          "text": "64 456 тг"
+        },
+        {
+          "key": "D",
+          "text": "101 288 тг"
+        },
+        {
+          "key": "E",
+          "text": "165 744 тг"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q7",
+      "question_number": 7,
+      "question_text": "Шары расположены в форме треугольника так, что в первом ряду 1 шар, во втором - 2, в третьем - 3 и так далее. Если общее число шаров равно 153, в сколько рядов они расположены?\n\n<img src=\"images/math_326882/image6.png\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "15 рядов"
+        },
+        {
+          "key": "B",
+          "text": "23 ряда"
+        },
+        {
+          "key": "C",
+          "text": "17 рядов"
+        },
+        {
+          "key": "D",
+          "text": "18 рядов"
+        },
+        {
+          "key": "E",
+          "text": "21 ряд"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q8",
+      "question_number": 8,
+      "question_text": "Дана система уравнений:\n$$\\begin{cases} a + c = 4 \\\\ b + c = 2 \\end{cases}$$\nНайдите значение выражения $(a - b)^4$.",
+      "options": [
+        {
+          "key": "A",
+          "text": "81"
+        },
+        {
+          "key": "B",
+          "text": "32"
+        },
+        {
+          "key": "C",
+          "text": "27"
+        },
+        {
+          "key": "D",
+          "text": "8"
+        },
+        {
+          "key": "E",
+          "text": "16"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q9",
+      "question_number": 9,
+      "question_text": "Найдите отношение площади закрашенной фигуры к незакрашенной на рисунке (площадь одной клетки равна 1 см²).\n\n<img src=\"images/math_326882/image7.jpeg\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "<img src=\"images/math_326882/image8.png\" style=\"max-height:40px; vertical-align:middle;\" />"
+        },
+        {
+          "key": "B",
+          "text": "<img src=\"images/math_326882/image9.png\" style=\"max-height:40px; vertical-align:middle;\" />"
+        },
+        {
+          "key": "C",
+          "text": "<img src=\"images/math_326882/image10.png\" style=\"max-height:40px; vertical-align:middle;\" />"
+        },
+        {
+          "key": "D",
+          "text": "<img src=\"images/math_326882/image11.png\" style=\"max-height:40px; vertical-align:middle;\" />"
+        },
+        {
+          "key": "E",
+          "text": "<img src=\"images/math_326882/image12.png\" style=\"max-height:40px; vertical-align:middle;\" />"
+        }
+      ],
+      "correct_answer": "D",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q10",
+      "question_number": 10,
+      "question_text": "Строительная бригада приняла заказ на асфальтирование двора жилого комплекса «Sensata». Если на 1 м² требуется 150 кг асфальта и детская площадка не асфальтируется, сколько тонн асфальта потребуется? План двора с размерами приведен на рисунке.\n\n<img src=\"images/math_326882/image13.jpeg\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "2240 т"
+        },
+        {
+          "key": "B",
+          "text": "3540 т"
+        },
+        {
+          "key": "C",
+          "text": "4230 т"
+        },
+        {
+          "key": "D",
+          "text": "4500 т"
+        },
+        {
+          "key": "E",
+          "text": "5340 т"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q11",
+      "question_number": 11,
+      "question_text": "Новая логическая операция задана как $a \\circ b = a^2 - b$. Найдите значение числового выражения $3 \\circ 2$.",
+      "options": [
+        {
+          "key": "A",
+          "text": "5"
+        },
+        {
+          "key": "B",
+          "text": "7"
+        },
+        {
+          "key": "C",
+          "text": "8"
+        },
+        {
+          "key": "D",
+          "text": "6"
+        },
+        {
+          "key": "E",
+          "text": "2"
+        }
+      ],
+      "correct_answer": "B",
+      "answer_source": "official_key"
+    },
+    {
+      "id": "q12",
+      "question_number": 12,
+      "question_text": "Данияр начал красить забор в 10:30. Закрашенную часть забора (слева) он закончил в 12:00. Работая с такой же скоростью, во сколько он завершит покраску всего забора?\n\n<img src=\"images/math_326882/image14.jpeg\" style=\"max-width:100%; height:auto; margin:10px 0; display:block;\" />",
+      "options": [
+        {
+          "key": "A",
+          "text": "13:00"
+        },
+        {
+          "key": "B",
+          "text": "15:00"
+        },
+        {
+          "key": "C",
+          "text": "13:30"
+        },
+        {
+          "key": "D",
+          "text": "13:45"
+        },
+        {
+          "key": "E",
+          "text": "14:00"
+        }
+      ],
+      "correct_answer": "C",
+      "answer_source": "ai_solved"
+    },
+    {
+      "id": "q13",
+      "question_number": 13,
+      "question_text": "Для нумерации страниц книги было использовано 900 цифр. Сколько всего страниц в этой книге?",
+      "options": [
+        {
+          "key": "A",
+          "text": "239"
+        },
+        {
+          "key": "B",
+          "text": "234"
+        },
+        {
+          "key": "C",
+          "text": "339"
+        },
+        {
+          "key": "D",
+          "text": "237"
+        },
+        {
+          "key": "E",
+          "text": "336"
+        }
+      ],
+      "correct_answer": "E",
+      "answer_source": "ai_solved"
     }
   ]
 }
