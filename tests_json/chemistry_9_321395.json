@@ -5,8 +5,8 @@
   "grade": 9,
   "language": "kk",
   "source_file": "модо тапсырмалары.pdf",
-  "total_questions": 243,
-  "verified_questions": 243,
+  "total_questions": 239,
+  "verified_questions": 239,
   "answer_sources_distribution": {
     "ai_solved": 248
   },
@@ -636,8 +636,29 @@
       "id": "v4_q1",
       "variant": "4-нұсқа",
       "question_number": 1,
-      "question_text": "Тамыр арқылы жүзеге асатын қоректену түрі a) Ауа арқылы b) Жел арқылы c) Күн арқылы d) Минералды e) Механикалық",
-      "options": [],
+      "question_text": "Тамыр арқылы жүзеге асатын қоректену түрі",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ауа арқылы"
+        },
+        {
+          "key": "B",
+          "text": "Жел арқылы"
+        },
+        {
+          "key": "C",
+          "text": "Күн арқылы"
+        },
+        {
+          "key": "D",
+          "text": "Минералды"
+        },
+        {
+          "key": "E",
+          "text": "Механикалық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -646,8 +667,29 @@
       "id": "v4_q2",
       "variant": "4-нұсқа",
       "question_number": 2,
-      "question_text": "Жапырақ қызметіне жатпайды a) Фотосинтез b) Судың булануы c) Газ алмасу d) Тұздар сіңіру e) Қор жинау",
-      "options": [],
+      "question_text": "Жапырақ қызметіне жатпайды",
+      "options": [
+        {
+          "key": "A",
+          "text": "Фотосинтез"
+        },
+        {
+          "key": "B",
+          "text": "Судың булануы"
+        },
+        {
+          "key": "C",
+          "text": "Газ алмасу"
+        },
+        {
+          "key": "D",
+          "text": "Тұздар сіңіру"
+        },
+        {
+          "key": "E",
+          "text": "Қор жинау"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -656,8 +698,29 @@
       "id": "v4_q3",
       "variant": "4-нұсқа",
       "question_number": 3,
-      "question_text": "Жапрықтың сыртқы құрылысына жатады a) Борпылдақ мезофилл b) Бағаналы мезофилл c) Өткізгіш шоқ d) Жапырақ тақтасы e) Жанаспалы жасуша",
-      "options": [],
+      "question_text": "Жапрықтың сыртқы құрылысына жатады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Борпылдақ мезофилл"
+        },
+        {
+          "key": "B",
+          "text": "Бағаналы мезофилл"
+        },
+        {
+          "key": "C",
+          "text": "Өткізгіш шоқ"
+        },
+        {
+          "key": "D",
+          "text": "Жапырақ тақтасы"
+        },
+        {
+          "key": "E",
+          "text": "Жанаспалы жасуша"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -666,8 +729,29 @@
       "id": "v4_q4",
       "variant": "4-нұсқа",
       "question_number": 4,
-      "question_text": "Жанаспал жасушалар ортасында орналасады a) Борпылдақ мезофилл b) Бағаналы мезофилл c) Өткізгіш шоқ d) Тыныс саңылауы e) Өң жасушалары Қанайналым жүйесі — денедегі қан немесе гемолимфаның үздіксіз қозғалысын қамтамасыз ететін тамырлар мен қуыстардың жүйесі. Көптеген омыртқасыз жәндіктерде қанайналым жүйесі тұйықталмаған, яғни қан тамырларының аралықтарында қан құйылатын саңылаулы қуыстар болады. Адам мен барлық омыртқалы жануарларда және кейбір жоғары сатыдағы омыртқасыз жәндіктерде қанайналым жүйесі тұйықталған, яғни қан тек бір- бірімен толық байланысып жалғасып жатқан қан тамырлары арқылы ғана қозғалады.",
-      "options": [],
+      "question_text": "Жанаспал жасушалар ортасында орналасады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Борпылдақ мезофилл"
+        },
+        {
+          "key": "B",
+          "text": "Бағаналы мезофилл"
+        },
+        {
+          "key": "C",
+          "text": "Өткізгіш шоқ"
+        },
+        {
+          "key": "D",
+          "text": "Тыныс саңылауы"
+        },
+        {
+          "key": "E",
+          "text": "Өң жасушалары"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -1164,46 +1248,6 @@
           "text": "Д, С, РР, В"
         }
       ],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v6_q1",
-      "variant": "6-нұсқа",
-      "question_number": 1,
-      "question_text": "Ағзаның жұқпалы ауруларға қарсы тұруын арттырады. Ол антидене синтездейтін ферменттердің құрамына кіреді.",
-      "options": [],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v6_q2",
-      "variant": "6-нұсқа",
-      "question_number": 2,
-      "question_text": "Сүйек пен тістің берік болуына әсер етеді.",
-      "options": [],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v6_q3",
-      "variant": "6-нұсқа",
-      "question_number": 3,
-      "question_text": "Эпителий ұлпасының қалпына келу жылдамдығын арттырады. Соның нәтижесінде қан тамырларының серпімділігі (эластикалығы) жоғарылап, оның зақымдануына және тозуына кедергі келтіреді.",
-      "options": [],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v6_q4",
-      "variant": "6-нұсқа",
-      "question_number": 4,
-      "question_text": "Биологиялық тотығу кезінде бөлінетін зиянды заттардың (бос радикал деп аталатын) бұзылуына қатысады.",
-      "options": [],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3308,8 +3352,29 @@
       "id": "v15_q1",
       "variant": "15-нұсқа",
       "question_number": 1,
-      "question_text": "Оттексіз тіршілік ете алатын тіршілік иелері а) прокариодтар б) эукариодтар в) аэробты ағзалар г) анаэробты ағзалар д) протистер",
-      "options": [],
+      "question_text": "Оттексіз тіршілік ете алатын тіршілік иелері",
+      "options": [
+        {
+          "key": "А",
+          "text": "прокариодтар"
+        },
+        {
+          "key": "Б",
+          "text": "эукариодтар"
+        },
+        {
+          "key": "В",
+          "text": "аэробты ағзалар"
+        },
+        {
+          "key": "Г",
+          "text": "анаэробты ағзалар"
+        },
+        {
+          "key": "Д",
+          "text": "протистер"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3318,8 +3383,29 @@
       "id": "v15_q2",
       "variant": "15-нұсқа",
       "question_number": 2,
-      "question_text": "Оттек қатысатын күрделі химиялық үдеріс а) бөліп шығару б) тыныс алу в) көбею г) қоректену д) тітіркену",
-      "options": [],
+      "question_text": "Оттек қатысатын күрделі химиялық үдеріс",
+      "options": [
+        {
+          "key": "А",
+          "text": "бөліп шығару"
+        },
+        {
+          "key": "Б",
+          "text": "тыныс алу"
+        },
+        {
+          "key": "В",
+          "text": "көбею"
+        },
+        {
+          "key": "Г",
+          "text": "қоректену"
+        },
+        {
+          "key": "Д",
+          "text": "тітіркену"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3328,8 +3414,29 @@
       "id": "v15_q3",
       "variant": "15-нұсқа",
       "question_number": 3,
-      "question_text": "Жәндік денесінде күшті тармақталған тыныс алу түтікшелері а) кеңірдек б) бронх в) өкпе г) желбезек д) ауа қапшығы",
-      "options": [],
+      "question_text": "Жәндік денесінде күшті тармақталған тыныс алу түтікшелері",
+      "options": [
+        {
+          "key": "А",
+          "text": "кеңірдек"
+        },
+        {
+          "key": "Б",
+          "text": "бронх"
+        },
+        {
+          "key": "В",
+          "text": "өкпе"
+        },
+        {
+          "key": "Г",
+          "text": "желбезек"
+        },
+        {
+          "key": "Д",
+          "text": "ауа қапшығы"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3338,8 +3445,29 @@
       "id": "v15_q4",
       "variant": "15-нұсқа",
       "question_number": 4,
-      "question_text": "Кеңірдекке ауа түсетін тесік не деп аталады а) демтүтік б) бронх в) жұтқыншақ г) бойлық кеңірдек д) желбезек доғалары Суретте адамның тыныс алу мүшелері берілген Тыныс алудың маңызы Газ алмасады Энергия бөліп шығарады Органикалық заттарды тотықтырып, ыдыратады\n\n<img src=\"images/bio321395_p27_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
-      "options": [],
+      "question_text": "Кеңірдекке ауа түсетін тесік не деп аталады",
+      "options": [
+        {
+          "key": "А",
+          "text": "демтүтік"
+        },
+        {
+          "key": "Б",
+          "text": "бронх"
+        },
+        {
+          "key": "В",
+          "text": "жұтқыншақ"
+        },
+        {
+          "key": "Г",
+          "text": "бойлық кеңірдек"
+        },
+        {
+          "key": "Д",
+          "text": "желбезек доғалары"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3379,8 +3507,29 @@
       "id": "v15_q6",
       "variant": "15-нұсқа",
       "question_number": 6,
-      "question_text": "Қан капилярлары көп, шырышты бездер төселген мүше а) жұтқыншақ б) көмей в) өкпе г) мұрын қуысы д) кеңірдек",
-      "options": [],
+      "question_text": "Қан капилярлары көп, шырышты бездер төселген мүше",
+      "options": [
+        {
+          "key": "А",
+          "text": "жұтқыншақ"
+        },
+        {
+          "key": "Б",
+          "text": "көмей"
+        },
+        {
+          "key": "В",
+          "text": "өкпе"
+        },
+        {
+          "key": "Г",
+          "text": "мұрын қуысы"
+        },
+        {
+          "key": "Д",
+          "text": "кеңірдек"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3389,8 +3538,29 @@
       "id": "v15_q7",
       "variant": "15-нұсқа",
       "question_number": 7,
-      "question_text": "Ауыз және мұрын қуысы жалғанатын орын а) өкпе б) мұрын қуысы в) көмей г) кеңірдек д) жұтқыншақ",
-      "options": [],
+      "question_text": "Ауыз және мұрын қуысы жалғанатын орын",
+      "options": [
+        {
+          "key": "А",
+          "text": "өкпе"
+        },
+        {
+          "key": "Б",
+          "text": "мұрын қуысы"
+        },
+        {
+          "key": "В",
+          "text": "көмей"
+        },
+        {
+          "key": "Г",
+          "text": "кеңірдек"
+        },
+        {
+          "key": "Д",
+          "text": "жұтқыншақ"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -3399,8 +3569,29 @@
       "id": "v15_q8",
       "variant": "15-нұсқа",
       "question_number": 8,
-      "question_text": "Тыныс алу орталығы қайда орналасқан а) сопақша ми б) мишық в) үлкен ми сыңары г) ми көмірі д) аралық ми",
-      "options": [],
+      "question_text": "Тыныс алу орталығы қайда орналасқан",
+      "options": [
+        {
+          "key": "А",
+          "text": "сопақша ми"
+        },
+        {
+          "key": "Б",
+          "text": "мишық"
+        },
+        {
+          "key": "В",
+          "text": "үлкен ми сыңары"
+        },
+        {
+          "key": "Г",
+          "text": "ми көмірі"
+        },
+        {
+          "key": "Д",
+          "text": "аралық ми"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5621,8 +5812,29 @@
       "id": "v24_q5",
       "variant": "24-нұсқа",
       "question_number": 5,
-      "question_text": "Көздің таяқш тәрізді жасушарарына тән пигмент a) Хлоропласт b) Меланин c) Родопсин d) Иодопсин e) хлрофилл",
-      "options": [],
+      "question_text": "Көздің таяқш тәрізді жасушарарына тән пигмент",
+      "options": [
+        {
+          "key": "A",
+          "text": "Хлоропласт"
+        },
+        {
+          "key": "B",
+          "text": "Меланин"
+        },
+        {
+          "key": "C",
+          "text": "Родопсин"
+        },
+        {
+          "key": "D",
+          "text": "Иодопсин"
+        },
+        {
+          "key": "E",
+          "text": "хлрофилл"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5631,8 +5843,29 @@
       "id": "v24_q6",
       "variant": "24-нұсқа",
       "question_number": 6,
-      "question_text": "Торлы қабықшаның ортасында орналасқан a) Құтыша b) Таяқша c) Рецептор d) Жүйке импульсі e) Ақ қабық",
-      "options": [],
+      "question_text": "Торлы қабықшаның ортасында орналасқан",
+      "options": [
+        {
+          "key": "A",
+          "text": "Құтыша"
+        },
+        {
+          "key": "B",
+          "text": "Таяқша"
+        },
+        {
+          "key": "C",
+          "text": "Рецептор"
+        },
+        {
+          "key": "D",
+          "text": "Жүйке импульсі"
+        },
+        {
+          "key": "E",
+          "text": "Ақ қабық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5641,8 +5874,29 @@
       "id": "v24_q7",
       "variant": "24-нұсқа",
       "question_number": 7,
-      "question_text": "Торлы қабықшада сары дақпен қоса кездеседі a) Сары дақ b) Соқыр дақ c) Қара дақ d) Қоңыр дақ e) Ақ дақ",
-      "options": [],
+      "question_text": "Торлы қабықшада сары дақпен қоса кездеседі",
+      "options": [
+        {
+          "key": "A",
+          "text": "Сары дақ"
+        },
+        {
+          "key": "B",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "C",
+          "text": "Қара дақ"
+        },
+        {
+          "key": "D",
+          "text": "Қоңыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Ақ дақ"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5651,8 +5905,29 @@
       "id": "v24_q8",
       "variant": "24-нұсқа",
       "question_number": 8,
-      "question_text": "Нұрлы қабық орталығында болады a) Тор қабық b) қарашық c) ақ қабық d) соқыр дақ e) жас безі",
-      "options": [],
+      "question_text": "Нұрлы қабық орталығында болады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Тор қабық"
+        },
+        {
+          "key": "B",
+          "text": "қарашық"
+        },
+        {
+          "key": "C",
+          "text": "ақ қабық"
+        },
+        {
+          "key": "D",
+          "text": "соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "жас безі"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5661,8 +5936,29 @@
       "id": "v25_q1",
       "variant": "25-нұсқа",
       "question_number": 1,
-      "question_text": "Қарашық мөлшерін реттейді a) Алдыңғы камера b) Қасаң қабық c) Нұрлы қабық d) Соқыр дақ e) Қарашық",
-      "options": [],
+      "question_text": "Қарашық мөлшерін реттейді",
+      "options": [
+        {
+          "key": "A",
+          "text": "Алдыңғы камера"
+        },
+        {
+          "key": "B",
+          "text": "Қасаң қабық"
+        },
+        {
+          "key": "C",
+          "text": "Нұрлы қабық"
+        },
+        {
+          "key": "D",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Қарашық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5671,8 +5967,29 @@
       "id": "v25_q2",
       "variant": "25-нұсқа",
       "question_number": 2,
-      "question_text": "Жарыққа сезімтал рецепторлар орналасады a) Алдыңғы камера b) Қасаң қабық c) Тор қабық d) Соқыр дақ e) Қарашық",
-      "options": [],
+      "question_text": "Жарыққа сезімтал рецепторлар орналасады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Алдыңғы камера"
+        },
+        {
+          "key": "B",
+          "text": "Қасаң қабық"
+        },
+        {
+          "key": "C",
+          "text": "Тор қабық"
+        },
+        {
+          "key": "D",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Қарашық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5681,8 +5998,29 @@
       "id": "v25_q3",
       "variant": "25-нұсқа",
       "question_number": 3,
-      "question_text": "Көзді қоректік заттармен және оттекпен қамтамасыз етеді a) Тамырлы қабық b) Нұрлы қабық c) Қарашық d) Соқыр дақ e) Тор қабық",
-      "options": [],
+      "question_text": "Көзді қоректік заттармен және оттекпен қамтамасыз етеді",
+      "options": [
+        {
+          "key": "A",
+          "text": "Тамырлы қабық"
+        },
+        {
+          "key": "B",
+          "text": "Нұрлы қабық"
+        },
+        {
+          "key": "C",
+          "text": "Қарашық"
+        },
+        {
+          "key": "D",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Тор қабық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5691,8 +6029,29 @@
       "id": "v25_q4",
       "variant": "25-нұсқа",
       "question_number": 4,
-      "question_text": "Көзбұршақтан кейін орналасқан оптикалық жүйе a) Аккомодация b) Қарашық c) Нұрлы қабық d) Шыны тәрізді дене e) Тамыры қабық",
-      "options": [],
+      "question_text": "Көзбұршақтан кейін орналасқан оптикалық жүйе",
+      "options": [
+        {
+          "key": "A",
+          "text": "Аккомодация"
+        },
+        {
+          "key": "B",
+          "text": "Қарашық"
+        },
+        {
+          "key": "C",
+          "text": "Нұрлы қабық"
+        },
+        {
+          "key": "D",
+          "text": "Шыны тәрізді дене"
+        },
+        {
+          "key": "E",
+          "text": "Тамыры қабық"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5701,8 +6060,29 @@
       "id": "v25_q5",
       "variant": "25-нұсқа",
       "question_number": 5,
-      "question_text": "Есту рецепторларында қалыптасқан тепе-теңдік мүшесі a) Дабыл жарғағы b) Вестибула аппараты c) Мишық d) Соқыр дақ e) Евстахий түтігі",
-      "options": [],
+      "question_text": "Есту рецепторларында қалыптасқан тепе-теңдік мүшесі",
+      "options": [
+        {
+          "key": "A",
+          "text": "Дабыл жарғағы"
+        },
+        {
+          "key": "B",
+          "text": "Вестибула аппараты"
+        },
+        {
+          "key": "C",
+          "text": "Мишық"
+        },
+        {
+          "key": "D",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Евстахий түтігі"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5711,8 +6091,29 @@
       "id": "v25_q6",
       "variant": "25-нұсқа",
       "question_number": 6,
-      "question_text": "Ортаңғы құлақ жалғасады a) Дабыл жарғағы b) Сыртқы құлақ c) Дыбыс жолы d) Соқыр дақ e) Евстахий түтігі Есту мүшесінің құрылысы Сыртқы құлақ Ортаңғы құлақ Ішкі құлақ",
-      "options": [],
+      "question_text": "Ортаңғы құлақ жалғасады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Дабыл жарғағы"
+        },
+        {
+          "key": "B",
+          "text": "Сыртқы құлақ"
+        },
+        {
+          "key": "C",
+          "text": "Дыбыс жолы"
+        },
+        {
+          "key": "D",
+          "text": "Соқыр дақ"
+        },
+        {
+          "key": "E",
+          "text": "Евстахий түтігі"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5721,8 +6122,29 @@
       "id": "v25_q7",
       "variant": "25-нұсқа",
       "question_number": 7,
-      "question_text": "Ұлуденедегі сұйықтықтың тербелісі тітіркендіреді a) Балғашықты b) Дабыл жарғағын c) Көру рецепторларын d) Төстікті e) Есту рецепторларын . 8. Суреттен 2 санымен берілген сүйекшені анықтаңыз a) Дыбыс жолы b) Евстахий түтігі c) Төстік d) Балғашық e) Үзеңгі\n\n<img src=\"images/bio321395_p47_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p47_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
-      "options": [],
+      "question_text": "Ұлуденедегі сұйықтықтың тербелісі тітіркендіреді",
+      "options": [
+        {
+          "key": "A",
+          "text": "Балғашықты"
+        },
+        {
+          "key": "B",
+          "text": "Дабыл жарғағын"
+        },
+        {
+          "key": "C",
+          "text": "Көру рецепторларын"
+        },
+        {
+          "key": "D",
+          "text": "Төстікті"
+        },
+        {
+          "key": "E",
+          "text": "Есту рецепторларын"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5731,8 +6153,29 @@
       "id": "v26_q1",
       "variant": "26-нұсқа",
       "question_number": 1,
-      "question_text": "Ағзада иммундық жүйенің орталық мүшесі болып саналатын без a) Қалқанша маңы безі b) Ұйқы безі c) Гипофиз d) Бауыр e) Айырша без",
-      "options": [],
+      "question_text": "Ағзада иммундық жүйенің орталық мүшесі болып саналатын без",
+      "options": [
+        {
+          "key": "A",
+          "text": "Қалқанша маңы безі"
+        },
+        {
+          "key": "B",
+          "text": "Ұйқы безі"
+        },
+        {
+          "key": "C",
+          "text": "Гипофиз"
+        },
+        {
+          "key": "D",
+          "text": "Бауыр"
+        },
+        {
+          "key": "E",
+          "text": "Айырша без"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5741,8 +6184,29 @@
       "id": "v26_q2",
       "variant": "26-нұсқа",
       "question_number": 2,
-      "question_text": "Жас балаларда йодтың жетіспеуінен пайда болатын ауру a) Қант диабеті b) Эндемиялық зоб c) Шершевский -Тернер синдромы d) Кретинизм e) Базедов (бадырақ көз)",
-      "options": [],
+      "question_text": "Жас балаларда йодтың жетіспеуінен пайда болатын ауру",
+      "options": [
+        {
+          "key": "A",
+          "text": "Қант диабеті"
+        },
+        {
+          "key": "B",
+          "text": "Эндемиялық зоб"
+        },
+        {
+          "key": "C",
+          "text": "Шершевский -Тернер синдромы"
+        },
+        {
+          "key": "D",
+          "text": "Кретинизм"
+        },
+        {
+          "key": "E",
+          "text": "Базедов (бадырақ көз)"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5751,8 +6215,29 @@
       "id": "v26_q3",
       "variant": "26-нұсқа",
       "question_number": 3,
-      "question_text": "Гипофиз қызметіне тәуелсіз без a) Бүйрек үсті безі b) Қалқанша безі c) Айырша без d) Жыныс безі e) Ұйқы безі",
-      "options": [],
+      "question_text": "Гипофиз қызметіне тәуелсіз без",
+      "options": [
+        {
+          "key": "A",
+          "text": "Бүйрек үсті безі"
+        },
+        {
+          "key": "B",
+          "text": "Қалқанша безі"
+        },
+        {
+          "key": "C",
+          "text": "Айырша без"
+        },
+        {
+          "key": "D",
+          "text": "Жыныс безі"
+        },
+        {
+          "key": "E",
+          "text": "Ұйқы безі"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
@@ -5761,8 +6246,29 @@
       "id": "v26_q4",
       "variant": "26-нұсқа",
       "question_number": 4,
-      "question_text": "Өсу гормоны мөлшерден көп бөлінде адам қандай ауруға шалдығады a) Ергежейлілік b) Гипофункция c) Алыптылық d) Мексидема e) Акромегалия Жасушалық цикл - бөліну арқылы түзілген жаңа жасушаның өзіндік бөлінуге дейінгі кезеңді жасушалықцикл деп атаймыз.",
-      "options": [],
+      "question_text": "Өсу гормоны мөлшерден көп бөлінде адам қандай ауруға шалдығады",
+      "options": [
+        {
+          "key": "A",
+          "text": "Ергежейлілік"
+        },
+        {
+          "key": "B",
+          "text": "Гипофункция"
+        },
+        {
+          "key": "C",
+          "text": "Алыптылық"
+        },
+        {
+          "key": "D",
+          "text": "Мексидема"
+        },
+        {
+          "key": "E",
+          "text": "Акромегалия"
+        }
+      ],
       "correct_answer": "A",
       "answer_source": "official_keys_table",
       "verification_status": "verified"
