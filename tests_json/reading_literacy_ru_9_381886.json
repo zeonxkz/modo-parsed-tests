@@ -45,37 +45,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q2",
-      "question_number": 2,
-      "question_text": "Цель текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "рассмотреть актуальность и востребованность некоторых профессий"
-        },
-        {
-          "key": "B",
-          "text": "познакомить читателей с мнениями экспертов в области образования"
-        },
-        {
-          "key": "C",
-          "text": "рассказать о профессиях-пенсионерах"
-        },
-        {
-          "key": "D",
-          "text": "оценить прогнозы в области IТ технологий"
-        },
-        {
-          "key": "E",
-          "text": "дать информацию о новых профессиях"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q3",
       "question_number": 3,
       "question_text": "Информация, соответствующая тексту",
@@ -304,44 +273,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q1",
-      "question_number": 1,
-      "question_text": "Заголовок, соответствующий тексту",
-      "options": [
-        {
-          "key": "A",
-          "text": "Современный подросток- какой он?"
-        },
-        {
-          "key": "B",
-          "text": "Я подросток"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "document_key",
-      "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№1 -> B).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q29",
-      "question_number": 29,
-      "question_text": "С) Каким должен быть современный подросток?",
-      "options": [
-        {
-          "key": "D",
-          "text": "Интересна ли жизнь современного подростка?"
-        },
-        {
-          "key": "E",
-          "text": "Участие подростков в жизни общества"
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q2",
       "question_number": 2,
       "question_text": "Ключевые слова текста",
@@ -435,64 +366,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q5",
-      "question_number": 5,
-      "question_text": "Цель текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "дать рекомендации подросткам"
-        },
-        {
-          "key": "B",
-          "text": "рассказать о жизни подростков"
-        },
-        {
-          "key": "C",
-          "text": "дать описание основных проблем подростковой жизни"
-        },
-        {
-          "key": "D",
-          "text": "проинформировать родителей об особенностях подросткового возраста"
-        },
-        {
-          "key": "E",
-          "text": "познакомить родителей с возможными рисками подростков"
-        }
-      ],
-      "correct_answer": "C",
-      "answer_source": "document_key",
-      "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№5 -> C).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Жанр текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "статья"
-        },
-        {
-          "key": "B",
-          "text": "реферат     С) репортаж"
-        },
-        {
-          "key": "D",
-          "text": "очерк"
-        },
-        {
-          "key": "E",
-          "text": "аннотация"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q8",
       "question_number": 8,
       "question_text": "Слово «делегируйте» употреблено в тексте в значении",
@@ -552,25 +425,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q38",
-      "question_number": 38,
-      "question_text": "С) Как стать ребёнку успешным в современной жизни?",
-      "options": [
-        {
-          "key": "D",
-          "text": "Как планировать счастье своей семьи?"
-        },
-        {
-          "key": "E",
-          "text": "Как преодолеть проблему «детоцентризма»?"
-        }
-      ],
-      "correct_answer": "D",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ D определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -714,33 +568,6 @@
       "correct_answer": "A",
       "answer_source": "document_key",
       "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№5 -> C).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Стиль текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "официально-деловой"
-        },
-        {
-          "key": "B",
-          "text": "художественный    С) научный"
-        },
-        {
-          "key": "D",
-          "text": "разговорный"
-        },
-        {
-          "key": "E",
-          "text": "публицистический"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -1251,29 +1078,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Абзацы, в которых говорится, что молодые годы - годы учёбы",
-      "options": [
-        {
-          "key": "A",
-          "text": "1,2"
-        },
-        {
-          "key": "B",
-          "text": "4,6    С) 2,3"
-        },
-        {
-          "key": "D",
-          "text": "3,5      е) 2,6"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q7",
       "question_number": 7,
       "question_text": "Информация, отсутствующая в тексте",
@@ -1302,44 +1106,6 @@
       "correct_answer": "A",
       "answer_source": "document_key",
       "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№7 -> Б).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q8",
-      "question_number": 8,
-      "question_text": "К абзацу (1) можно поставить вопрос",
-      "options": [
-        {
-          "key": "A",
-          "text": "Что даёт человеку изучение истории и литературы?"
-        },
-        {
-          "key": "B",
-          "text": "Какие формы отдыха и развлечений автор рекомендует молодёжи?"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q84",
-      "question_number": 84,
-      "question_text": "С) Что будет с человеком, если он прекратит своё образование?",
-      "options": [
-        {
-          "key": "D",
-          "text": "Почему молодому человеку необходимо учиться с самого раннего возраста?"
-        },
-        {
-          "key": "E",
-          "text": "Какой, по мнению автора, будет роль человека в производстве XXI века?"
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант E ('Какой, по мнению автора, будет...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
     },
     {
@@ -1660,25 +1426,6 @@
         {
           "key": "E",
           "text": "искусство"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q98",
-      "question_number": 98,
-      "question_text": "МОДО 9 класс",
-      "options": [
-        {
-          "key": "A",
-          "text": "А знаешь ли ты, каково значение слов алфавит и азбука?"
-        },
-        {
-          "key": "B",
-          "text": "Африке для передачи сообщений люди били в барабан. Он назывался тамтам."
         }
       ],
       "correct_answer": "A",
@@ -2051,37 +1798,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "Цель текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "рассказать о разных видах транспорта"
-        },
-        {
-          "key": "B",
-          "text": "информировать о транспортной инфраструктуре страны"
-        },
-        {
-          "key": "C",
-          "text": "рассказать о транспорте, предназначенном для перевозки населения по определённому расписанию и маршруту"
-        },
-        {
-          "key": "D",
-          "text": "показать, что основным видом транспорта по перевозке пассажиров и груза являются поезда"
-        },
-        {
-          "key": "E",
-          "text": "рекламировать использование такси в Казахстане"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q5",
       "question_number": 5,
       "question_text": "Основным видом транспорта по перевозке пассажиров и груза являются",
@@ -2110,33 +1826,6 @@
       "correct_answer": "C",
       "answer_source": "document_key",
       "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№5 -> C).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Стиль текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "официально-деловой"
-        },
-        {
-          "key": "B",
-          "text": "художественный"
-        },
-        {
-          "key": "D",
-          "text": "разговорный"
-        },
-        {
-          "key": "E",
-          "text": "публицистический"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {
@@ -2349,64 +2038,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q5",
-      "question_number": 5,
-      "question_text": "Стиль текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "научный"
-        },
-        {
-          "key": "B",
-          "text": "официально-деловой             С) публицистический"
-        },
-        {
-          "key": "D",
-          "text": "художественный"
-        },
-        {
-          "key": "E",
-          "text": "разговорный"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_key",
-      "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№5 -> C).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q6",
-      "question_number": 6,
-      "question_text": "Цель текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "рассказать о достопримечательностях Алматы, привлечь внимание туристов"
-        },
-        {
-          "key": "B",
-          "text": "рассказать об Алматы как о городе памятников архитектуры"
-        },
-        {
-          "key": "C",
-          "text": "информировать о музеях и театрах Алматы"
-        },
-        {
-          "key": "D",
-          "text": "рассказать о красоте природы края"
-        },
-        {
-          "key": "E",
-          "text": "рассказать о самых популярных туристических местах Казахстана"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q7",
       "question_number": 7,
       "question_text": "Как вы считаете, какого музыкального инструмента нет в коллекции экспонатов в музее казахских народных инструментов им. Ыкыласа?",
@@ -2484,33 +2115,6 @@
         {
           "key": "E",
           "text": "в 1961 году"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q10",
-      "question_number": 10,
-      "question_text": "Кемпинг – это",
-      "options": [
-        {
-          "key": "A",
-          "text": "гостиница"
-        },
-        {
-          "key": "B",
-          "text": "дом отдыха       С) летний лагерь для автотуристов"
-        },
-        {
-          "key": "D",
-          "text": "гостиничный комплекс"
-        },
-        {
-          "key": "E",
-          "text": "зона отдыха"
         }
       ],
       "correct_answer": "A",
@@ -2975,37 +2579,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q166",
-      "question_number": 166,
-      "question_text": "Цель текста:",
-      "options": [
-        {
-          "key": "A",
-          "text": "описать работу волонтёра"
-        },
-        {
-          "key": "B",
-          "text": "дать характеристику волонтёрских движений"
-        },
-        {
-          "key": "C",
-          "text": "объяснить содержание эмблемы волонтёрского движения"
-        },
-        {
-          "key": "D",
-          "text": "рассказать о волонтёрском движении"
-        },
-        {
-          "key": "E",
-          "text": "призвать к субботнику"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q167",
       "question_number": 167,
       "question_text": "Субботник – это пример волонтёрства. Почему?",
@@ -3189,37 +2762,6 @@
       "correct_answer": "D",
       "answer_source": "document_key",
       "explanation": "Правильный ответ взят из официального ключа ответов в конце документа (№3 -> D).",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q4",
-      "question_number": 4,
-      "question_text": "Тема текста",
-      "options": [
-        {
-          "key": "A",
-          "text": "выставки великих художников"
-        },
-        {
-          "key": "B",
-          "text": "первые русские музеи"
-        },
-        {
-          "key": "C",
-          "text": "произведения русских художников"
-        },
-        {
-          "key": "D",
-          "text": "музеи искусства"
-        },
-        {
-          "key": "E",
-          "text": "меценат П. Третьяков"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {

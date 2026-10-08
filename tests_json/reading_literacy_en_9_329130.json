@@ -384,25 +384,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q14",
-      "question_number": 14,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 14:** What stands for “amusement park”?",
-      "options": [
-        {
-          "key": "A",
-          "text": "An amusement park is a park with a piece of ground adjoining a house, in which grass, flowers, and shrubs may be grown."
-        },
-        {
-          "key": "B",
-          "text": "An amusement park is a place where a bus stops for passengers to get on or off."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('An amusement park is a park wi...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q15",
       "question_number": 15,
       "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nWalt Disney and his heroes\n\nWalt Disney was born in Chicago, his father being Irish Canadian, his mother of German-American origin. He revealed a talent for drawing and an interest in photography early on and after service with the American Red Cross in the First World War. In 1923 he left with his brother Roy for Hollywood and for some years struggled against poverty while producing a series of cartoon films. In 1927 he had some success with the series called \"Oswald the Lucky Rabbit\", but it was not until September 1928, when \"Steamboat Willie\" appeared, the first \"Mickey Mouse\" with sound, that he achieved lasting success. Mickey Mouse became a household word together with such companions as Minnie, Pluto, and — perhaps the favourite of them all — Donald Duck. \"The Three Little Pigs\" and \"Snow White and the Seven Dwarfs\", with their still familiar songs by Frank Churchill, immediately spring to mind. After the Second World War Disney turned his attention to real-life nature studies and non-cartoon films with living actors. After a rather unsuccessful feature cartoon \"The Sleeping Beauty\", he made a triumphant come-back with the very successful \"Mary Poppins\".\n\nIn 1955 he branched out into a different enterprise —\"Disney-land\", a huge amusement park in southern California. Disneyland is situated 27 miles south of Los Angeles, at Anaheim. Of all the show-places none is as famous as Disneyland. This superb kingdom of fantasy linked to technology was created by Walt Disney.\n\nThe park is divided into six themes and there is so much to see and do in each that no one would attempt to see all of them in one visit. For extended visits, there are hotels nearby.\n\nWalt Disney died in California at the age of 65. His works have given so much pleasure for many years to many people, young and old, in many countries.\n\nWhat did Walt Disney do while producing a series of cartoon films? A.revealed a talent for drawing\n\nB. had some success\n\nC. struggled against poverty\n\nD.he made a triumphant come-back\n\n**Сұрақ 15:** Who created the “kingdom of fantasy”?",
@@ -705,29 +686,6 @@
       "correct_answer": "A",
       "answer_source": "ai_solved",
       "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q28",
-      "question_number": 28,
-      "question_text": "**What is the main idea of the text?**\n\nFlood predictions\n\nPaying attention to the risks of floods worldwide.\n\nFloods can be only caused by excessive rain.\n\nGlobal warming is the biggest problem for all countries.\n\n**Сұрақ 28:** Which statement is NOT a cause of floods?",
-      "options": [
-        {
-          "key": "A",
-          "text": "Excessive rains"
-        },
-        {
-          "key": "B",
-          "text": "Rapid snow melting"
-        },
-        {
-          "key": "D",
-          "text": "Hot weather and dry climate"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('Excessive rains...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
     },
     {
@@ -1121,29 +1079,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q44",
-      "question_number": 44,
-      "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 44:** Why can’t the environment naturally eliminate pollutants from it?",
-      "options": [
-        {
-          "key": "A",
-          "text": "since the critical threshold of its ability is compromised and the balance of the ecosystem is broken"
-        },
-        {
-          "key": "B",
-          "text": "since the critical threshold of its ability is compromised"
-        },
-        {
-          "key": "D",
-          "text": "destruction of the biodiversity"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q45",
       "question_number": 45,
       "question_text": "**According to the text, what is the proper definition of the term “Pollution”?**\n\nis a mixture of solid particles and gases in the air\n\nis the release of substances into bodies of water that makes water unsafe for human use and disrupts aquatic ecosystems\n\nis the degradation of natural environment by external substances introduced directly or indirectly\n\ntemporary flooding of a large area resulting from flooding of rivers (lakes) during high water and floods, heavy rains, icy river congestion, heavy snowmelt in the mountains, and other causes.\n\nthere is no right answer\n\n**Сұрақ 45:** What is considered to be complex in terms of the number of different pollutants for the environment?",
@@ -1368,29 +1303,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q53",
-      "question_number": 53,
-      "question_text": "**Instructions: Read the text carefully and do the tasks on the text correctly.**\n\nHistory of the Internet\n\nThe history of the Internet has begun in the middle of the 20th century as a result of rapid development of computer science. Computers of that age were still relatively underperforming and needed constant maintenance. Some kind of an effective and automated method of time-sharing between users needed to be devised and implemented for them to work reliably.\n\nThe first idea that had emerged from that necessity was a concept of multi- tasking. Nowadays we don’t pay much attention to the fact that our computers perform many tasks at once, and that with our computers we can, for example, work and listen to music at the same time.\n\nThe second idea would be a proposition to merge multiple computers into a single network. Each participant of such a network would be able to exchange data with the others. But the exact mechanism of implementation was still largely a mystery. Roughly for ten years the scientists were developing and discarding all kinds of ideas, one after another, preserving those that could be at least somewhat handy bit by bit.\n\nOne should make a distinction between terms ‘the Internet’ and ‘the World Wide Web’. The first one relates to the network architecture in itself. The second one is more of a modern development and constitutes an interface that allows the access to a network for a user. It emerged in 1990 courtesy of CERN scientists, Tim Berners-Lee in particular. He was the inventor of terms such as HTTP, HTML, and also of a web browser.\n\nIn 2020 nearly 4,5 billion people are using the Internet both for work and communication.\n\nThis promising technology still continues its development nowadays, and for now we can’t even fathom what new discoveries this further development can bring.\n\n**Сұрақ 53:** Tim Berners-Lee was one of the inventors of:",
-      "options": [
-        {
-          "key": "B",
-          "text": "HTML"
-        },
-        {
-          "key": "D",
-          "text": "all answers are correct"
-        },
-        {
-          "key": "E",
-          "text": "It can cut and slice the products"
-        }
-      ],
-      "correct_answer": "B",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант B ('HTML...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q54",
       "question_number": 54,
       "question_text": "**What is the main idea of the text?**\n\nUsing 3D printers can create the things we need very quickly and easily\n\nUsing 3D printers can help to cook\n\n3D printers create new life\n\n3D printers are very dangerous for people\n\n**Сұрақ 54:** “Printing food could also help people who suffer from dysphasia”. What does this sentence mean?",
@@ -1419,29 +1331,6 @@
       "correct_answer": "D",
       "answer_source": "ai_solved",
       "explanation": "Вариант D ('printer can treat from dysphas...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q55",
-      "question_number": 55,
-      "question_text": "**Which statement about 3D printer is correct according to the text?**\n\nEating together with family and friends isn’t a traditional activity.\n\nPeople are able to create the things they need very quickly and easily.\n\n3D printer can’t print softer versions of foods\n\nPeople can create new professions\n\n**Сұрақ 55:** Why do scientists concern about the nutritional value of printed food?",
-      "options": [
-        {
-          "key": "A",
-          "text": "People can’t get the nutrients they need from food-based inks and gels"
-        },
-        {
-          "key": "B",
-          "text": "People can print food from a raw 'food ink'"
-        },
-        {
-          "key": "D",
-          "text": "Printed food would be traditional and enjoyable activity."
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Вариант A ('People can’t get the nutrients...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
       "verification_status": "verified"
     },
     {

@@ -13,25 +13,6 @@
   "total_embedded_images": 0,
   "questions": [
     {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "Сыныбы:  9 «А»",
-      "options": [
-        {
-          "key": "A",
-          "text": "Түсініктеме хат"
-        },
-        {
-          "key": "B",
-          "text": "Қазақстан Республикасы Үкіметінің 2012 жылғы 25 маусымдағы № 832 Қаулысы;"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q21",
       "question_number": 21,
       "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\nFloods\n\nFloods are second only to fire as the most common of all natural disasters. They occur almost everywhere in the world, resulting in widespread damage and even death. Consequently, scientists have long tried to perfect their ability to predict floods. There are a number of conditions, from deep snow on the ground to human error, that cause flooding.\n\nWhen deep snow melts it creates a large amount of water. Although deep snow alone rarely causes floods, when it occurs together with heavy rain and sudden warmer weather it can lead to serious flooding. Melting snow also contributes to high water levels in rivers and streams. Heavy rains will result in the rivers overflowing and flooding the surrounding land.\n\nRivers that are covered in ice can also lead to flooding. When ice begins to melt, the surface of the ice cracks and breaks into large pieces. These pieces of ice move and float down the river. Broken ice dams are not the only dam problems that can cause flooding. When a large human-made dam breaks or fails to hold the water collected behind it, the results can be devastating. Dams contain such huge amounts of water behind them that when sudden breaks occur, the destructive force of the water is like a great tidal wave. Unleashed dam waters can travel tens of kilometres, cover the ground in metres of mud and debris, and drown and crush everything and creature in their path.\n\nAlthough scientists cannot always predict exactly when floods will occur, they do know a great deal about when floods are likely, or probably, going to occur. Deep snow, ice-covered rivers, and weak dams are all strong conditions for potential flooding. Hopefully, this knowledge of why floods happen can help us reduce the damage they cause.\n\n**Сұрақ 21:** Floods ...",
@@ -215,25 +196,6 @@
       "correct_answer": "C",
       "answer_source": "ai_solved",
       "explanation": "Вариант C ('Deep snow alone never causes f...') имеет наибольшее смысловое соответствие контексту вопроса МОДО.",
-      "verification_status": "verified"
-    },
-    {
-      "id": "q3",
-      "question_number": 3,
-      "question_text": "**- мәтін бойынша сұрақ құрастырғанда қателеседі;**\n\n- сұрақ-жауап түріндегі емілелерді ескерген кезде қателеседі:\n\n**Сұрақ 3:** Тапсырмаларды орындау барысында білім алушыларға аталған қиындықтардың себептері:",
-      "options": [
-        {
-          "key": "A",
-          "text": "- лексикалық сөздік қорының аздығы."
-        },
-        {
-          "key": "B",
-          "text": "- жаттығулар түрлерін әзірлеу"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ A определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
       "verification_status": "verified"
     },
     {

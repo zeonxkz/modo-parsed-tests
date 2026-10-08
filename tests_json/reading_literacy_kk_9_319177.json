@@ -703,29 +703,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q9",
-      "question_number": 9,
-      "question_text": "**6. The text is about... ***\n\nthe writers who lived in England in the century 16th century\n\nthe life of English people in Shakespeare`s time\n\nShakespeare`s life\n\nthe queen`s and king`s life\n\n**Сұрақ 9:** Answer the questions. What kind of man was Shakespeare? *",
-      "options": [
-        {
-          "key": "E",
-          "text": ""
-        },
-        {
-          "key": "B",
-          "text": "He was a man who was fond of saving money."
-        },
-        {
-          "key": "D",
-          "text": "He was a man who had wonderful optimism."
-        }
-      ],
-      "correct_answer": "E",
-      "answer_source": "ai_solved",
-      "explanation": "Ответ E определен как наиболее вероятный на основе логики школьного курса МОДО РК.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q10",
       "question_number": 10,
       "question_text": "**6. The text is about... ***\n\nthe writers who lived in England in the century 16th century\n\nthe life of English people in Shakespeare`s time\n\nShakespeare`s life\n\nthe queen`s and king`s life\n\n**Сұрақ 10:** Why do you think Shakespeare is well-known throughout the world? *",

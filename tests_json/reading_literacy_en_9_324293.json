@@ -932,25 +932,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "q7",
-      "question_number": 7,
-      "question_text": "**8.What does the term \"For You Page (FYP)\" refer to in the context of TikTok?**\n\nA A page that displays content based on user preferences:\n\nB A page for long videos on TikTok\n\nC A feature that promotes boring content.\n\nD A page with random videos.\n\nE A page for educational videos only.\n\n**Сұрақ 7:** D - Shorter and more attention-grabbing.",
-      "options": [
-        {
-          "key": "A",
-          "text": "page that displays content based on user preferences."
-        },
-        {
-          "key": "D",
-          "text": "People might get used to short videos"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "document_bold",
-      "explanation": "Вариант A выделен полужирным шрифтом в исходном документе.",
-      "verification_status": "verified"
-    },
-    {
       "id": "q37",
       "question_number": 37,
       "question_text": "**Instruction: Read the text carefully and do the tasks on the text correctly.**\n\n**Сұрақ 37:** Turkey earthquake: Where did it hit and why was it so deadly?",

@@ -2059,37 +2059,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "v9_q7",
-      "variant": "9-нұсқа",
-      "question_number": 7,
-      "question_text": "Өт пигменті",
-      "options": [
-        {
-          "key": "A",
-          "text": "Меланин"
-        },
-        {
-          "key": "B",
-          "text": "Билирубин"
-        },
-        {
-          "key": "C",
-          "text": "Каратиноид"
-        },
-        {
-          "key": "D",
-          "text": "Ксонтофилл"
-        },
-        {
-          "key": "E",
-          "text": "Хлорофилл"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
       "id": "v9_q8",
       "variant": "9-нұсқа",
       "question_number": 8,
@@ -2393,25 +2362,6 @@
         {
           "key": "E",
           "text": "Глюкоза"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v11_q2",
-      "variant": "11-нұсқа",
-      "question_number": 2,
-      "question_text": "Ауру тудыратын микробтардан қорғайды, иммунитетті жүзеге асырады",
-      "options": [
-        {
-          "key": "A",
-          "text": "Эритроциттер"
-        },
-        {
-          "key": "B",
-          "text": "Тромбоциттер"
         }
       ],
       "correct_answer": "A",
@@ -4093,25 +4043,6 @@
       "verification_status": "verified"
     },
     {
-      "id": "v18_q1",
-      "variant": "18-нұсқа",
-      "question_number": 1,
-      "question_text": "Суретта А әріпімен берілген құрамында азоты бар органикалық заттардың ыдырауының соңғы өнімдерін анықтаңыз\n\n<img src=\"images/bio321395_p31_img1.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img2.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img3.jpeg\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />\n\n<img src=\"images/bio321395_p31_img4.png\" style=\"max-width:100%; border-radius:8px; margin:12px 0; display:block;\" />",
-      "options": [
-        {
-          "key": "A",
-          "text": "Зәр қышқылы"
-        },
-        {
-          "key": "B",
-          "text": "Несепнәр"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
       "id": "v18_q2",
       "variant": "18-нұсқа",
       "question_number": 2,
@@ -4663,29 +4594,6 @@
         {
           "key": "E",
           "text": "Шапанша қуысы"
-        }
-      ],
-      "correct_answer": "A",
-      "answer_source": "official_keys_table",
-      "verification_status": "verified"
-    },
-    {
-      "id": "v19_q4",
-      "variant": "19-нұсқа",
-      "question_number": 4,
-      "question_text": "Реактивті қозғалады",
-      "options": [
-        {
-          "key": "A",
-          "text": "Сегізаяқ"
-        },
-        {
-          "key": "B",
-          "text": "Амеба"
-        },
-        {
-          "key": "C",
-          "text": "Гидра"
         }
       ],
       "correct_answer": "A",
